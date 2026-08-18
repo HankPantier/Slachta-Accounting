@@ -1,56 +1,82 @@
 {
   "primary": [
     {
-      "url": "/",
-      "label": "Home"
+      "label": "Home",
+      "url": "/"
     },
     {
-      "url": "/industries",
+      "label": "Services",
+      "url": "/services",
+      "children": [
+        {
+          "label": "Outsourced accounting",
+          "url": "/services/accounting"
+        },
+        {
+          "label": "Advisory services",
+          "url": "/services/advisory-services"
+        },
+        {
+          "label": "Payroll",
+          "url": "/services/payroll"
+        },
+        {
+          "label": "Tax plus",
+          "url": "/services/tax"
+        }
+      ]
+    },
+    {
       "label": "Industries we serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/industries/dentists",
-          "label": "Dentists"
+          "label": "Dentists",
+          "url": "/industries/dentists"
         },
         {
-          "url": "/industries/insurance",
-          "label": "Insurance Agencies"
+          "label": "Insurance Agencies",
+          "url": "/industries/insurance"
         },
         {
-          "url": "/industries/architects",
-          "label": "Architects"
+          "label": "Architects",
+          "url": "/industries/architects"
         },
         {
-          "url": "/industries/law",
-          "label": "Law firms"
+          "label": "Law firms",
+          "url": "/industries/law"
         },
         {
-          "url": "/industries/healthcare-and-medical-practices",
-          "label": "Healthcare and medical practices"
+          "label": "Healthcare and medical practices",
+          "url": "/industries/healthcare-and-medical-practices"
         }
       ]
     },
     {
-      "url": "/resources/resources-library",
+      "label": "Who we are",
+      "url": "/who-we-are"
+    },
+    {
+      "label": "Service packages",
+      "url": "/service-packages"
+    },
+    {
       "label": "Resources library",
+      "url": "/resources/resources-library",
       "children": [
         {
-          "url": "/resources/forms-documents-and-links",
-          "label": "Forms documents and links"
+          "label": "Forms documents and links",
+          "url": "/resources/resources-library/forms-documents-and-links"
         },
         {
-          "url": "/resources/refund-tracker",
-          "label": "Refund tracker"
+          "label": "Refund tracker",
+          "url": "/resources/resources-library/refund-tracker"
         }
       ]
     },
     {
-      "url": "/payment",
-      "label": "Payment"
-    },
-    {
-      "url": "/contact",
-      "label": "Contact us"
+      "label": "Contact us",
+      "url": "/contact"
     }
   ]
 }
