@@ -1,52 +1,61 @@
 ---
-title: Korbey Lague PLLP — Boutique CPA Firm in Tyngsborough, MA
+title: Slachta Accounting & Consulting Services LLC — CPA Firm in Stillwater, MN
 url: /
-meta_title: Korbey Lague PLLP — Boutique CPA Firm in Tyngsborough, MA
-meta_description: Korbey Lague PLLP is a boutique CPA firm in Tyngsborough, MA serving businesses across the Merrimack Valley with tax, advisory, and audit services.
-target_keyword: Tyngsborough CPA firm
-canonical_url: https://korbeylague.com/
+meta_title: Slachta Accounting & Consulting Services LLC — CPA Firm in Stillwater, MN
+meta_description: Slachta Accounting & Consulting Services LLC is a CPA firm founded in Stillwater, Minnesota in 2005, serving business owners, dentists, attorneys, and more across Minnesota, Wisconsin, and nationwide.
+target_keyword: Stillwater MN CPA firm
+canonical_url: https://slachtaaccounting.com/
 schema_markup: LocalBusiness
 hero: hero
 hero_variant: statement
-hero_headline: Three generations of CPAs who actually *answer*.
-hero_eyebrow: Tyngsborough, MA · Since 1972
-hero_subhead: Boutique tax, advisory, and audit for closely held businesses across the Merrimack Valley.
+hero_headline: Accounting and consulting that keeps your business moving forward.
+hero_eyebrow: Stillwater, MN · Founded 2005
+hero_subhead: Outsourced accounting, payroll, and business tax services for small businesses, dentists, and service professionals — across Minnesota, Wisconsin, and nationwide.
 hero_image: hero-office.png
-hero_image_alt: The Korbey Lague office in Tyngsborough
+hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, Minnesota
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Three Generations of CPAs Who Actually Pick Up the Phone
+## A Trusted Partner for Business Owners Since 2005
 
-Korbey Lague PLLP has been the CPA firm of choice for closely held businesses across the Merrimack Valley since 1972. We're small enough to know you by name and big enough to handle whatever your business throws at us.
+Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesota with a simple mission: give business owners the financial clarity and support they need to grow with confidence. We work with entrepreneurs, dentists, attorneys, insurance agencies, architects, and specialty healthcare providers — serving clients across Minnesota, Wisconsin, and nationwide.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## What We Do
 
-- Calculator: **Tax Strategy & Compliance** — Year-round planning, not just season-end filing.
-- Briefcase: **Advisory & Virtual CFO** — Financial oversight on a fractional basis.
-- ChartLine: **Audit & Assurance** — For nonprofits, foundations, and closely held companies.
+- Calculator: **Outsourced Accounting** — Accurate, reliable bookkeeping and accounting so you can focus on running your business.
+- Briefcase: **Payroll Services** — Timely, compliant payroll processing handled for you from start to finish.
+- ChartLine: **Business Tax Services** — Strategic tax planning and compliance designed around your business goals.
 
 <!-- block: content-split | variant: image-right -->
-## Built on Relationships, Not Transactions
+## More Than a Number-Cruncher — A Real Business Partner
 
-![The Korbey Lague partner team in their Tyngsborough office](team-photo.png)
+![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
 
-When you call us, you get the partner who knows your business — not a rotating cast of associates. That's been our promise for fifty years and it's not changing.
+Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers — whether that's managing day-to-day accounting, evaluating retirement plan options, or working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
+
+<!-- block: checklist-section | variant: standalone -->
+## Who We Work With
+
+We have deep experience serving:
+
+- Business owners and entrepreneurs at every stage
+- Dental practices
+- Attorneys and law firms
+- Insurance agencies
+- Architects and design firms
+- Specialty healthcare service providers
 
 <!-- block: cta-banner | variant: color-bg -->
-## Ready to Have a Real Conversation?
+## Ready to Get Your Finances Under Control?
 
-No commitment. No jargon. Just a clear picture of where your business stands today.
+Let's talk about where your business is today and where you want it to go. No pressure, no jargon — just straightforward guidance from a team that's been doing this since 2005.
 
 <!-- block: form | variant: contact -->
 ## Get in Touch
 
-Tell us about your business and we'll be in touch within one business day.
+Tell us a little about your business and we'll be in touch within one business day.
 
 sidebar:
 
-**Or call us directly:**
-(978) 555-0100
-
-Mon–Fri, 9–5 Eastern.
+**Serving Minnesota, Wisconsin, and nationwide.**
