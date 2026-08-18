@@ -1,6 +1,6 @@
 ---
 title: "Amy Slachta | Slachta Accounting & Consulting Services LLC"
-url: "/https-//www-slachtacpa-com/who-we-are/amy-slachta"
+url: "/who-we-are/amy-slachta"
 meta_title: "Amy Slachta, CPA | Slachta Accounting & Consulting"
 meta_description: "Amy Slachta, CPA, founded Slachta Accounting in Stillwater, Minnesota. A small business owner, she helps dentists and entrepreneurs manage cash flow and growth."
 target_keyword: "amy slachta"
@@ -155,7 +155,7 @@ Amy Slachta founded Slachta Accounting & Consulting Services LLC in 2005 in Stil
       "@type": "ListItem",
       "position": 2,
       "name": "Amy Slachta",
-      "item": "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/amy-slachta"
+      "item": "https://www.slachtacpa.com/who-we-are/amy-slachta"
     }
   ]
 }

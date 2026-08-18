@@ -1,11 +1,11 @@
 ---
 title: "Kendra Quist | Slachta Accounting & Consulting Services LLC"
-url: "/https-//www-slachtacpa-com/who-we-are/kendra-quist"
+url: "/who-we-are/kendra-quist"
 meta_title: "Kendra Quist | Outsourced Accounting for Small Business"
 meta_description: "Meet Kendra Quist, an outsourced accounting specialist at Slachta CPA helping dentists and service-based business owners in Minnesota and Wisconsin manage payroll, taxes, and cash flow."
 target_keyword: "outsourced accounting services for small business owners"
 secondary_keywords: ["payroll services for dental practices","outsourced bookkeeping for dentists","CPA for service-based businesses","business tax services for entrepreneurs","small business accounting and payroll"]
-canonical_url: "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/kendra-quist"
+canonical_url: "https://www.slachtacpa.com/who-we-are/kendra-quist"
 schema_markup: "ProfilePage"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -152,7 +152,7 @@ Kendra Quist is an outsourced accounting specialist at Slachta Accounting & Cons
       "@type": "ListItem",
       "position": 2,
       "name": "Kendra Quist",
-      "item": "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/kendra-quist"
+      "item": "https://www.slachtacpa.com/who-we-are/kendra-quist"
     }
   ]
 }
@@ -202,7 +202,7 @@ Kendra Quist is an outsourced accounting specialist at Slachta Accounting & Cons
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Kendra Quist | Outsourced Accounting for Small Business",
-  "url": "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/kendra-quist",
+  "url": "https://www.slachtacpa.com/who-we-are/kendra-quist",
   "description": "Meet Kendra Quist, an outsourced accounting specialist at Slachta CPA helping dentists and service-based business owners in Minnesota and Wisconsin manage payroll, taxes, and cash flow.",
   "isPartOf": {
     "@type": "WebSite",

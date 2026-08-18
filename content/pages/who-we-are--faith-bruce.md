@@ -1,11 +1,11 @@
 ---
 title: "Faith Bruce | Slachta Accounting & Consulting Services LLC"
-url: "/https-//www-slachtacpa-com/who-we-are/faith-bruce"
+url: "/who-we-are/faith-bruce"
 meta_title: "Faith Bruce, CPA | Accounting Services for Dentists"
 meta_description: "Faith Bruce delivers accounting services for dentists, payroll, and business tax services at Slachta CPA in Stillwater, Minnesota. Schedule a consultation."
 target_keyword: "accounting services for dentists"
 secondary_keywords: ["payroll services for dental practices","outsourced accounting for dentists","CPA for service-based businesses","business tax services for small businesses","dental practice accounting","outsourced bookkeeping for dentists","outsourced CFO services for dentists"]
-canonical_url: "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/faith-bruce"
+canonical_url: "https://www.slachtacpa.com/who-we-are/faith-bruce"
 schema_markup: "ProfilePage"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -15,7 +15,7 @@ hero_subhead: "Straight answers on cash flow, payroll, and taxes from an account
 hero_headline: "Get to know Faith Bruce"
 answer_block: "Faith Bruce is an accountant at Slachta Accounting & Consulting Services in Stillwater, Minnesota, providing outsourced accounting, payroll, and business tax services for dental practices and service-based businesses. She works directly with dentists on cash flow, expense management, and KPI tracking specific to dental practice operations."
 eeat_signals: ["More than a decade of experience serving dental practices and service-based businesses","Direct experience with dental practice payroll for hourly, salaried, and 1099 staff","Coordinates directly with clients' outside financial advisors on retirement and personal planning","Based at a firm operating in Stillwater, Minnesota since 2005","Handles multi-state payroll compliance across Minnesota and Wisconsin"]
-internal_links: [{"url":"/industries/dentists","reason":"Connects Faith's dental client work to the dedicated dentist industry page","anchor_text":"dental practice accounting"},{"url":"/industries/service-based-businesses","reason":"Links to the industry page covering her other core client type","anchor_text":"service-based business clients"},{"url":"/what-we-do/outsourced-accounting","reason":"Points to the full service description behind the accounting work Faith performs","anchor_text":"outsourced accounting services"},{"url":"/services/payroll-services","reason":"Supports the payroll service card with a detailed service page","anchor_text":"payroll processing"},{"url":"/what-we-do/advisory-services","reason":"Backs up the advisory portion of Faith's client work with the firm's advisory services page","anchor_text":"KPI and retirement plan consulting"},{"url":"/https-//www-slachtacpa-com/who-we-are/amy-slachta","reason":"Cross-links to the firm founder's bio for team context","anchor_text":"Amy Slachta"},{"url":"/contact","reason":"Primary page CTA directing readers to book time with Faith or the firm","anchor_text":"schedule a consultation"}]
+internal_links: [{"url":"/industries/dentists","reason":"Connects Faith's dental client work to the dedicated dentist industry page","anchor_text":"dental practice accounting"},{"url":"/industries/service-based-businesses","reason":"Links to the industry page covering her other core client type","anchor_text":"service-based business clients"},{"url":"/what-we-do/outsourced-accounting","reason":"Points to the full service description behind the accounting work Faith performs","anchor_text":"outsourced accounting services"},{"url":"/services/payroll-services","reason":"Supports the payroll service card with a detailed service page","anchor_text":"payroll processing"},{"url":"/what-we-do/advisory-services","reason":"Backs up the advisory portion of Faith's client work with the firm's advisory services page","anchor_text":"KPI and retirement plan consulting"},{"url":"/who-we-are/amy-slachta","reason":"Cross-links to the firm founder's bio for team context","anchor_text":"Amy Slachta"},{"url":"/contact","reason":"Primary page CTA directing readers to book time with Faith or the firm","anchor_text":"schedule a consultation"}]
 faq_block: [{"answer":"Yes. While Faith is based in Stillwater, Minnesota and concentrates on clients in Minnesota and Wisconsin, Slachta Accounting & Consulting Services supports dental and service-based business clients nationwide through remote accounting and payroll systems.","question":"Does Faith Bruce work with dental practices outside Minnesota?"},{"answer":"Faith provides outsourced accounting, payroll processing for mixed staff structures, business tax preparation and filing, and consulting on retirement plans and practice KPIs like overhead ratios and production percentages.","question":"What accounting services does Faith Bruce provide for dentists?"},{"answer":"Yes. Faith regularly works alongside clients' existing financial advisors on retirement plan decisions and personal financial planning, so business and personal financial strategy stay aligned instead of operating separately.","question":"Can Faith coordinate with my financial advisor?"},{"answer":"She tracks cash flow against insurance reimbursement timing, lab and supply expenses, and staffing costs, then flags gaps between production and collections before they become a bigger cash problem.","question":"How does Faith help with dental practice cash flow?"}]
 llm_citation_note: "Faith Bruce is an accountant at Slachta Accounting & Consulting Services LLC in Stillwater, Minnesota, providing outsourced accounting, payroll, business tax services, and KPI/retirement plan consulting for dental practices and service-based businesses across Minnesota, Wisconsin, and nationwide."
 ---
@@ -112,7 +112,7 @@ Faith Bruce is an accountant at Slachta Accounting & Consulting Services in Stil
 - outsourced accounting services → /what-we-do/outsourced-accounting — Points to the full service description behind the accounting work Faith performs
 - payroll processing → /services/payroll-services — Supports the payroll service card with a detailed service page
 - KPI and retirement plan consulting → /what-we-do/advisory-services — Backs up the advisory portion of Faith's client work with the firm's advisory services page
-- Amy Slachta → /https-//www-slachtacpa-com/who-we-are/amy-slachta — Cross-links to the firm founder's bio for team context
+- Amy Slachta → /who-we-are/amy-slachta — Cross-links to the firm founder's bio for team context
 - schedule a consultation → /contact — Primary page CTA directing readers to book time with Faith or the firm
 
 **FAQ Block:**
@@ -164,7 +164,7 @@ Faith Bruce is an accountant at Slachta Accounting & Consulting Services LLC in 
       "@type": "ListItem",
       "position": 2,
       "name": "Faith Bruce",
-      "item": "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/faith-bruce"
+      "item": "https://www.slachtacpa.com/who-we-are/faith-bruce"
     }
   ]
 }
@@ -214,7 +214,7 @@ Faith Bruce is an accountant at Slachta Accounting & Consulting Services LLC in 
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Faith Bruce, CPA | Accounting Services for Dentists",
-  "url": "https://www.slachtacpa.com/https-//www-slachtacpa-com/who-we-are/faith-bruce",
+  "url": "https://www.slachtacpa.com/who-we-are/faith-bruce",
   "description": "Faith Bruce delivers accounting services for dentists, payroll, and business tax services at Slachta CPA in Stillwater, Minnesota. Schedule a consultation.",
   "isPartOf": {
     "@type": "WebSite",
