@@ -30,7 +30,7 @@ Running a specialty healthcare practice, whether you're an oral surgeon, an occu
 We built our healthcare accounting services around the pain points specialty practice owners actually bring to us: reimbursement timing, staffing costs, and knowing which numbers actually predict a good or bad month. If you're trying to get ahead of the financial side of your practice, this is where we start.
 
 <!-- block: content-split | variant: image-right | image: medical-practice-financial-review.jpg | alt: "Specialty healthcare provider and accountant reviewing financial statements in a clinic office" | query: "medical professional reviewing paperwork office" -->
-## Unique Financial Challenges in Specialty Healthcare
+## Unique financial challenges in specialty healthcare
 
 Oral surgeons, occupational therapists, speech therapists, and chiropractors all deal with a financial rhythm most businesses never see. Insurance reimbursements, whether from commercial carriers, Medicare, or Medicaid, can lag 30, 60, even 90 days behind the service date, which means your books can show strong production and thin cash at the same time. Layer in high fixed overhead, specialized equipment, and clinical staff on varied pay structures, and cash flow variability becomes the norm rather than the exception.
 
