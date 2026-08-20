@@ -32,7 +32,7 @@ Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesot
 
 ![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
 
-Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers — whether that's managing day-to-day accounting, evaluating retirement plan options, or working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
+Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers: managing day-to-day accounting, evaluating retirement plan options, and working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
 
 <!-- block: checklist-section | variant: standalone -->
 ## Who We Work With
