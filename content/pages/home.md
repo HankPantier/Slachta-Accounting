@@ -51,11 +51,4 @@ We've built our expertise through experience in serving:
 
 Let's talk about where your business is today and where you want it to go. We won't overwhelm you with complicated language. Instead, you'll get straightforward guidance from a team that's been doing this since 2005.
 
-<!-- block: form | variant: contact -->
-## Get in Touch
-
-Tell us a little about your business and we'll be in touch within one business day.
-
-sidebar:
-
 **Serving Minnesota, Wisconsin, and nationwide.**
