@@ -38,18 +38,18 @@ Each sub-niche carries its own wrinkles. Oral surgeons face significant equipmen
 
 We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections, not just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, then plan around it.
 
-<!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Dentist and accountant discussing tax strategy at a desk" | query: "dentist accountant consultation office" -->
-## Tax Planning & Compliance for Medical Professionals
+<!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Specialty healthcare practice owner and accountant discussing tax strategy at a desk" | query: "healthcare professional accountant consultation office" -->
+## Tax Planning & Compliance for Specialty Healthcare Practices
 
-Tax strategy for physicians and dentists rarely looks like a standard small business return. Entity structure alone, S corp, PLLC, or partnership, changes how income, retirement contributions, and buy-in or buy-out transactions get taxed. We work through those decisions with clients as their practice grows, not just at filing time.
+Tax strategy for oral surgeons, OTs, SLPs, and chiropractors rarely looks like a standard small business return. Entity structure alone — S corp, PLLC, or partnership — changes how income, retirement contributions, and buy-in or buy-out transactions get taxed. We work through those decisions with clients as their practice grows, not just at filing time.
 
-Beyond structure, we track the deductions and credits specific to healthcare operations, including equipment depreciation, continuing education, and retirement plan contributions for both owners and staff. Healthcare tax rules shift regularly at the federal and state level, and specialty practices carry compliance obligations that generic small business advice tends to miss.
+Beyond structure, we track the deductions and credits specific to specialty healthcare operations: surgical equipment depreciation for oral surgery practices, continuing education requirements that vary by license type, and retirement plan options suited to practices with both owner-providers and support staff. Healthcare tax rules shift regularly at the federal and state level, and specialty practices carry compliance obligations that generic small business advice tends to miss.
 
-Our business tax services for medical and dental clients include:
+Our business tax services for specialty healthcare clients include:
 
 - Entity structuring and ownership transition planning for solo and multi-provider practices
-- Depreciation strategy for clinical equipment and facility improvements
-- Retirement plan evaluation, including SEP, SIMPLE, and 401(k) options for owners and staff
+- Depreciation strategy for surgical equipment, therapy equipment, and facility improvements
+- Retirement plan evaluation, including SEP, SIMPLE, and 401(k) options for owners and clinical staff
 - Quarterly estimated tax planning to smooth out reimbursement-driven income swings
 - Coordination with your financial advisor on personal tax and retirement decisions
 
