@@ -2,7 +2,7 @@
 title: "Outsourced accounting | Slachta Accounting & Consulting Services LLC"
 url: "/what-we-do/outsourced-accounting"
 meta_title: "Outsourced Accounting Services | Slachta CPA"
-meta_description: "Outsourced accounting for dentists, attorneys, and service businesses in Minnesota and Wisconsin. Bookkeeping, cash flow, budgeting, and KPI tracking. Since 2005."
+meta_description: "Outsourced accounting for dentists, attorneys, and small businesses in Minnesota and Wisconsin. Bookkeeping, cash flow, budgeting, and KPI tracking. Since 2005."
 target_keyword: "outsourced accounting"
 secondary_keywords: ["outsourced accounting services","outsourced accounting Minnesota","bookkeeping and cash flow management","outsourced accounting for small business"]
 canonical_url: "https://www.slachtacpa.com/what-we-do/outsourced-accounting"
