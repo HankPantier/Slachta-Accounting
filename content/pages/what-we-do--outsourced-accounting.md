@@ -25,7 +25,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 in
 
 Most owners didn't start a dental practice, an insurance agency, or a law firm because they wanted to become bookkeepers. Yet somewhere between hiring staff and managing client relationships, the back office starts eating hours that should go toward the work that actually grows the business.
 
-Outsourced accounting from Slachta Accounting & Consulting Services hands off the day-to-day financial work, bookkeeping, reporting, reconciliations, without handing off your visibility into the numbers. You still see what's happening in your business. You just stop being the one who has to produce it. Since 2005, we've built this service for owners in Stillwater, Minnesota, and across the region who want a firm that answers the phone and knows their business, not a call center that rotates staff every few months.
+Outsourced accounting from Slachta Accounting & Consulting Services hands off the day-to-day financial work, bookkeeping, reporting, reconciliations, without handing off your visibility into the numbers. You still see what's happening in your business. You just stop being the one who has to produce it. Since 2005, we've built this service for owners in Minnesota, Wisconsin and across the United States region who want a firm that answers the phone and knows their business.
 
 <!-- block: service-cards | variant: 3-col -->
 ## What our outsourced accounting services include
