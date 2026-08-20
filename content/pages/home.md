@@ -21,7 +21,7 @@ hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, M
 Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesota with a simple mission: give business owners the financial clarity and support they need to grow with confidence. We work with entrepreneurs, dentists, attorneys, insurance agencies, architects, and specialty healthcare providers in Minnesota, Wisconsin, and nationwide.
 
 <!-- block: feature-grid | variant: 3-col -->
-## What We Do
+## What we do
 
 - Calculator: **Outsourced Accounting:** Accurate, reliable bookkeeping and accounting so you can focus on running your business.
 - Briefcase: **Payroll Services:** Timely, compliant payroll processing handled for you from start to finish.
