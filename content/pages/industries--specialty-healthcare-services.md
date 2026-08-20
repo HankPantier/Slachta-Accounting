@@ -23,7 +23,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Accounting & Consulting for Specialty Healthcare Providers
+## Accounting & consulting for specialty healthcare providers
 
 Running a specialty healthcare practice, whether you're an oral surgeon, an occupational therapist, a speech therapist, or a chiropractor, means managing two businesses at once: patient care and everything behind it. Insurance reimbursements arrive on their own schedule, clinical payroll has to go out regardless, and the overhead of running a specialized practice doesn't wait for a slow month. Slachta Accounting & Consulting Services LLC has worked with specialty healthcare practice owners since 2005, first from our Stillwater, Minnesota office and now for clients across Minnesota, Wisconsin, and nationwide.
 
