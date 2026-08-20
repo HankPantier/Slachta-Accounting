@@ -121,7 +121,7 @@ A: Yes. Slachta works directly with a practice owner's financial advisor on reti
 <!-- block: cta-banner | variant: image-bg | image: dentist-cpa-consultation.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "professional consultation handshake office" -->
 ## Talk with a CPA who understands dental practice finances
 
-Running a dental practice is demanding enough without wrestling with irregular cash flow, payroll complexity, and tax questions that never seem to have a clear answer. Schedule a consultation with Slachta Accounting & Consulting Services LLC to talk through where your practice's accounting, payroll, and tax planning stand today — and what a CPA firm serving dental clients across Minnesota, Wisconsin, and nationwide would recommend next. No obligation, no sales script. If the services make sense for your practice, we'll say so. If they don't yet, we'll say that too.
+Running a dental practice is demanding enough without wrestling with irregular cash flow, payroll complexity, and tax questions that never seem to have a clear answer. Schedule a consultation with Slachta Accounting & Consulting Services LLC to talk through where your practice's accounting, payroll, and tax planning stand today — and what a CPA firm serving dental clients in Minnesota, Wisconsin, and nationwide would recommend next. No obligation, no sales script. If the services make sense for your practice, we'll say so. If they don't yet, we'll say that too.
 
 ---
 ## SEO & AIO Metadata
