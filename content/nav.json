@@ -45,6 +45,10 @@
         {
           "label": "Law firms",
           "url": "/industries/law"
+        },
+        {
+          "label": "Specialty Healthcare Services",
+          "url": "/industries/specialty-healthcare-services"
         }
       ]
     },
