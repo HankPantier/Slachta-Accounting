@@ -54,7 +54,7 @@ Our business tax services for specialty healthcare clients include:
 - Coordination with your financial advisor on personal tax and retirement decisions
 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consulting-meeting.jpg | alt: "Accountant presenting practice financial data to a specialty healthcare business owner" | query: "business consulting meeting healthcare office" -->
-## Practice Management & Financial Consulting
+## Practice management & financial consulting
 
 Knowing your numbers matters more than knowing your production totals. We help oral surgeons, occupational therapists, speech therapists, and chiropractors build budgets around real overhead — not last year's guess — and identify the key performance indicators that actually drive profitability for their practice type: collection rate, provider utilization, overhead as a percentage of revenue, and staff cost ratios.
 
