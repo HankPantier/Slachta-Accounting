@@ -37,7 +37,7 @@ Running a business means juggling cash flow, managing expenses, planning for the
 <!-- block: checklist-section | variant: standalone -->
 ## Who We Work With
 
-We have deep experience serving:
+We've built our expertise through experience in serving:
 
 - Business owners and entrepreneurs at every stage
 - Dental practices
