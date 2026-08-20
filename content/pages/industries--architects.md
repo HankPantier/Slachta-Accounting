@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "architect-financial-review-meeting.jpg"
 hero_image_alt: "Architect and accountant reviewing project budgets at a desk with blueprints"
 hero_subhead: "Outsourced accounting, tax planning, and payroll built around how architecture firms actually bill and grow"
-hero_headline: "Accounting built around how architecture firms operate"
+hero_headline: "Accounting designed around how architecture firms operate"
 answer_block: "Slachta Accounting & Consulting Services provides outsourced accounting, tax planning, and payroll for architecture firms, with expertise in project-based billing and work-in-progress tracking. The firm has served clients from its Stillwater, Minnesota office since 2005 and works with architecture firms throughout Minnesota, Wisconsin, and nationwide."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Direct experience with project-phase billing, work-in-progress tracking, and percentage-of-completion accounting used by architecture firms","Serves clients concentrated in Minnesota and Wisconsin with additional clients nationwide","Provides entity structure and S-corp guidance specific to licensed professional service corporations"]
 internal_links: [{"url":"/industries","reason":"Links to the broader industries hub from an individual industry page","anchor_text":"industries we serve"},{"url":"/what-we-do/outsourced-accounting","reason":"Supports the section detailing bookkeeping and financial statement services","anchor_text":"outsourced accounting services"},{"url":"/services/payroll-services","reason":"Directly relevant to the payroll section for architecture practices","anchor_text":"payroll services"},{"url":"/what-we-do/tax-plus","reason":"Supports the tax planning and preparation section","anchor_text":"tax planning services"},{"url":"/industries/professional-services-firms","reason":"Cross-links to a related niche for licensed professionals","anchor_text":"professional services firms"},{"url":"/get-started","reason":"Secondary conversion path for prospective architecture firm clients","anchor_text":"get started"},{"url":"/contact","reason":"Primary page CTA to book a meeting","anchor_text":"schedule a consultation"}]
@@ -21,7 +21,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 an
 ---
 
 <!-- block: content-split | variant: image-right | image: architecture-firm-accounting.jpg | alt: "Architect and accountant reviewing project financial statements together" | query: "architect meeting accountant office" -->
-## Accounting built around how architecture firms operate
+## Accounting designed around how architecture firms operate
 
 Architecture firms don't bill like retail shops or law offices with flat monthly fees. Revenue moves through project phases: schematic design, design development, construction documents, construction administration. Each phase carries its own billing rhythm, and work-in-progress often sits unbilled for weeks while overhead keeps running. Retainage, reimbursable expenses, and multi-year contracts add another layer that a bookkeeper unfamiliar with A/E firms can easily misclassify.
 
