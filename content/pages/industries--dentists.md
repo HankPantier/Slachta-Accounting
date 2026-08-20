@@ -91,7 +91,7 @@ This is where a longer relationship pays off. A CPA firm that has tracked a prac
 
 National dental-only CPA chains can staff a call center. They can't tell you which lab in your town has a turnaround problem, or how a state fee schedule update actually changes your effective collections rate this year.
 
-Slachta has been based in Stillwater, Minnesota since 2005, and dentists across Minnesota and Wisconsin make up a concentrated part of the client base. The firm also works with dental practice owners outside the region, but the local relationships, knowing your town, your lending bank, your state's licensing requirements, are part of what a dentist gets here that a national outsourcing firm can't replicate.
+Slachta has served dentists since 2005, with a concentrated client base across Minnesota and Wisconsin and a nationwide reach for practices outside the region. The local relationships — knowing your town, your lending bank, your state's licensing requirements — are part of what a dentist gets here that a national outsourcing firm can't replicate.
 
 - 2005: Founded in Stillwater, Minnesota
 - MN & WI: Core geographic concentration
