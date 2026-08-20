@@ -79,7 +79,7 @@ Retirement plan decisions, and personal financial planning generally, work best 
 We evaluate retirement plan options as part of the outsourced accounting relationship and coordinate directly with your financial advisor rather than leaving you to translate between the two. If you're comparing a SEP IRA against a 401(k) for your dental practice, or weighing profit-sharing contributions across a growing team, that conversation happens with your advisor in the room, not after the fact. It's a collaborative model, not a siloed one, and it's how retirement and tax decisions end up aligned instead of working against each other.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for dentists, service businesses, and established small businesses
+## Built for dentists and established small businesses
 
 Generic small-business accounting misses the specifics that matter in your industry. We work with the following client types often enough to know where their numbers typically get complicated.
 
@@ -87,11 +87,6 @@ Generic small-business accounting misses the specifics that matter in your indus
 icon: Stethoscope
 
 Supply cost management, associate compensation structures, and practice cash flow that fluctuates with patient scheduling and insurance reimbursement timing.
-
-### Service-based businesses
-icon: Briefcase
-
-Uneven revenue cycles, project-based cost tracking, and the budgeting discipline that keeps growth from outpacing cash on hand.
 
 ### Insurance agencies
 icon: ShieldCheck
