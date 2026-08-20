@@ -28,7 +28,7 @@ Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesot
 - ChartLine: **Business Tax Services:** Strategic tax planning and compliance designed around your business goals.
 
 <!-- block: content-split | variant: image-right -->
-## More Than a Number-Cruncher: A Real Business Partner
+## More than a number-cruncher: a real business partner
 
 ![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
 
