@@ -30,12 +30,13 @@ Slachta Accounting & Consulting Services LLC was founded in 2005 in Stillwater, 
 <!-- block: checklist-section | variant: with-image-left | image: dental-office-bookkeeping.jpg | alt: "Accountant preparing monthly financial statements for a dental practice" | query: "accountant bookkeeping office paperwork" -->
 ## Outsourced accounting and bookkeeping for dental offices
 
-Year-end surprises are avoidable. Dental practices that use outsourced accounting get monthly bookkeeping, reconciled bank and merchant accounts, and financial statements that reflect what actually happened in the operatory that month, not a guess pieced together in March.
+Year-end surprises are avoidable — and for dental practices, they're also preventable. Insurance payments arrive weeks after treatment, patient financing plans stretch revenue over months, and supply costs spike around equipment purchases or large lab fees. Standard bookkeeping software doesn't handle those patterns well, and a year-end appointment isn't soon enough to act on them.
 
-Slachta's outsourced accounting service replaces the shoebox-of-receipts approach with a monthly close, cash flow tracking, and budgeting built around a dental practice's real cost structure: supplies, lab fees, staffing, and equipment. Owners see collections trends and overhead ratios in real time instead of waiting for a year-end appointment to find out how the practice performed.
+Slachta's outsourced accounting service replaces the shoebox-of-receipts approach with a monthly close that tracks production against collections separately, so a practice owner can see whether a slow month is a scheduling problem or a collections problem before it becomes a cash crunch. Expense tracking is tied to categories that matter for a dental office — lab fees, supplies, equipment, and staff costs — rather than generic line items that make year-end review harder than it needs to be.
 
 - Monthly bookkeeping and account reconciliation
-- Cash flow management tied to production and collections cycles
+- Production vs. collections tracking to isolate the source of cash flow gaps
+- Cash flow management tied to insurance reimbursement timing and financing-plan revenue
 - Budgeting built around dental-specific cost categories
 - Financial statements delivered on a predictable schedule
 - Direct access to your accountant, not a rotating support queue
