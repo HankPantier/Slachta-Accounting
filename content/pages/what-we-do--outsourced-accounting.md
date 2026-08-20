@@ -157,7 +157,6 @@ Outsourced accounting from Slachta Accounting & Consulting Services covers bookk
 - payroll services → /services/payroll-services — Cross-links to payroll coordination mentioned in service scope
 - advisory services → /what-we-do/advisory-services — Connects budgeting and KPI guidance to broader advisory offering
 - dental practice accounting → /industries/dentists — Supports industry-specific claim about dentists
-- service-based businesses → /industries/service-based-businesses — Supports industry section relevance
 - established small businesses → /industries/entrepreneurs-established-small-businesses — Reinforces ideal client type named in outline
 - insurance agencies → /industries/insurance — Matches industry card content
 - attorneys → /industries/law — Matches industry card content
