@@ -23,9 +23,9 @@ Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesot
 <!-- block: feature-grid | variant: 3-col -->
 ## What We Do
 
-- Calculator: **Outsourced Accounting** — Accurate, reliable bookkeeping and accounting so you can focus on running your business.
-- Briefcase: **Payroll Services** — Timely, compliant payroll processing handled for you from start to finish.
-- ChartLine: **Business Tax Services** — Strategic tax planning and compliance designed around your business goals.
+- Calculator: **Outsourced Accounting:** Accurate, reliable bookkeeping and accounting so you can focus on running your business.
+- Briefcase: **Payroll Services:** Timely, compliant payroll processing handled for you from start to finish.
+- ChartLine: **Business Tax Services:** Strategic tax planning and compliance designed around your business goals.
 
 <!-- block: content-split | variant: image-right -->
 ## More Than a Number-Cruncher — A Real Business Partner
