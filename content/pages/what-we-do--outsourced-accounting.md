@@ -144,7 +144,7 @@ Schedule a consultation and we'll walk through it together.
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists, service-based businesses, and established small businesses across Minnesota, Wisconsin, and nationwide.
+Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established small businesses across Minnesota, Wisconsin, and nationwide.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
