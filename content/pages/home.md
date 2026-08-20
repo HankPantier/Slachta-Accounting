@@ -47,7 +47,7 @@ We've built our expertise through experience in serving:
 - Specialty healthcare service providers
 
 <!-- block: cta-banner | variant: color-bg -->
-## Ready to Get Your Finances Under Control?
+## Ready to get your finances under control?
 
 Let's talk about where your business is today and where you want it to go. We won't overwhelm you with complicated language. Instead, you'll get straightforward guidance from a team that's been doing this since 2005.
 
