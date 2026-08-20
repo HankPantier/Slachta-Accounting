@@ -58,7 +58,7 @@ Our business tax services for specialty healthcare clients include:
 
 Knowing your numbers matters more than knowing your production totals. We help oral surgeons, occupational therapists, speech therapists, and chiropractors build budgets around real overhead — not last year's guess — and identify the key performance indicators that actually drive profitability for their practice type: collection rate, provider utilization, overhead as a percentage of revenue, and staff cost ratios.
 
-Revenue cycle analysis is part of that work. When reimbursements lag or claims get denied more often than they should, it shows up in cash flow before it shows up anywhere else. Our outsourced accounting team reviews that cycle alongside your billing process so problems get caught early instead of at year-end. For therapists and chiropractors balancing insurance contracts with cash-pay services, we help you see clearly which revenue streams are actually performing.
+Revenue cycle analysis is part of that work. When reimbursements lag or claims get denied more often than they should, the impact shows up in cash flow before it shows up anywhere else. Our outsourced accounting team reviews that cycle alongside your billing process so problems get caught early, not at year-end. For therapists and chiropractors balancing insurance contracts with cash-pay services, we help you see clearly which revenue streams are actually performing.
 
 For practices thinking about adding a location, bringing on an associate provider, or preparing for a partner buy-in, we bring the same financial modeling we'd use for any growing business, adapted to how specialty healthcare practices actually generate revenue.
 
