@@ -32,7 +32,7 @@ Slachta Accounting & Consulting Services LLC was founded in 2005 and built its c
 
 Year-end surprises are avoidable — and for dental practices, they're also preventable. Insurance payments arrive weeks after treatment, patient financing plans stretch revenue over months, and supply costs spike around equipment purchases or large lab fees. Standard bookkeeping software doesn't handle those patterns well, and a year-end appointment isn't soon enough to act on them.
 
-Slachta's outsourced accounting service replaces the shoebox-of-receipts approach with a monthly close that tracks production against collections separately, so a practice owner can see whether a slow month is a scheduling problem or a collections problem before it becomes a cash crunch. Expense tracking is tied to categories that matter for a dental office — lab fees, supplies, equipment, and staff costs — rather than generic line items that make year-end review harder than it needs to be.
+Slachta's outsourced accounting service replaces the shoebox-of-receipts approach with a monthly close that tracks production against collections separately, so a practice owner can see whether a slow month is a scheduling problem or a collections problem before it becomes a cash crunch. Expense tracking is tied to categories that matter for a dental office: lab fees, supplies, equipment, and staff costs, rather than generic line items that make year-end review harder than it needs to be.
 
 - Monthly bookkeeping and account reconciliation
 - Production vs. collections tracking to isolate the source of cash flow gaps
