@@ -23,14 +23,14 @@ llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 an
 <!-- block: content-split | variant: image-right | image: architecture-firm-accounting.jpg | alt: "Architect and accountant reviewing project financial statements together" | query: "architect meeting accountant office" -->
 ## Accounting designed around how architecture firms operate
 
-Architecture firms don't bill like retail shops or law offices with flat monthly fees. Revenue moves through project phases: schematic design, design development, construction documents, construction administration. Each phase carries its own billing rhythm, and work-in-progress often sits unbilled for weeks while overhead keeps running. Retainage, reimbursable expenses, and multi-year contracts add another layer that a bookkeeper unfamiliar with A/E firms can easily misclassify.
+Architecture firms don't bill with flat monthly fees. Revenue moves through project phases: schematic design, design development, construction documents, construction administration. Each phase carries its own billing rhythm, and work-in-progress often sits unbilled for weeks while overhead keeps running. Retainage, reimbursable expenses, and multi-year contracts add another layer that a bookkeeper unfamiliar with A/E firms can easily misclassify.
 
 Slachta Accounting & Consulting Services has worked with architecture firm owners since founding in Stillwater, Minnesota in 2005. We understand the difference between percentage-of-completion accounting and a basic accrual close, and we set your books up to reflect how your projects actually move money. That means financial statements showing which jobs are profitable, which are eating hours, and where cash sits at any given moment, not a monthly summary that technically balances but tells you nothing useful about the business you're running.
 
 <!-- block: checklist-section | variant: with-image | image: architecture-bookkeeping-review.jpg | alt: "Close-up of financial statements and blueprints spread on a desk" | query: "blueprints financial documents desk" -->
 ## Outsourced accounting and bookkeeping for design firms
 
-Running a design practice means juggling client meetings, project deadlines, and staff schedules, not reconciling bank feeds at 11 p.m. Our outsourced accounting service handles the monthly close so you get accurate financial statements without hiring a full-time controller.
+Running a design business means coordinating client meetings, project deadlines, and staff schedules, not reconciling bank feeds at 11 p.m. Our outsourced accounting service handles the monthly close so you get accurate financial statements without hiring a full-time controller.
 
 - Monthly bookkeeping built around project-based revenue, not generic small-business templates
 - Work-in-progress tracking so unbilled hours and reimbursables don't disappear into the wrong account
