@@ -49,7 +49,7 @@ We have deep experience serving:
 <!-- block: cta-banner | variant: color-bg -->
 ## Ready to Get Your Finances Under Control?
 
-Let's talk about where your business is today and where you want it to go. No pressure, no jargon — just straightforward guidance from a team that's been doing this since 2005.
+Let's talk about where your business is today and where you want it to go. No pressure, no complicated language — just straightforward guidance from a team that's been doing this since 2005.
 
 <!-- block: form | variant: contact -->
 ## Get in Touch
