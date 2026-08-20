@@ -113,7 +113,7 @@ Staffing costs, equipment investment, and reimbursement cycles that require cash
 
 We've operated out of Stillwater, Minnesota since 2005. That's long enough to have worked through multiple tax law changes, two recessions, and a lot of client conversations that started with "I don't even know where to look at this point."
 
-Our concentration is Minnesota and Wisconsin, and we serve clients nationwide who want a firm they can actually reach. That's the difference between working with us and working with a national outsourcing arm of a firm like Baker Tilly or Cherry Bekaert: you get the same people on the phone, meeting after meeting, who already know your business, your industry, and your numbers.
+Our concentration is Minnesota and Wisconsin, and we serve clients nationwide who want a firm they can actually reach. That's the difference between working with us and working with a national outsourcing arm of a firm: you get the same people on the phone, meeting after meeting, who already know your business, your industry, and your numbers.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting
