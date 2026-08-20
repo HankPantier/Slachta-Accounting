@@ -87,7 +87,7 @@ Adding an associate, opening a second location, or planning an eventual sale cha
 This is where a longer relationship pays off. A CPA firm that has tracked a practice's KPIs and cash flow for several years brings context that a one-time valuation or transition advisor can't replicate. Slachta has worked with dental and specialty healthcare clients since 2005 — long enough to see a practice through more than one growth stage.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Why dentists in Minnesota and Wisconsin choose Slachta
+## Why dentists choose Slachta
 
 National dental-only CPA chains can staff a call center. They can't tell you which lab in your town has a turnaround problem, or how a state fee schedule update actually changes your effective collections rate this year.
 
