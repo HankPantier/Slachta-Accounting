@@ -25,23 +25,23 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 <!-- block: intro-text | variant: centered -->
 ## Accounting & consulting for specialty healthcare providers
 
-Running a specialty healthcare practice, whether you're an oral surgeon, an occupational therapist, a speech therapist, or a chiropractor, means managing two businesses at once: patient care and everything behind it. Insurance reimbursements arrive on their own schedule, clinical payroll has to go out regardless, and the overhead of running a specialized practice doesn't wait for a slow month. Slachta Accounting & Consulting Services LLC has worked with specialty healthcare practice owners since 2005, first from our Stillwater, Minnesota office and now for clients across Minnesota, Wisconsin, and nationwide.
+Running a specialty healthcare practice, whether you're an oral surgeon, an occupational therapist, a speech therapist, or a chiropractor, means managing two businesses at once: patient care and everything behind it. Insurance reimbursements arrive on their own schedule, clinical payroll has to go out regardless, and the overhead of running a specialized practice doesn't wait for a slow month. Slachta Accounting & Consulting Services LLC has worked with specialty healthcare practice owners in Minnesota, Wisconsin, and nationwide since 2005.
 
-We built our healthcare accounting services around the pain points specialty practice owners actually bring to us: reimbursement timing, staffing costs, and knowing which numbers actually predict a good or bad month. If you're trying to get ahead of the financial side of your practice, this is where we start.
+We built our healthcare accounting services around the pain points specialty practice owners routinely bring to us: reimbursement timing, staffing costs, and knowing which numbers actually predict a good or bad month. If you're trying to get ahead of the financial side of your practice, this is where we start.
 
 <!-- block: content-split | variant: image-right | image: medical-practice-financial-review.jpg | alt: "Specialty healthcare provider and accountant reviewing financial statements in a clinic office" | query: "medical professional reviewing paperwork office" -->
 ## Unique financial challenges in specialty healthcare
 
 Oral surgeons, occupational therapists, speech therapists, and chiropractors all deal with a financial rhythm most businesses never see. Insurance reimbursements, whether from commercial carriers, Medicare, or Medicaid, can lag 30, 60, even 90 days behind the service date, which means your books can show strong production and thin cash at the same time. Layer in high fixed overhead, specialized equipment, and clinical staff on varied pay structures, and cash flow variability becomes the norm rather than the exception.
 
-Each sub-niche carries its own wrinkles. Oral surgeons face significant equipment depreciation and hospital or surgical facility fee complexity. Occupational and speech therapists often work across multiple settings — private practice, school contracts, and home health — each with different billing and revenue recognition rules. Chiropractors deal with high visit volume, mixed insurance and cash-pay revenue, and staffing ratios that shift with patient load.
+Each sub-niche carries its own wrinkles. Oral surgeons face significant equipment depreciation and hospital or surgical facility fee complexity. Occupational and speech therapists often work across multiple settings, from private practice and school contracts to home health, each with different billing and revenue recognition rules. Chiropractors deal with high visit volume, mixed insurance and cash-pay revenue, and staffing ratios that shift with patient load.
 
 We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections rather than just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, and then plan around it.
 
 <!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Specialty healthcare practice owner and accountant discussing tax strategy at a desk" | query: "healthcare professional accountant consultation office" -->
 ## Tax planning & compliance for specialty healthcare practices
 
-Tax strategy for oral surgeons, OTs, SLPs, and chiropractors rarely looks like a standard small business return. Entity structure alone — S corp, PLLC, or partnership — changes how income, retirement contributions, and buy-in or buy-out transactions get taxed. We work through those decisions with clients as their practice grows, not just at filing time.
+Tax strategy for oral surgeons, OTs, SLPs, and chiropractors rarely looks like a standard small business return. Entity structure alone (S corp, PLLC, or partnership) changes how income, retirement contributions, and buy-in or buy-out transactions get taxed. We work through those decisions with clients as their practice grows, not just at filing time.
 
 Beyond structure, we track the deductions and credits specific to specialty healthcare operations: surgical equipment depreciation for oral surgery practices, continuing education requirements that vary by license type, and retirement plan options suited to practices with both owner-providers and support staff. Healthcare tax rules shift regularly at the federal and state level, and specialty practices carry compliance obligations that generic small business advice tends to miss.
 
@@ -56,7 +56,7 @@ Our business tax services for specialty healthcare clients include:
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consulting-meeting.jpg | alt: "Accountant presenting practice financial data to a specialty healthcare business owner" | query: "business consulting meeting healthcare office" -->
 ## Practice management & financial consulting
 
-Knowing your numbers matters more than knowing your production totals. We help oral surgeons, occupational therapists, speech therapists, and chiropractors build budgets around real overhead — not last year's guess — and identify the key performance indicators that actually drive profitability for their practice type: collection rate, provider utilization, overhead as a percentage of revenue, and staff cost ratios.
+Knowing your numbers matters more than knowing your production totals. We help oral surgeons, occupational therapists, speech therapists, and chiropractors build budgets around real overhead and identify the key performance indicators that truly drive profitability for their practice type: collection rate, provider utilization, overhead as a percentage of revenue, and staff cost ratios.
 
 Revenue cycle analysis is part of that work. When reimbursements lag or claims get denied more often than they should, the impact shows up in cash flow before it shows up anywhere else. Our outsourced accounting team reviews that cycle alongside your billing process so problems get caught early, not at year-end. For therapists and chiropractors balancing insurance contracts with cash-pay services, we help you see clearly which revenue streams are actually performing.
 
