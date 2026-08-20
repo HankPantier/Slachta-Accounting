@@ -16,28 +16,28 @@ hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, M
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A Trusted Partner for Business Owners Since 2005
+## A trusted partner for business owners since 2005
 
 Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesota with a simple mission: give business owners the financial clarity and support they need to grow with confidence. We work with entrepreneurs, dentists, attorneys, insurance agencies, architects, and specialty healthcare providers in Minnesota, Wisconsin, and nationwide.
 
 <!-- block: feature-grid | variant: 3-col -->
-## What We Do
+## What we do
 
 - Calculator: **Outsourced Accounting:** Accurate, reliable bookkeeping and accounting so you can focus on running your business.
 - Briefcase: **Payroll Services:** Timely, compliant payroll processing handled for you from start to finish.
 - ChartLine: **Business Tax Services:** Strategic tax planning and compliance designed around your business goals.
 
 <!-- block: content-split | variant: image-right -->
-## More Than a Number-Cruncher: A Real Business Partner
+## More than a number-cruncher: a real business partner
 
 ![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
 
-Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers: managing accounting, evaluating retirement plan options, and working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
+Running a business means navigating cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers by managing accounting, handling payroll, supporting tax preparation and planning all year long, and providing insightful advice through every business decision to keep things on track.
 
 <!-- block: checklist-section | variant: standalone -->
-## Who We Work With
+## Who we work with
 
-We have deep experience serving:
+We've built our expertise through experience in serving:
 
 - Business owners and entrepreneurs at every stage
 - Dental practices
@@ -47,15 +47,6 @@ We have deep experience serving:
 - Specialty healthcare service providers
 
 <!-- block: cta-banner | variant: color-bg -->
-## Ready to Get Your Finances Under Control?
+## Ready to get your finances under control?
 
-Let's talk about where your business is today and where you want it to go. No pressure, no jargon — just straightforward guidance from a team that's been doing this since 2005.
-
-<!-- block: form | variant: contact -->
-## Get in Touch
-
-Tell us a little about your business and we'll be in touch within one business day.
-
-sidebar:
-
-**Serving Minnesota, Wisconsin, and nationwide.**
+Let's talk about where your business is today and where you want it to go. We won't overwhelm you with complicated language. Instead, you'll get straightforward answers from a team that's been serving business owners across Minnesota, Wisconsin and nationwide since 2005.
