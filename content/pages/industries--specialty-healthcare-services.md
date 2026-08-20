@@ -39,7 +39,7 @@ Each sub-niche carries its own wrinkles. Oral surgeons face significant equipmen
 We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections rather than just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, and then plan around it.
 
 <!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Specialty healthcare practice owner and accountant discussing tax strategy at a desk" | query: "healthcare professional accountant consultation office" -->
-## Tax Planning & Compliance for Specialty Healthcare Practices
+## Tax planning & compliance for specialty healthcare practices
 
 Tax strategy for oral surgeons, OTs, SLPs, and chiropractors rarely looks like a standard small business return. Entity structure alone — S corp, PLLC, or partnership — changes how income, retirement contributions, and buy-in or buy-out transactions get taxed. We work through those decisions with clients as their practice grows, not just at filing time.
 
