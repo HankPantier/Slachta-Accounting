@@ -18,21 +18,21 @@ hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, M
 <!-- block: intro-text | variant: centered -->
 ## A Trusted Partner for Business Owners Since 2005
 
-Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesota with a simple mission: give business owners the financial clarity and support they need to grow with confidence. We work with entrepreneurs, dentists, attorneys, insurance agencies, architects, and specialty healthcare providers — serving clients across Minnesota, Wisconsin, and nationwide.
+Slachta Accounting & Consulting Services LLC was founded in Stillwater, Minnesota with a simple mission: give business owners the financial clarity and support they need to grow with confidence. We work with entrepreneurs, dentists, attorneys, insurance agencies, architects, and specialty healthcare providers in Minnesota, Wisconsin, and nationwide.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## What We Do
 
-- Calculator: **Outsourced Accounting** — Accurate, reliable bookkeeping and accounting so you can focus on running your business.
-- Briefcase: **Payroll Services** — Timely, compliant payroll processing handled for you from start to finish.
-- ChartLine: **Business Tax Services** — Strategic tax planning and compliance designed around your business goals.
+- Calculator: **Outsourced Accounting:** Accurate, reliable bookkeeping and accounting so you can focus on running your business.
+- Briefcase: **Payroll Services:** Timely, compliant payroll processing handled for you from start to finish.
+- ChartLine: **Business Tax Services:** Strategic tax planning and compliance designed around your business goals.
 
 <!-- block: content-split | variant: image-right -->
-## More Than a Number-Cruncher — A Real Business Partner
+## More Than a Number-Cruncher: A Real Business Partner
 
 ![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
 
-Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers — whether that's managing day-to-day accounting, evaluating retirement plan options, or working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
+Running a business means juggling cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers: managing day-to-day accounting, evaluating retirement plan options, and working alongside your financial advisor on personal financial planning. We bring the insight and the support to keep things on track.
 
 <!-- block: checklist-section | variant: standalone -->
 ## Who We Work With
