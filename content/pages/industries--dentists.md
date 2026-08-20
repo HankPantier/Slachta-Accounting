@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "dentist-cpa-consultation-meeting.jpg"
 hero_image_alt: "Dentist and accountant reviewing financial reports together in a dental office"
 hero_subhead: "Monthly bookkeeping, payroll, and tax planning built around how your dental practice makes money"
-hero_headline: "Accounting built around how dental practices actually run"
+hero_headline: "Accounting built around how dental practices run"
 answer_block: "Slachta Accounting & Consulting Services LLC is a CPA firm based in Stillwater, Minnesota, offering outsourced accounting, payroll, and tax planning built specifically for dental practices. The firm serves dentists throughout Minnesota and Wisconsin, plus practices nationwide, with monthly bookkeeping, quarterly tax planning, and retirement plan coordination tailored to how dental offices generate revenue."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Concentrated client base of dental practices across Minnesota and Wisconsin","Nationwide service reach beyond the Upper Midwest","Direct coordination with clients' financial advisors on retirement plan design","Outsourced accounting workflows built around dental-specific production and collections metrics"]
 internal_links: [{"url":"/what-we-do/outsourced-accounting","reason":"Supports the bookkeeping and cash flow section with a deeper service page","anchor_text":"outsourced accounting services"},{"url":"/services/payroll-services","reason":"Links the payroll section to the firm's dedicated payroll service page","anchor_text":"dental payroll services"},{"url":"/what-we-do/advisory-services","reason":"Connects the retirement planning and KPI guidance section to broader advisory offerings","anchor_text":"advisory services"},{"url":"/industries/dental-practice-operations-and-finance","reason":"Points to a closely related niche page for readers researching practice-level financial management","anchor_text":"dental practice operations and finance"},{"url":"/industries/healthcare-and-medical-practices","reason":"Cross-links to an adjacent industry vertical for multi-specialty or DSO readers","anchor_text":"healthcare and medical practices"},{"url":"/who-we-are","reason":"Builds credibility by linking to firm history and team background","anchor_text":"About Slachta"},{"url":"/contact","reason":"Primary page CTA driving toward the contact form","anchor_text":"Schedule a consultation"}]
@@ -21,7 +21,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 ---
 
 <!-- block: content-split | variant: image-right | image: dental-practice-financials.jpg | alt: "Dentist and accountant reviewing production and collections reports together" | query: "dentist accountant reviewing financial reports" -->
-## Accounting built around how dental practices actually run
+## Accounting built around how dental practices run
 
 Dental practices run on a different clock than most small businesses. Patient scheduling drives revenue, insurance reimbursements lag behind the work performed, and payroll has to account for hygienists, associates, and front-desk staff who don't all get paid the same way. Production numbers, collections ratios, hygiene department performance, lab fees, and staff-to-chair ratios tell a different story than a standard income statement — and a CPA needs to understand the difference between a slow month and a real overhead problem.
 
