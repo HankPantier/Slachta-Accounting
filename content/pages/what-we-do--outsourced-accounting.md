@@ -79,7 +79,7 @@ Retirement plan decisions, and personal financial planning generally, work best 
 We evaluate retirement plan options as part of the outsourced accounting relationship and coordinate directly with your financial advisor rather than leaving you to translate between the two. If you're comparing a SEP IRA against a 401(k) for your dental practice, or weighing profit-sharing contributions across a growing team, that conversation happens with your advisor in the room, not after the fact. It's a collaborative model, not a siloed one, and it's how retirement and tax decisions end up aligned instead of working against each other.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for dentists and established businesses
+## Developed for your specialized business
 
 General business accounting misses the specifics that matter in your industry. With our expertise from years of experience with the following client types, we know where the numbers typically get complicated.
 
