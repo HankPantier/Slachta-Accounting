@@ -68,6 +68,24 @@ Choosing between a SIMPLE IRA, SEP, or 401(k) with profit sharing affects both a
 
 Slachta doesn't work in a silo. The firm coordinates directly with a practice owner's financial advisor on retirement plan evaluation, contribution limits, and how those numbers interact with entity structure and cash flow. That coordination matters more as a practice grows and adds associates or partners, each with different retirement needs and different stakes in the plan design. The goal is one coherent plan, not three advisors working from three different spreadsheets.
 
+<!-- block: checklist-section | variant: standalone -->
+## CFO and controller-level guidance without the in-house cost
+
+Growing dental practices reach a point where the owner needs more than a bookkeeper and a tax preparer — they need someone reading the numbers and telling them what to do next. Most practices aren't large enough to justify a full-time CFO or controller on payroll, and outsourced financial leadership fills that gap.
+
+- KPI tracking for production, collections, overhead percentage, and new patient numbers, reviewed on a schedule the owner actually looks at
+- Budgeting built around seasonal patient volume, staff costs, and equipment replacement cycles
+- Retirement plan evaluation, including how a 401(k) or profit-sharing plan for staff affects the owner's own retirement savings
+- Cash flow forecasting that accounts for insurance reimbursement lag and financing-plan revenue
+- Coordination with the practice owner's financial advisor on personal financial planning tied to practice income
+
+<!-- block: content-split | variant: image-right | image: dental-practice-growth-transition.jpg | alt: "Dentist reviewing financial projections for a second practice location" | query: "business owner reviewing growth financial projections" -->
+## Financial clarity for practice growth and transitions
+
+Adding an associate, opening a second location, or planning an eventual sale changes the financial picture of a dental practice completely. These decisions deserve numbers the owner can trust. Slachta works through the financial side of those decisions alongside the practice owner: what an associate's compensation structure does to overhead, what a second location does to cash flow in year one, and what a practice is worth before a transition conversation even starts.
+
+This is where a longer relationship pays off. A CPA firm that has tracked a practice's KPIs and cash flow for several years brings context that a one-time valuation or transition advisor can't replicate. Slachta has worked with dental and specialty healthcare clients since 2005 — long enough to see a practice through more than one growth stage.
+
 <!-- block: stats-bar | variant: 3-up -->
 ## Why dentists in Minnesota and Wisconsin choose Slachta
 
