@@ -81,7 +81,7 @@ We evaluate retirement plan options as part of the outsourced accounting relatio
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Built for dentists and established businesses
 
-Generic small-business accounting misses the specifics that matter in your industry. We work with the following client types often enough to know where their numbers typically get complicated.
+General business accounting misses the specifics that matter in your industry. With our expertise from years of experience with the following client types, we know where the numbers typically get complicated.
 
 ### Dentists
 icon: Stethoscope
