@@ -30,7 +30,7 @@ Outsourced accounting from Slachta Accounting & Consulting Services hands off th
 <!-- block: service-cards | variant: 3-col -->
 ## What our outsourced accounting services include
 
-Outsourced accounting isn't a euphemism for data entry. It's a full back-office function that keeps your financials accurate, current, and useful for actual decisions.
+Outsourced accounting isn't a euphemism for data entry. It's a full back-office function that keeps your financials accurate, current, and useful for important decisions.
 
 ### Bookkeeping and reconciliations
 icon: Calculator
