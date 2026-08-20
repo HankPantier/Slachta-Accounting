@@ -4,13 +4,13 @@ url: "/what-we-do/outsourced-accounting"
 meta_title: "Outsourced Accounting Services | Slachta CPA"
 meta_description: "Outsourced accounting for dentists, attorneys, and businesses in Minnesota and Wisconsin. Bookkeeping, cash flow, budgeting, and KPI tracking. Since 2005."
 target_keyword: "outsourced accounting"
-secondary_keywords: ["outsourced accounting services","outsourced accounting Minnesota","bookkeeping and cash flow management","outsourced accounting for small business"]
+secondary_keywords: ["outsourced accounting services","outsourced accounting Minnesota","bookkeeping and cash flow management","outsourced accounting for business"]
 canonical_url: "https://www.slachtacpa.com/what-we-do/outsourced-accounting"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "accountant-consulting-small-business-owner.jpg"
-hero_image_alt: "Accountant and small business owner reviewing financial reports at a desk"
+hero_image_alt: "Accountant and business owner reviewing financial reports at a desk"
 hero_subhead: "Hand off bookkeeping, cash flow, and budgeting to a Stillwater firm that keeps you in the loop, not out of it"
 hero_headline: "Accounting support built for owners who'd rather run their business"
 answer_block: "Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established businesses across Minnesota, Wisconsin, and nationwide."
@@ -67,7 +67,7 @@ Your outsourced accounting work stays connected to our payroll and business tax 
 
 A financial statement tells you what already happened. It doesn't tell you whether you can make payroll in six weeks or whether that equipment purchase will strain cash flow through the summer. That's the gap we work to close.
 
-Expense management and cash flow are the two issues small business owners raise with us most often, regardless of industry. A dentist watching supply costs climb and an attorney managing uneven collections are working through the same underlying problem: matching what's coming in against what's going out, before it becomes a crisis instead of a decision.
+Expense management and cash flow are the two issues business owners raise with us most often, regardless of industry. A dentist watching supply costs climb and an attorney managing uneven collections are working through the same underlying problem: matching what's coming in against what's going out, before it becomes a crisis instead of a decision.
 
 We build budgeting and KPI tracking into the outsourced accounting relationship so you're reviewing forward-looking numbers, not just historical ones. That shift, from reporting to guidance, is what separates outsourced accounting from bookkeeping.
 
@@ -133,7 +133,7 @@ A: Yes. We coordinate directly with your financial advisor on retirement plan ev
 **Q: Do you serve clients outside Minnesota and Wisconsin?**
 A: Yes. Slachta is based in Stillwater, Minnesota, with a concentration of clients across Minnesota and Wisconsin, and we serve businesses nationwide through the same outsourced accounting process.
 
-<!-- block: cta-banner | variant: image-bg | image: accountant-shaking-hands-client-office.jpg | alt: "Accountant and small business client shaking hands in a bright office" | query: "handshake business meeting office" -->
+<!-- block: cta-banner | variant: image-bg | image: accountant-shaking-hands-client-office.jpg | alt: "Accountant and business client shaking hands in a bright office" | query: "handshake business meeting office" -->
 ## Get started with outsourced accounting today
 
 If expense tracking, cash flow, or budgeting has been eating time you'd rather spend running your practice or your firm, it's worth a conversation. We'll look at what you're doing now and where outsourced accounting fits.
