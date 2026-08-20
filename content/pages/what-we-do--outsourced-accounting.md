@@ -67,7 +67,7 @@ Your outsourced accounting work stays connected to our payroll and business tax 
 
 A financial statement tells you what already happened. It doesn't tell you whether you can make payroll in six weeks or whether that equipment purchase will strain cash flow through the summer. That's the gap we work to close.
 
-Expense management and cash flow are the two issues small business owners raise with us most often, regardless of industry. A dentist watching supply costs climb and an attorney managing uneven collections are solving the same underlying problem: matching what's coming in against what's going out, before it becomes a crisis instead of a decision.
+Expense management and cash flow are the two issues small business owners raise with us most often, regardless of industry. A dentist watching supply costs climb and an attorney managing uneven collections are working through the same underlying problem: matching what's coming in against what's going out, before it becomes a crisis instead of a decision.
 
 We build budgeting and KPI tracking into the outsourced accounting relationship so you're reviewing forward-looking numbers, not just historical ones. That shift, from reporting to guidance, is what separates outsourced accounting from bookkeeping.
 
