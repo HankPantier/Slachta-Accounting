@@ -72,7 +72,7 @@ Accurate, timely financial reporting also matters when a practice goes through a
 If your practice works with outside auditors or lenders, we coordinate directly with them, so you're not stuck translating between your bookkeeping and their requirements.
 
 <!-- block: cta-banner | variant: image-bg | image: healthcare-consultation-handshake.jpg | alt: "Healthcare practice owner shaking hands with financial consultant" | query: "healthcare professional business handshake meeting" -->
-## Partner with a Healthcare Accounting Specialist
+## Partner with a healthcare accounting specialist
 
 Specialty healthcare practices don't run on generic bookkeeping, and they shouldn't run on generic accounting advice either. Whether you're a dentist evaluating a second location, a physician group rethinking payroll structure, or a specialty clinic trying to get ahead of cash flow swings, we can walk through where your practice stands today and what would actually move the needle.
 
