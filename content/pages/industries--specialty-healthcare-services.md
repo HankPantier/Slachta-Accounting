@@ -63,7 +63,7 @@ Revenue cycle analysis is part of that work. When reimbursements lag or claims g
 For practices thinking about adding a location, bringing on an associate provider, or preparing for a partner buy-in, we bring the same financial modeling we'd use for any growing business, adapted to how specialty healthcare practices actually generate revenue.
 
 <!-- block: content-prose -->
-## Regulatory Compliance & Reporting Support
+## Regulatory compliance & reporting support
 
 Healthcare practices answer to more than the IRS. Payroll tax filings, 1099 reporting for contracted providers, and state-specific licensing and reporting requirements all need to be accurate and on time. We handle the accounting side of that compliance load so it doesn't fall on clinical staff or get pushed to the last minute.
 
