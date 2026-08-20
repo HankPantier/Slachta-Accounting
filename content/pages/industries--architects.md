@@ -43,7 +43,7 @@ A two-principal studio and a twenty-person firm need different levels of detail.
 <!-- block: content-split | variant: image-left | image: architect-tax-planning-meeting.jpg | alt: "Architecture firm owner discussing tax strategy with an accountant" | query: "business owner tax planning meeting" -->
 ## Tax planning and preparation for architects
 
-Architecture firm tax returns get complicated fast once pass-through income, multiple owners, and equipment purchases enter the picture. Deciding whether to expense a rendering workstation or depreciate it depends on how the rest of the year shakes out. Filing once in April and hoping for the best leaves money on the table.
+Tax returns for architecture firms get complicated fast once pass-through income, multiple owners, and equipment purchases enter the picture. Deciding whether to expense a rendering workstation or depreciate it depends on how the rest of the year shakes out. Filing once in April and hoping for the best leaves money on the table.
 
 We work with architects on entity structure, S-corp elections, reasonable compensation for owner-employees, retirement plan contributions, and the Section 179 and bonus depreciation decisions that come up when a firm upgrades equipment or moves offices. Licensed professionals face specific rules around personal service corporations and self-employment tax that a generalist preparer can get wrong.
 
