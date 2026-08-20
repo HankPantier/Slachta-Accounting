@@ -116,9 +116,9 @@ A: Quarterly, at minimum. Waiting until the annual return is filed means missing
 A: Yes. Slachta works directly with a practice owner's financial advisor on retirement plan evaluation, whether that's a SIMPLE IRA, SEP, or 401(k) with profit sharing, so the plan design lines up with entity structure and cash flow.
 
 <!-- block: cta-banner | variant: image-bg | image: dentist-cpa-consultation.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "professional consultation handshake office" -->
-## Talk with a dental accounting specialist
+## Talk with a CPA who understands dental practice finances
 
-A conversation about your books shouldn't feel like an audit. Schedule a consultation with Slachta Accounting & Consulting Services LLC and talk through where your practice's accounting, payroll, or tax planning actually stands, no obligation, no sales script. If outsourced accounting or dental payroll support makes sense for your practice, we'll say so. If it doesn't yet, we'll say that too.
+Running a dental practice is demanding enough without wrestling with irregular cash flow, payroll complexity, and tax questions that never seem to have a clear answer. Schedule a consultation with Slachta Accounting & Consulting Services LLC to talk through where your practice's accounting, payroll, and tax planning stand today — and what a CPA firm serving dental clients across Minnesota, Wisconsin, and nationwide would recommend next. No obligation, no sales script. If the services make sense for your practice, we'll say so. If they don't yet, we'll say that too.
 
 ---
 ## SEO & AIO Metadata
