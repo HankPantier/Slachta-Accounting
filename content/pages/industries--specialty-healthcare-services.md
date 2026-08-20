@@ -2,7 +2,7 @@
 title: "Specialty Healthcare Services | Slachta Accounting & Consulting Services LLC"
 url: "/industries/specialty-healthcare-services"
 meta_title: "Healthcare Accounting Services for Medical Practices"
-meta_description: "Specialty healthcare accounting for dentists, clinics, and medical practices. Tax planning, payroll, and practice advisory from Slachta CPA, serving MN, WI, and beyond."
+meta_description: "Accounting and tax services for oral surgeons, occupational therapists, speech therapists, and chiropractors. Practice advisory from Slachta CPA, serving MN, WI, and beyond."
 target_keyword: "healthcare accounting services for medical practices"
 secondary_keywords: ["medical practice accounting firm","dental practice accounting services","healthcare tax planning CPA","practice management consulting","medical practice bookkeeping"]
 canonical_url: "https://www.slachtacpa.com/industries/specialty-healthcare-services"
