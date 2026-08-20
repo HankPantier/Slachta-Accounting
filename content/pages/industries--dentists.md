@@ -44,13 +44,14 @@ Slachta's outsourced accounting service replaces the shoebox-of-receipts approac
 <!-- block: checklist-section | variant: with-image-right | image: dental-staff-payroll.jpg | alt: "Dental office manager processing payroll for hygienists and front desk staff" | query: "office manager payroll dental staff" -->
 ## Payroll support for dental teams
 
-Hygienists paid hourly, associates on a percentage of production, front-desk staff on variable schedules, and benefits that shift when someone moves from part-time to full-time: dental payroll has more moving parts than most small businesses.
+Hygienists paid hourly, associates on a percentage of production, office managers on salary, and sometimes a part-time hire covering a leave: dental payroll has more moving parts than most small businesses, and the compliance layer behind it — tax deposits, quarterly filings, benefits eligibility — has to keep pace regardless of staff changes.
 
-Slachta's payroll service handles the pay structures specific to dental teams, tracks PTO and benefits eligibility, and keeps withholding and filings compliant as staff turn over. When a hygienist leaves mid-quarter or an associate's compensation changes, payroll doesn't fall behind, and neither do the filings.
+Slachta's payroll service is scheduled around how dental offices actually pay their teams. When a hygienist leaves mid-quarter or an associate's production-based compensation changes, payroll doesn't fall behind and neither do the filings. Ongoing checks flag when overtime or benefits costs start creeping up, before those line items become a budget problem.
 
 - Hourly, salaried, and production-based pay structures
-- Benefits and PTO tracking through staff changes
-- Quarterly and annual payroll tax filings
+- Benefits and PTO tracking through staff changes and leave
+- Tax deposits and quarterly and annual payroll tax filings
+- Overtime and benefits cost monitoring
 - Support through hiring, turnover, and associate buy-ins
 
 <!-- block: content-split | variant: image-left | image: dentist-tax-planning-meeting.jpg | alt: "Dentist and CPA discussing quarterly tax planning strategy at a desk" | query: "tax planning meeting small business owner" -->
