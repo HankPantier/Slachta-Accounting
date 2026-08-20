@@ -29,14 +29,14 @@ Running a specialty healthcare practice — whether you're an oral surgeon, an o
 
 We built our healthcare accounting services around the pain points specialty practice owners actually bring to us: reimbursement timing, staffing costs, and knowing which numbers actually predict a good or bad month. If you're trying to get ahead of the financial side of your practice, this is where we start.
 
-<!-- block: content-split | variant: image-right | image: medical-practice-financial-review.jpg | alt: "Physician and accountant reviewing financial statements in a clinic office" | query: "medical professional reviewing paperwork office" -->
-## Unique Financial Challenges in Healthcare
+<!-- block: content-split | variant: image-right | image: medical-practice-financial-review.jpg | alt: "Specialty healthcare provider and accountant reviewing financial statements in a clinic office" | query: "medical professional reviewing paperwork office" -->
+## Unique Financial Challenges in Specialty Healthcare
 
-Medical and dental practices deal with a financial rhythm most businesses never see. Insurance reimbursements can lag 30, 60, even 90 days behind the service date, which means your books can show strong production and thin cash at the same time. Layer in high fixed overhead, equipment leases, lab fees, and specialized clinical staff, and cash flow variability becomes the norm rather than the exception.
+Oral surgeons, occupational therapists, speech therapists, and chiropractors all deal with a financial rhythm most businesses never see. Insurance reimbursements — whether from commercial carriers, Medicare, or Medicaid — can lag 30, 60, even 90 days behind the service date, which means your books can show strong production and thin cash at the same time. Layer in high fixed overhead, specialized equipment, and clinical staff on varied pay structures, and cash flow variability becomes the norm rather than the exception.
 
-Payroll adds its own complexity. Hygienists, associates, physician assistants, and front-office staff are often on different pay structures, and getting that wrong creates compliance headaches on top of morale problems. Expense management gets harder too, since supply costs and staffing needs can shift month to month without warning.
+Each sub-niche carries its own wrinkles. Oral surgeons face significant equipment depreciation and hospital or surgical facility fee complexity. Occupational and speech therapists often work across multiple settings — private practice, school contracts, and home health — each with different billing and revenue recognition rules. Chiropractors deal with high visit volume, mixed insurance and cash-pay revenue, and staffing ratios that shift with patient load.
 
-We've seen this pattern across the dental and specialty healthcare clients we serve, and it's why we build reporting around production versus collections, not just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, then plan around it.
+We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections, not just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, then plan around it.
 
 <!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Dentist and accountant discussing tax strategy at a desk" | query: "dentist accountant consultation office" -->
 ## Tax Planning & Compliance for Medical Professionals
