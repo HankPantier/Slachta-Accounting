@@ -49,6 +49,4 @@ We've built our expertise through experience in serving:
 <!-- block: cta-banner | variant: color-bg -->
 ## Ready to get your finances under control?
 
-Let's talk about where your business is today and where you want it to go. We won't overwhelm you with complicated language. Instead, you'll get straightforward answers from a team that's been doing this since 2005.
-
-**Serving Minnesota, Wisconsin, and nationwide.**
+Let's talk about where your business is today and where you want it to go. We won't overwhelm you with complicated language. Instead, you get straightforward answers from a team that's been serving business owners across Minnesota, Wisconsin and nationwide since 2005.
