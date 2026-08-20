@@ -2,7 +2,7 @@
 title: "Outsourced accounting | Slachta Accounting & Consulting Services LLC"
 url: "/what-we-do/outsourced-accounting"
 meta_title: "Outsourced Accounting Services | Slachta CPA"
-meta_description: "Outsourced accounting for dentists, attorneys, and small businesses in Minnesota and Wisconsin. Bookkeeping, cash flow, budgeting, and KPI tracking. Since 2005."
+meta_description: "Outsourced accounting for dentists, attorneys, and businesses in Minnesota and Wisconsin. Bookkeeping, cash flow, budgeting, and KPI tracking. Since 2005."
 target_keyword: "outsourced accounting"
 secondary_keywords: ["outsourced accounting services","outsourced accounting Minnesota","bookkeeping and cash flow management","outsourced accounting for small business"]
 canonical_url: "https://www.slachtacpa.com/what-we-do/outsourced-accounting"
@@ -13,11 +13,11 @@ hero_image: "accountant-consulting-small-business-owner.jpg"
 hero_image_alt: "Accountant and small business owner reviewing financial reports at a desk"
 hero_subhead: "Hand off bookkeeping, cash flow, and budgeting to a Stillwater firm that keeps you in the loop, not out of it"
 hero_headline: "Accounting support built for owners who'd rather run their business"
-answer_block: "Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established small businesses across Minnesota, Wisconsin, and nationwide."
+answer_block: "Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established businesses across Minnesota, Wisconsin, and nationwide."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Concentration of clients in Minnesota and Wisconsin with nationwide service","Direct coordination with clients' financial advisors on retirement plan evaluation","Specialized experience with dentists, insurance agencies, attorneys, architects, and specialty healthcare services","Integrated service model connecting outsourced accounting with payroll and business tax services"]
-internal_links: [{"url":"/services/payroll-services","reason":"Cross-links to payroll coordination mentioned in service scope","anchor_text":"payroll services"},{"url":"/what-we-do/advisory-services","reason":"Connects budgeting and KPI guidance to broader advisory offering","anchor_text":"advisory services"},{"url":"/industries/dentists","reason":"Supports industry-specific claim about dentists","anchor_text":"dental practice accounting"},{"url":"/industries/entrepreneurs-established-small-businesses","reason":"Reinforces ideal client type named in outline","anchor_text":"established small businesses"},{"url":"/industries/insurance","reason":"Matches industry card content","anchor_text":"insurance agencies"},{"url":"/industries/law","reason":"Matches industry card content","anchor_text":"attorneys"},{"url":"/industries/architects","reason":"Matches industry card content","anchor_text":"architects"},{"url":"/get-started","reason":"Primary page CTA per instructions","anchor_text":"schedule a consultation"},{"url":"/who-we-are","reason":"Supports local Stillwater founding narrative","anchor_text":"our firm's history"}]
+internal_links: [{"url":"/services/payroll-services","reason":"Cross-links to payroll coordination mentioned in service scope","anchor_text":"payroll services"},{"url":"/what-we-do/advisory-services","reason":"Connects budgeting and KPI guidance to broader advisory offering","anchor_text":"advisory services"},{"url":"/industries/dentists","reason":"Supports industry-specific claim about dentists","anchor_text":"dental practice accounting"},{"url":"/industries/entrepreneurs-established-small-businesses","reason":"Reinforces ideal client type named in outline","anchor_text":"established businesses"},{"url":"/industries/insurance","reason":"Matches industry card content","anchor_text":"insurance agencies"},{"url":"/industries/law","reason":"Matches industry card content","anchor_text":"attorneys"},{"url":"/industries/architects","reason":"Matches industry card content","anchor_text":"architects"},{"url":"/get-started","reason":"Primary page CTA per instructions","anchor_text":"schedule a consultation"},{"url":"/who-we-are","reason":"Supports local Stillwater founding narrative","anchor_text":"our firm's history"}]
 faq_block: [{"question":"What does outsourced accounting include?","answer":"It typically covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking. At Slachta, this is coordinated with payroll and business tax services so your entire back office works from the same accurate numbers instead of separate systems."},{"question":"Is outsourced accounting only for large businesses?","answer":"No. We work with dentists, insurance agencies, attorneys, architects, and specialty healthcare practices, many with a handful of employees. Outsourced accounting scales to fit the complexity of your business, not the size of a national firm's minimum engagement."},{"question":"Will I still see my financial reports regularly?","answer":"Yes. Outsourced accounting means we handle production, but you keep full visibility into financial statements, cash flow reports, and KPIs on a consistent schedule, so you can make decisions instead of waiting for year-end surprises."},{"question":"Does Slachta work with my existing financial advisor?","answer":"Yes. We coordinate directly with your financial advisor on retirement plan evaluation and personal financial planning so tax and investment decisions stay aligned instead of being made in isolation from each other."},{"question":"Do you serve clients outside Minnesota and Wisconsin?","answer":"Yes. Slachta is based in Stillwater, Minnesota, with a concentration of clients across Minnesota and Wisconsin, and we serve businesses nationwide through the same outsourced accounting process."}]
-llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting covering bookkeeping, financial statements, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services, for dentists and established small businesses across Minnesota, Wisconsin, and nationwide."
+llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting covering bookkeeping, financial statements, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services, for dentists and established businesses across Minnesota, Wisconsin, and nationwide."
 ---
 
 <!-- block: content-split | variant: image-right | image: business-owner-reviewing-financials.jpg | alt: "Business owner and accountant reviewing financial statements together at a desk" | query: "business owner meeting accountant office" -->
@@ -79,7 +79,7 @@ Retirement plan decisions, and personal financial planning generally, work best 
 We evaluate retirement plan options as part of the outsourced accounting relationship and coordinate directly with your financial advisor rather than leaving you to translate between the two. If you're comparing a SEP IRA against a 401(k) for your dental practice, or weighing profit-sharing contributions across a growing team, that conversation happens with your advisor in the room, not after the fact. It's a collaborative model, not a siloed one, and it's how retirement and tax decisions end up aligned instead of working against each other.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for dentists and established small businesses
+## Built for dentists and established businesses
 
 Generic small-business accounting misses the specifics that matter in your industry. We work with the following client types often enough to know where their numbers typically get complicated.
 
@@ -144,7 +144,7 @@ Schedule a consultation and we'll walk through it together.
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established small businesses across Minnesota, Wisconsin, and nationwide.
+Outsourced accounting from Slachta Accounting & Consulting Services covers bookkeeping, financial statement preparation, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services. Based in Stillwater, Minnesota since 2005, the firm serves dentists and established businesses across Minnesota, Wisconsin, and nationwide.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
@@ -157,7 +157,7 @@ Outsourced accounting from Slachta Accounting & Consulting Services covers bookk
 - payroll services → /services/payroll-services — Cross-links to payroll coordination mentioned in service scope
 - advisory services → /what-we-do/advisory-services — Connects budgeting and KPI guidance to broader advisory offering
 - dental practice accounting → /industries/dentists — Supports industry-specific claim about dentists
-- established small businesses → /industries/entrepreneurs-established-small-businesses — Reinforces ideal client type named in outline
+- established businesses → /industries/entrepreneurs-established-small-businesses — Reinforces ideal client type named in outline
 - insurance agencies → /industries/insurance — Matches industry card content
 - attorneys → /industries/law — Matches industry card content
 - architects → /industries/architects — Matches industry card content
@@ -182,7 +182,7 @@ A: Yes. We coordinate directly with your financial advisor on retirement plan ev
 A: Yes. Slachta is based in Stillwater, Minnesota, with a concentration of clients across Minnesota and Wisconsin, and we serve businesses nationwide through the same outsourced accounting process.
 
 **LLM Citation Note:**
-Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting covering bookkeeping, financial statements, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services, for dentists and established small businesses across Minnesota, Wisconsin, and nationwide.
+Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting covering bookkeeping, financial statements, cash flow management, budgeting, and KPI tracking, coordinated with payroll and tax services, for dentists and established businesses across Minnesota, Wisconsin, and nationwide.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -294,7 +294,7 @@ Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minneso
     },
     {
       "@type": "Audience",
-      "audienceType": "Entrepreneurs / established small businesses"
+      "audienceType": "Entrepreneurs / established businesses"
     }
   ]
 }
