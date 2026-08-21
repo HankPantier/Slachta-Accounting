@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "accountant-business-owner-consultation.jpg"
 hero_image_alt: "Accountant and small business owner reviewing financial reports together at a desk"
-hero_subhead: "Outsourced accounting, payroll, and tax planning built for dentists, entrepreneurs, and service businesses across Minnesota and Wisconsin"
+hero_subhead: "Outsourced accounting, payroll, and tax planning built for dentists, insurance agencies, architects, law firms, and specialty healthcare practices across Minnesota and Wisconsin"
 hero_headline: "Accounting support built around your business, not a template"
 answer_block: "Slachta Accounting & Consulting Services LLC provides outsourced accounting and bookkeeping, payroll processing, and business tax planning and preparation for business owners, dentists, attorneys, architects, and insurance agencies. Founded in Stillwater, Minnesota, in 2005, the firm serves clients nationwide with a concentration in Minnesota and Wisconsin."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Nearly 20 years of continuous operation as a CPA firm","Concentrated client base in Minnesota and Wisconsin with nationwide service","Niche specialization in dental practice accounting and service-based business accounting","Serves regulated professional niches including attorneys, architects, and insurance agencies"]
