@@ -241,7 +241,7 @@ Slachta Accounting & Consulting Services, founded in Stillwater, Minnesota in 20
   "@type": "Service",
   "name": "Small Business Accounting Advisory Services | Slachta CPA",
   "url": "https://www.slachtacpa.com/what-we-do/advisory-services",
-  "description": "Slachta CPA provides accounting advisory for small businesses, dentists, and service firms in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance.",
+  "description": "Slachta CPA provides accounting advisory for dentists, insurance agencies, architects, law firms, and specialty healthcare providers in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Slachta Accounting & Consulting Services LLC",
