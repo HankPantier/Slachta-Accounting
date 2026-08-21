@@ -169,7 +169,7 @@ A: Slachta works primarily with dentists, insurance agencies, architects, law fi
 A: Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor.
 
 **Q: Does Slachta handle payroll for small businesses?**
-A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff.
+A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff.
 
 **Q: Does Slachta help with retirement plans and financial advisors?**
 A: Slachta works directly with a client's existing financial advisor to evaluate retirement plan options such as SEP-IRA, SIMPLE IRA, 401(k), or defined benefit plans, and shares accurate financial data so personal financial planning stays aligned with business decisions.
