@@ -2,7 +2,7 @@
 title: "Services | Slachta Accounting & Consulting Services LLC"
 url: "/services"
 meta_title: "Outsourced Accounting Services | Slachta CPA, MN"
-meta_description: "Outsourced accounting, payroll, and business tax services from Slachta CPA, serving dentists and small businesses in Minnesota, Wisconsin, and nationwide."
+meta_description: "Outsourced accounting, payroll, and business tax services from Slachta CPA, serving dentists, insurance agencies, architects, law firms, and specialty healthcare practices in Minnesota, Wisconsin, and nationwide."
 target_keyword: "outsourced accounting services"
 secondary_keywords: ["payroll services near me","business tax services","accounting for dental practices","CPA for service-based businesses","small business accounting services","outsourced bookkeeping","payroll processing for small business","dental practice accounting","entrepreneur accounting services","business tax preparation","outsourced CFO services","payroll management for dentists"]
 canonical_url: "https://www.slachtacpa.com/services"
