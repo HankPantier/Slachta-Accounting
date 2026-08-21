@@ -163,7 +163,7 @@ Slachta Accounting & Consulting Services provides outsourced accounting, payroll
 A: Slachta provides outsourced accounting, payroll processing, business tax planning and preparation, and advisory services including cash flow forecasting, budgeting, and KPI tracking. The firm also coordinates with clients' financial advisors on retirement plan evaluation and personal financial planning.
 
 **Q: Who does Slachta CPA typically work with?**
-A: Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
+A: Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
 
 **Q: How does outsourced accounting with Slachta work?**
 A: Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor.
