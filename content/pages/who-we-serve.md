@@ -94,7 +94,7 @@ A: Clients range from early-stage entrepreneurs to established small businesses 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-meeting.jpg | alt: "CPA and business owner shaking hands after consultation meeting" | query: "accountant client handshake meeting" -->
 ## Find out if we're the right fit for your business
 
-If you're a dentist, attorney, architect, insurance agency owner, or entrepreneur trying to get a handle on cash flow, payroll, or budgeting, we'd like to hear where things stand. Schedule a consultation and we'll tell you directly whether our outsourced accounting and payroll services match what your business needs right now.
+If you're a dentist, attorney, architect, insurance agency owner, or specialty healthcare provider trying to get a handle on cash flow, payroll, or budgeting, we'd like to hear where things stand. Schedule a consultation and we'll tell you directly whether our outsourced accounting and payroll services match what your practice or firm needs right now.
 
 [Schedule a consultation](/contact)
 
