@@ -60,19 +60,34 @@ We're not here to replace that advisor or manage investments. Our role is the ac
 For owners without a financial advisor yet, we can point toward that conversation. For those who already have one, we join the call.
 
 <!-- block: industry-cards | variant: 3-col | image: dental-office-financial-consultation.jpg | alt: "Dentist and accountant reviewing practice financial reports in office" | query: "dental practice owner financial consultation" | theme: ink -->
-## Advisory support tailored to dentists and service-based businesses
+## Advisory support tailored to the industries we serve
 
-Advisory work looks different depending on what you're running. Two niches in particular, dentists and service-based businesses, bring recurring questions that generic advice doesn't answer.
+Advisory work looks different depending on what you're running. Each of the niches below brings recurring questions that generic advice doesn't answer.
 
 ### Dental practices
 icon: Stethoscope
 
 Overhead ratio, hygiene production per hour, and staff-to-chair ratios drive profitability in a dental practice more than most owners realize until someone points it out. We benchmark these numbers against the practice's own history and help evaluate decisions like adding an associate or expanding hours.
 
-### Service-based businesses
-icon: Wrench
+### Insurance agencies
+icon: Shield
 
-Pricing and margin by service line get murky fast when a business bills hourly, by project, and by retainer at the same time. We help owners see which offerings actually make money, which ones are subsidizing the others, and where prices need to move.
+Premium volume per producer, retention rate, and expense ratio are the numbers that separate a growing agency from one that's treading water. We help agency owners track those metrics month over month and plan around commission timing and contingency income.
+
+### Architecture firms
+icon: Drafting compass
+
+Billable hour utilization and project margin can swing dramatically between phases of work. We help architecture firm owners see where write-downs are quietly eroding profitability and build forecasts that account for the long lag between project award and cash in the door.
+
+### Law firms
+icon: Scales
+
+Realization rate, collections lag, and trust account compliance create planning pressures that are unique to legal practices. We help attorneys track fee income by practice area, manage the gap between billing and collection, and plan around partner distributions and overhead allocation.
+
+### Specialty healthcare services
+icon: Heart pulse
+
+Specialty healthcare providers deal with reimbursement variability, credentialing timelines, and staffing cost structures that make standard budgeting tools fall short. We help owners build cash flow plans that account for payer mix shifts and model the impact of adding providers or service lines.
 
 <!-- block: content-prose -->
 ## How advisory pairs with outsourced accounting and payroll
