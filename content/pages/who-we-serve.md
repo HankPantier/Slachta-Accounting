@@ -55,25 +55,18 @@ Project-based revenue means margins can hide inside a single job — and by the 
 
 Overhead allocation, staff utilization, and fee structure all factor into how we build reporting for architecture practices. We pair that with [outsourced accounting](/what-we-do/outsourced-accounting) and [payroll](/services/payroll-services) so principals spend less time in the books and more time on the work. See more for [architects](/industries/architects).
 
-<!-- block: content-split | variant: image-left | image: entrepreneur-small-business-owner.jpg | alt: "Small business owner reviewing budget and cash flow reports" | query: "small business owner reviewing financial reports" -->
-## Guidance for entrepreneurs and established small businesses
+<!-- block: checklist-section | variant: with-image-right | image: specialty-healthcare-finance.jpg | alt: "Healthcare practice manager reviewing billing and payroll paperwork" | query: "healthcare practice manager reviewing paperwork" -->
+## Specialty healthcare accounting and financial guidance
 
-Owner-operators call us when the business has outgrown a spreadsheet and a gut feeling. Whether you're three years into a service-based business or running a company that's been profitable for a decade, the same questions tend to surface: where is cash actually going, what should we be spending on payroll and overhead, and which numbers should I be watching every month.
+Dental practices are our largest healthcare niche, but we also work with specialty healthcare services facing many of the same financial pressures: staffing costs, insurance reimbursement timing, and facility or equipment overhead that eats into margins before an owner sees a dime. Whether you operate a specialty clinic, a group practice, or a single-provider specialty service, the accounting challenges are specific enough that a general-purpose approach tends to miss things.
 
-We handle [outsourced accounting](/what-we-do/outsourced-accounting) and [payroll](/services/payroll-services) so owners get monthly financials, cash flow tracking, and KPIs built around their business, not a generic template. For entrepreneurs building a company from scratch, that means catching problems early. For established owners, it means tightening expense management as the business scales. Learn more about how we work with [entrepreneurs and established small businesses](/industries/entrepreneurs-established-small-businesses) and other [service-based businesses](/industries/service-based-businesses).
-
-<!-- block: checklist-section | variant: with-image | image: specialty-healthcare-finance.jpg | alt: "Healthcare practice manager reviewing billing and payroll paperwork" | query: "healthcare practice manager reviewing paperwork" -->
-## Specialty healthcare and other niche industries
-
-Dental practices are our largest healthcare niche, but we also work with specialty healthcare services facing many of the same pressures: staffing costs, insurance reimbursement timing, and facility or equipment overhead that eats into margins before an owner sees a dime.
-
-- Cash flow tracking that accounts for delayed insurance payments
+- Cash flow tracking that accounts for delayed insurance reimbursement
 - Payroll support for clinical and administrative staff
-- Budgeting built around occupancy and equipment costs
-- KPI reporting so owners can spot problems before year-end
+- Budgeting built around occupancy, equipment, and licensing costs
+- KPI reporting so owners can spot margin problems before year-end
 - Coordination with financial advisors on retirement and practice-transition planning
 
-Explore our work with [healthcare and medical practices](/industries/healthcare-and-medical-practices) and [professional services firms](/industries/professional-services-firms) across specialties.
+Explore our work with [healthcare and medical practices](/industries/healthcare-and-medical-practices).
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Nationwide service rooted in Minnesota and Wisconsin
