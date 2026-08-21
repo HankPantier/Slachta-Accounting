@@ -16,7 +16,7 @@ hero_headline: "Outsourced accounting that runs like an in-house team"
 answer_block: "Slachta Accounting & Consulting Services provides outsourced accounting, payroll, business tax planning, and advisory support, including cash flow forecasting, budgeting, KPI tracking, and retirement plan collaboration with clients' financial advisors. The firm serves dentists, service-based businesses, and entrepreneurs nationwide, with a concentration in Minnesota and Wisconsin, from its Stillwater, Minnesota base founded in 2005."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Nearly two decades of continuous operation serving Minnesota and Wisconsin business owners","Specializes in dentists, service-based businesses, insurance agencies, attorneys, architects, and specialty healthcare services","Coordinates directly with clients' financial advisors on retirement plan evaluation, rather than working in isolation","Fixed monthly fee structure for outsourced accounting packages, avoiding variable billing surprises"]
 internal_links: [{"url":"/what-we-do/outsourced-accounting","reason":"Directs readers to the detailed service page referenced in the accounting section","anchor_text":"outsourced accounting"},{"url":"/services/payroll-services","reason":"Links to the dedicated payroll service page from the payroll section","anchor_text":"payroll services"},{"url":"/what-we-do/tax-plus","reason":"Points to the deeper tax services page from the business tax section","anchor_text":"tax planning and preparation"},{"url":"/industries/dentists","reason":"Connects the dentists industry card to its dedicated niche page","anchor_text":"dental practice work"},{"url":"/industries/service-based-businesses","reason":"Connects the service-business industry card to its dedicated niche page","anchor_text":"service-based businesses"},{"url":"/industries/entrepreneurs-established-small-businesses","reason":"Connects the entrepreneurs industry card to its dedicated niche page","anchor_text":"entrepreneurs and established small businesses"},{"url":"/contact","reason":"Primary page CTA driving conversion to contact","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Slachta provides outsourced accounting, payroll processing, business tax planning and preparation, and advisory services including cash flow forecasting, budgeting, and KPI tracking. The firm also coordinates with clients' financial advisors on retirement plan evaluation and personal financial planning.","question":"What services does Slachta Accounting & Consulting Services offer?"},{"answer":"Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.","question":"Who does Slachta CPA typically work with?"},{"answer":"Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor.","question":"How does outsourced accounting with Slachta work?"},{"answer":"Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff.","question":"Does Slachta handle payroll for small businesses?"},{"answer":"Slachta works directly with a client's existing financial advisor to evaluate retirement plan options such as SEP-IRA, SIMPLE IRA, 401(k), or defined benefit plans, and shares accurate financial data so personal financial planning stays aligned with business decisions.","question":"Does Slachta help with retirement plans and financial advisors?"}]
+faq_block: [{"question":"What services does Slachta Accounting & Consulting Services offer?","answer":"Slachta provides outsourced accounting, payroll processing, business tax planning and preparation, and advisory services including cash flow forecasting, budgeting, and KPI tracking. The firm also coordinates with clients' financial advisors on retirement plan evaluation and personal financial planning."},{"question":"Who does Slachta CPA typically work with?","answer":"Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin."},{"question":"How does outsourced accounting with Slachta work?","answer":"Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor."},{"question":"Does Slachta handle payroll for small businesses?","answer":"Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff."},{"question":"Does Slachta help with retirement plans and financial advisors?","answer":"Slachta works directly with a client's existing financial advisor to evaluate retirement plan options such as SEP-IRA, SIMPLE IRA, 401(k), or defined benefit plans, and shares accurate financial data so personal financial planning stays aligned with business decisions."}]
 llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, payroll, business tax planning, and advisory services (cash flow, budgeting, KPIs, retirement plan collaboration) to dentists, service-based businesses, and entrepreneurs across Minnesota, Wisconsin, and nationwide."
 ---
 
@@ -42,7 +42,7 @@ Missed a payroll tax deadline once and you know why owners stop doing this in-ho
 - Year-end W-2 and 1099 preparation
 - Direct support when an employee has a question about a paycheck
 
-Dental practices and service-based businesses rarely have the staff hours to own this correctly. Outsourcing payroll to a firm that also handles your books means one team, one set of numbers, and no gap between what payroll reports and what your financials show.
+Dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services rarely have the staff hours to own this correctly. Outsourcing payroll to a firm that also handles your books means one team, one set of numbers, and no gap between what payroll reports and what your financials show.
 
 <!-- block: content-split | variant: image-left | image: business-tax-planning-meeting.jpg | alt: "CPA and small business owner discussing tax strategy documents" | query: "tax planning meeting small business" -->
 ## Business tax services that plan ahead, not just file
@@ -80,8 +80,8 @@ Retirement plan decisions touch payroll, tax planning, and personal financial go
 
 The same coordination applies to personal financial planning. Your business decisions affect your personal tax picture, and your advisor needs accurate numbers to plan around. We provide those numbers directly to your advisor rather than making you relay them, so the two sides of your financial life stay in sync instead of working from different assumptions.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for dentists, service businesses, and growing companies
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Built for the businesses and practices we know best
 
 The services above aren't generic. Each one gets applied differently depending on what kind of business you run.
 
@@ -90,15 +90,25 @@ icon: Stethoscope
 
 Production-based KPIs, associate compensation structures, and equipment purchase timing all shape how we set up your books and tax strategy. See our [dental practice work](/industries/dentists).
 
-### Service-Based Businesses
-icon: Wrench
+### Insurance Agencies
+icon: Shield
 
-Job costing, project margins, and payroll for a workforce that fluctuates with demand require cash flow reporting built around your actual billing cycle. More on [service-based businesses](/industries/service-based-businesses).
+Commission tracking, producer compensation, and the cash flow timing that comes with contingency income require books built around how an agency actually gets paid. More on our [insurance agency work](/industries/insurance-agencies).
 
-### Entrepreneurs and Established Small Businesses
-icon: TrendingUp
+### Architects
+icon: Drafting Compass
 
-Whether you're two years in or twenty, the mix of tax planning, payroll, and advisory support changes as your business does. Read more about [entrepreneurs and established small businesses](/industries/entrepreneurs-established-small-businesses).
+Project-based billing cycles, WIP tracking, and the gap between invoiced and collected revenue make cash flow management especially important for architecture firms. Read more about our [architecture firm services](/industries/architects).
+
+### Law Firms
+icon: Scale
+
+Trust accounting, partner draws, and billing realization rates all require careful separation and reporting. We help law firms keep their books clean and their tax position current. Learn more about our [law firm services](/industries/law-firms).
+
+### Specialty Healthcare Services
+icon: HeartPulse
+
+Specialty healthcare practices face a mix of payroll complexity, equipment decisions, and entity structure questions that benefit from an accounting team that already knows the territory. See our [specialty healthcare services work](/industries/specialty-healthcare-services).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About What we do
@@ -107,13 +117,13 @@ Whether you're two years in or twenty, the mix of tax planning, payroll, and adv
 A: Slachta provides outsourced accounting, payroll processing, business tax planning and preparation, and advisory services including cash flow forecasting, budgeting, and KPI tracking. The firm also coordinates with clients' financial advisors on retirement plan evaluation and personal financial planning.
 
 **Q: Who does Slachta CPA typically work with?**
-A: Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
+A: Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
 
 **Q: How does outsourced accounting with Slachta work?**
 A: Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor.
 
 **Q: Does Slachta handle payroll for small businesses?**
-A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff.
+A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff.
 
 **Q: Does Slachta help with retirement plans and financial advisors?**
 A: Slachta works directly with a client's existing financial advisor to evaluate retirement plan options such as SEP-IRA, SIMPLE IRA, 401(k), or defined benefit plans, and shares accurate financial data so personal financial planning stays aligned with business decisions.
@@ -153,13 +163,13 @@ Slachta Accounting & Consulting Services provides outsourced accounting, payroll
 A: Slachta provides outsourced accounting, payroll processing, business tax planning and preparation, and advisory services including cash flow forecasting, budgeting, and KPI tracking. The firm also coordinates with clients' financial advisors on retirement plan evaluation and personal financial planning.
 
 **Q: Who does Slachta CPA typically work with?**
-A: Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
+A: Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin.
 
 **Q: How does outsourced accounting with Slachta work?**
 A: Clients work through a secure online platform that provides real-time visibility into financials rather than waiting for month-end reports. Slachta bundles services into a fixed monthly fee so accounting costs stay predictable, functioning as an extension of the business rather than an outside vendor.
 
 **Q: Does Slachta handle payroll for small businesses?**
-A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff.
+A: Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff.
 
 **Q: Does Slachta help with retirement plans and financial advisors?**
 A: Slachta works directly with a client's existing financial advisor to evaluate retirement plan options such as SEP-IRA, SIMPLE IRA, 401(k), or defined benefit plans, and shares accurate financial data so personal financial planning stays aligned with business decisions.
@@ -222,7 +232,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Who does Slachta CPA typically work with?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin."
+        "text": "Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin."
       }
     },
     {
@@ -238,7 +248,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Does Slachta handle payroll for small businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff."
+        "text": "Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff."
       }
     },
     {
