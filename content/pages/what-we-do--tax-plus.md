@@ -37,20 +37,25 @@ icon: Stethoscope
 
 Practice owners face large equipment purchases, associate buy-ins, and unpredictable production months. Tax Plus times deductions and estimated payments around those swings instead of guessing at April.
 
-### Business Owners
-icon: Briefcase
+### Insurance Agencies
+icon: Shield
 
-Whether you're structured as an S-corp or LLC, entity choice and salary-versus-distribution decisions shift your tax bill every year. Tax Plus reviews both before they cost you money.
+Agency owners deal with commission-driven income that fluctuates by season and book-of-business changes. Tax Plus keeps estimated payments calibrated to actual revenue so year-end settlements don't deliver surprises.
 
-### Service-Based Businesses
-icon: Users
+### Architects
+icon: Drafting Compass
 
-Consulting firms, agencies, and contractors deal with lumpy revenue and quarterly estimates that rarely match actual income. Tax Plus adjusts projections as jobs close and invoices land.
+Project-based billing creates uneven income across the year. Tax Plus adjusts quarterly projections as contracts close and retainers shift, so estimated taxes track your actual cash position rather than last year's averages.
 
-### Established Entrepreneurs
-icon: TrendingUp
+### Law Firms
+icon: Scale
 
-Owners with multiple ventures or a business heading toward sale need tax strategy that spans years, not one filing season. Tax Plus plans around that longer horizon.
+Contingency fees, case settlements, and partner draws create income timing that standard tax prep handles poorly. Tax Plus builds a strategy around those patterns, coordinating entity structure and distributions before the money hits your return.
+
+### Specialty Healthcare Services
+icon: HeartPulse
+
+Specialty practices managing a mix of insurance reimbursements and private-pay revenue need tax planning that accounts for collection timing and equipment cycles. Tax Plus connects those cash flow realities to your quarterly estimates and retirement contributions.
 
 <!-- block: checklist-section | variant: with-image | image: quarterly-tax-review-checklist.jpg | alt: "Accountant reviewing a quarterly tax planning checklist with a client" | query: "accountant reviewing checklist with client" -->
 ## What's included in a Tax Plus engagement
