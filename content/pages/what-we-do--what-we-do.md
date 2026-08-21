@@ -80,7 +80,7 @@ Retirement plan decisions touch payroll, tax planning, and personal financial go
 
 The same coordination applies to personal financial planning. Your business decisions affect your personal tax picture, and your advisor needs accurate numbers to plan around. We provide those numbers directly to your advisor rather than making you relay them, so the two sides of your financial life stay in sync instead of working from different assumptions.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built for the businesses and practices we know best
 
 The services above aren't generic. Each one gets applied differently depending on what kind of business you run.
