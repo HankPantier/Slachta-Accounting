@@ -27,7 +27,7 @@ Tax returns tell you what happened. Advisory work at Slachta Accounting & Consul
 
 We meet with clients throughout the year, not just at filing season, to talk through pricing changes, staffing plans, and equipment purchases before they happen. That timing matters. A conversation in March about a hiring decision is worth more than a tax return in April explaining why the payroll number came in high.
 
-Advisory services sit alongside outsourced accounting and payroll work, but the goal here is different: fewer surprises, better-informed decisions, and a clearer read on where the business stands right now.
+We work with dentists, insurance agencies, architects, law firms, and specialty healthcare providers — each with their own revenue rhythms, overhead structures, and planning pressures. Advisory services sit alongside outsourced accounting and payroll work, but the goal here is the same across every niche: fewer surprises, better-informed decisions, and a clearer read on where the business stands right now.
 
 <!-- block: content-split | variant: image-right | image: cash-flow-forecast-review.jpg | alt: "Business owner and advisor reviewing a cash flow forecast spreadsheet" | query: "small business owner reviewing financials" -->
 ## Cash flow management and budgeting support
