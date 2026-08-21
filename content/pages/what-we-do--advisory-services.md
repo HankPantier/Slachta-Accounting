@@ -127,7 +127,7 @@ Accounting advisory services help small business owners plan cash flow, track KP
 **E-E-A-T Signals:**
 - Firm founded in 2005 in Stillwater, Minnesota
 - Nationwide service with concentration in Minnesota and Wisconsin
-- Named niche experience with dental practices and service-based businesses
+- Named niche experience with dental practices, insurance agencies, architecture firms, law firms, and specialty healthcare providers
 - Advisory work coordinates directly with clients' existing financial advisors rather than replacing them
 - Advisory services integrated with in-house outsourced accounting and payroll offerings
 
