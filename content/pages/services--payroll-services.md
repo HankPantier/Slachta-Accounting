@@ -244,11 +244,19 @@ Slachta Accounting & Consulting Services, founded 2005 in Stillwater, Minnesota,
     },
     {
       "@type": "Audience",
-      "audienceType": "Service-based businesses"
+      "audienceType": "Insurance Agencies"
     },
     {
       "@type": "Audience",
-      "audienceType": "Entrepreneurs / established small businesses"
+      "audienceType": "Law Firms"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Architects"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Specialty Healthcare Services"
     }
   ]
 }
