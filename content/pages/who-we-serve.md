@@ -34,27 +34,26 @@ Dentists face a financial picture unlike most small businesses: high equipment c
 
 Retirement plan evaluation comes up often in our conversations with dentists, especially as practices mature and owners start thinking about buy-ins, buyouts, or a future sale. We work alongside your financial advisor on that planning, and we handle the [outsourced accounting](/what-we-do/outsourced-accounting) and [payroll](/services/payroll-services) work that keeps the practice's books accurate enough to support those decisions. Visit our [dentist services page](/industries/dentists) or learn more about [dental practice operations and finance](/industries/dental-practice-operations-and-finance).
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Support for insurance agencies, attorneys, and architects
+<!-- block: content-split | variant: image-left | image: insurance-agency-accounting.jpg | alt: "Insurance agency owner reviewing commission reports with accounting advisor" | query: "insurance agency owner reviewing financial reports" -->
+## Insurance agency accounting and financial guidance
 
-Professional services firms run on billable hours, project fees, or commission structures, and the accounting needs to reflect that. Insurance agencies, law firms, and architecture practices come to us with a similar request: build a budget we'll actually use, track KPIs that matter, and coordinate with our financial advisor instead of working around them.
+Insurance agencies run on commission income that rarely arrives on a predictable schedule. Contingency payments, producer splits, and varying carrier timing make cash flow forecasting genuinely difficult — and most generic accounting approaches aren't built for it. We help agency owners budget around that variability, track producer performance alongside overall profitability, and build reporting that makes sense of what's actually coming in and when.
 
-### Insurance Agencies
-icon: ShieldCheck
+Coordination with your financial advisor is part of how we work, particularly around personal financial planning and business transition decisions tied to the agency's value. We handle the [outsourced accounting](/what-we-do/outsourced-accounting) and [payroll](/services/payroll-services) that keeps the books accurate enough to support those conversations. See more for [insurance agencies](/industries/insurance).
 
-Commission timing and contingency income make cash flow forecasting harder than it looks. We help agency owners budget around that variability and track producer performance alongside overall profitability.
+<!-- block: content-split | variant: image-right | image: law-firm-accounting.jpg | alt: "Attorney and CPA reviewing trust account and billing reports at a conference table" | query: "attorney reviewing financial documents conference table" -->
+## Law firm accounting and financial guidance
 
-### Attorneys
-icon: Scale
+Trust accounting rules, partner draws, and uneven billing cycles all create cash management challenges that standard small-business accounting wasn't designed to handle. We build reporting that separates operating performance from the noise of any single month, keeps partner compensation structured and documented, and gives firm leadership a clear view of where cash stands at any point in the billing cycle.
 
-Trust accounting rules, partner draws, and uneven billing cycles all affect how a law firm should manage cash. We build reporting that separates operating performance from the noise of any single month.
+KPI tracking, budgeting, and coordination with outside financial advisors are a regular part of our work with law firms, especially as practices grow and partners begin thinking about long-term planning. See more for [attorneys](/industries/law).
 
-### Architects
-icon: Building2
+<!-- block: content-split | variant: image-left | image: architecture-firm-accounting.jpg | alt: "Architect reviewing project profitability reports with financial advisor" | query: "architect reviewing financial project reports" -->
+## Architecture firm accounting and financial guidance
 
-Project-based revenue means margins can hide inside a single job. We help architecture firms track profitability by project and by phase, so budgeting decisions rest on real numbers, not estimates.
+Project-based revenue means margins can hide inside a single job — and by the time a problem shows up in the annual numbers, the opportunity to fix it has passed. We help architecture firms track profitability by project and by phase, so budgeting decisions rest on real numbers rather than estimates carried forward from last year.
 
-See more for [insurance agencies](/industries/insurance), [attorneys](/industries/law), and [architects](/industries/architects).
+Overhead allocation, staff utilization, and fee structure all factor into how we build reporting for architecture practices. We pair that with [outsourced accounting](/what-we-do/outsourced-accounting) and [payroll](/services/payroll-services) so principals spend less time in the books and more time on the work. See more for [architects](/industries/architects).
 
 <!-- block: content-split | variant: image-left | image: entrepreneur-small-business-owner.jpg | alt: "Small business owner reviewing budget and cash flow reports" | query: "small business owner reviewing financial reports" -->
 ## Guidance for entrepreneurs and established small businesses
