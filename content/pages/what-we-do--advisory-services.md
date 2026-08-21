@@ -43,7 +43,7 @@ For an owner already juggling a practice, a client roster, or a project schedule
 
 Revenue growth alone doesn't tell you whether a business is healthy. Overhead percentage, labor cost as a share of revenue, days in accounts receivable, and client retention often say more about where things stand than the top line does.
 
-We help clients pick the three to five metrics that actually match their business, then build simple reporting so those numbers show up monthly instead of getting reconstructed at year-end. For a dental practice, that might mean production per hour and overhead ratio. For a service-based business, it's often gross margin by service line and staff utilization.
+We help clients pick the three to five metrics that actually match their business, then build simple reporting so those numbers show up monthly instead of getting reconstructed at year-end. For a dental practice, that might mean production per hour and overhead ratio. For an architecture or law firm, it's often billable hours utilization and realization rate. For an insurance agency, it's premium volume per producer and retention rate.
 
 - Track overhead ratio and labor cost percentage month over month
 - Monitor accounts receivable aging and collection speed
