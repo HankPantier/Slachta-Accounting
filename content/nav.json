@@ -57,8 +57,8 @@
       "url": "/who-we-are"
     },
     {
-      "label": "Service packages",
-      "url": "/service-packages"
+      "label": "Packages",
+      "url": "/packages"
     },
     {
       "label": "Resources library",
@@ -77,10 +77,6 @@
     {
       "label": "Contact us",
       "url": "/contact"
-    },
-    {
-      "label": "Packages",
-      "url": "/packages"
     }
   ]
 }
