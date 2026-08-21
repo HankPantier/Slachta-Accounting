@@ -2,7 +2,7 @@
 title: "Advisory services | Slachta Accounting & Consulting Services LLC"
 url: "/what-we-do/advisory-services"
 meta_title: "Small Business Accounting Advisory Services | Slachta CPA"
-meta_description: "Slachta CPA provides accounting advisory for small businesses, dentists, and service firms in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance."
+meta_description: "Slachta CPA provides accounting advisory for dentists, insurance agencies, architects, law firms, and specialty healthcare in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance."
 target_keyword: "accounting advisory services for small businesses"
 secondary_keywords: ["business advisory services CPA","accounting consultation for dentists","small business accounting advisor","outsourced accounting advisory","financial advisory for service businesses","CPA advisory services","strategic business accounting advice","bookkeeping and advisory services"]
 canonical_url: "https://www.slachtacpa.com/what-we-do/advisory-services"
