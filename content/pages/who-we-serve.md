@@ -70,6 +70,8 @@ Dental practices are our largest healthcare niche, but we also work with special
 
 Explore our work with [healthcare and medical practices](/industries/healthcare-and-medical-practices).
 
+
+
 <!-- block: stats-bar | variant: 3-up -->
 ## Nationwide service rooted in Minnesota and Wisconsin
 
