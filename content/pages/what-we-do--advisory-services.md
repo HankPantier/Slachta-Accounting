@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "advisory-services-meeting.jpg"
 hero_image_alt: "Advisor and business owner reviewing financial charts at a table"
-hero_subhead: "Forward-looking financial guidance that turns your numbers into clear decisions for cash flow, growth, and retirement planning"
+hero_subhead: "Forward-looking financial guidance for dentists, insurance agencies, architects, law firms, and specialty healthcare providers — turning your numbers into clear decisions for cash flow, growth, and retirement planning"
 hero_headline: "Strategic guidance beyond tax prep and bookkeeping"
 answer_block: "Accounting advisory services help business owners plan cash flow, track KPIs, and make decisions with current numbers instead of last year's tax return. Slachta Accounting & Consulting Services, a CPA firm founded in Stillwater, Minnesota in 2005, provides this guidance year-round to dentists, insurance agencies, architects, law firms, and specialty healthcare providers across Minnesota, Wisconsin, and nationwide."
 eeat_signals: ["Firm founded in 2005 in Stillwater, Minnesota","Nationwide service with concentration in Minnesota and Wisconsin","Named niche experience with dental practices, insurance agencies, architects, law firms, and specialty healthcare providers","Advisory work coordinates directly with clients' existing financial advisors rather than replacing them","Advisory services integrated with in-house outsourced accounting and payroll offerings"]
