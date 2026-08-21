@@ -123,7 +123,7 @@ A: Yes. Specialty healthcare practices have staffing structures, billing cycles,
 <!-- block: cta-banner | variant: image-bg | image: business-owner-handshake-consultation.jpg | alt: "Business owner shaking hands with accountant after consultation meeting" | query: "business owner accountant handshake meeting" -->
 ## Get a clear plan for your business finances
 
-You don't need every question answered before reaching out. A first conversation with Slachta usually starts with where things stand today, cash flow, tax exposure, payroll headaches, and works backward from there to figure out which service solves it. Whether you're a dental practice, a law firm, or a service business in Minnesota, Wisconsin, or anywhere else, the next step is the same.
+You don't need every question answered before reaching out. A first conversation with Slachta usually starts with where things stand today, cash flow, tax exposure, payroll headaches, and works backward from there to figure out which service solves it. Whether you're a dental practice, an insurance agency, an architecture firm, a law firm, or a specialty healthcare practice in Minnesota, Wisconsin, or anywhere else, the next step is the same.
 
 [Schedule a consultation](/contact) and bring your questions.
 
