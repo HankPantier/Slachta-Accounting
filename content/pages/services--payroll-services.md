@@ -42,11 +42,17 @@ Payroll is more than cutting checks. Our service covers the full cycle, so nothi
 If your team includes hourly staff, salaried employees, and contractors under one roof, we handle all three without treating any of them as an afterthought.
 
 <!-- block: content-split | variant: image-right | image: dental-practice-payroll-meeting.jpg | alt: "Dental practice owner reviewing payroll and staffing documents" | query: "dental office owner reviewing paperwork" -->
-## Payroll support tailored to dental practices and service businesses
+## Payroll support tailored to your industry
 
-Dental practices deal with a payroll mix that trips up generic providers: hygienists on hourly pay, associate dentists on production-based compensation, and front-desk staff with benefits that need to be tracked accurately. Get any of that wrong and it shows up as a cash flow surprise a month later. We've supported dental clients around Stillwater, Minnesota, and across Minnesota and Wisconsin, and we build payroll around how a practice actually pays people, not a one-size template.
+Each of the industries we work with has its own payroll complexity, and a one-size template rarely fits any of them well.
 
-Service-based businesses, insurance agencies, and firms with multiple hourly or commissioned employees face a similar issue: payroll costs shift week to week, and without a clear read on labor expense, budgeting turns into guesswork. We connect payroll data to the expense tracking and cash flow reporting owners in these industries already ask us for, so labor cost stops being a mystery line item.
+**Dental practices** deal with a mix that trips up generic providers: hygienists on hourly pay, associate dentists on production-based compensation, and front-desk staff with benefits that need to be tracked accurately. Get any of that wrong and it shows up as a cash flow surprise a month later. We've supported dental clients around Stillwater, Minnesota, and across Minnesota and Wisconsin, and we build payroll around how a practice actually pays people.
+
+**Insurance agencies** often run a combination of salaried staff and commission-based producers, where compensation structures shift with book-of-business changes. Keeping payroll accurate alongside those variables requires close attention to deduction and commission tracking.
+
+**Law firms and architecture firms** typically carry a mix of professional staff, support staff, and in some cases contractors or project-based employees. Payroll here has to account for different pay structures under one roof without creating reconciliation headaches at tax time.
+
+**Specialty healthcare practices** face similar complexity to dental offices — licensed clinical staff, front-office employees, and varying benefit elections — with the added layer of compliance considerations that come with healthcare employment. We build payroll around how the practice actually operates, not a generic template.
 
 <!-- block: content-split | variant: image-left | image: business-owner-financial-review.jpg | alt: "Business owner and accountant reviewing financial reports together at a desk" | query: "business owner accountant reviewing financial reports" -->
 ## Payroll connected to your bigger financial picture
