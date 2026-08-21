@@ -27,6 +27,8 @@ Slachta Accounting & Consulting Services has spent two decades working with a sp
 
 We're not trying to be everything to everyone. A dental practice's overhead ratios look nothing like an architecture firm's project margins, and a law firm's trust accounting obligations look nothing like an insurance agency's commission timing challenges. Below is a look at who we serve and how we help each group make sense of their numbers.
 
+
+
 <!-- block: content-split | variant: image-right | image: dental-practice-accounting.jpg | alt: "Dentist reviewing financial reports with accounting advisor in office" | query: "dentist reviewing financial documents office" -->
 ## Dental practice accounting and financial guidance
 
