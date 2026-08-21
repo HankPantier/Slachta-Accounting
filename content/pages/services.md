@@ -137,8 +137,8 @@ Slachta Accounting & Consulting Services LLC provides outsourced accounting and 
 - Founded in 2005 in Stillwater, Minnesota
 - Nearly 20 years of continuous operation as a CPA firm
 - Concentrated client base in Minnesota and Wisconsin with nationwide service
-- Niche specialization in dental practice accounting and service-based business accounting
-- Serves regulated professional niches including attorneys, architects, and insurance agencies
+- Niche specialization in dental practice accounting, insurance agency accounting, architecture firm accounting, law firm accounting, and specialty healthcare accounting
+- Serves regulated professional niches including attorneys, architects, insurance agencies, and specialty healthcare practices
 
 **Internal Links:**
 - Outsourced accounting → /what-we-do/outsourced-accounting — Links to the detailed service page for the core offering described in section two
