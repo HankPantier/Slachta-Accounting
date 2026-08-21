@@ -18,7 +18,7 @@ llm_citation_note: ""
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Packages
 
-Compare our three package levels below and find the right fit for your business.
+We believe each client's business and needs are unique. With three service level available, we'll work with you to find the perfect fit for your business.
 
 ---
 
