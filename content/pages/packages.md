@@ -76,6 +76,13 @@ Advice
 ---
 
 <!-- block: checklist-section | variant: standalone -->
+## Add-ons
+
+Tax Plus and payroll services are available for an additional rate.
+
+---
+
+<!-- block: checklist-section | variant: standalone -->
 ## Implementation
 
 - The implementation experience includes transitioning accounting data, sales tax, tax returns, and payroll to Slachta Accounting. With client cooperation, implementation takes up to 4–6 weeks.
