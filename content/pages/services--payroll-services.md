@@ -4,7 +4,7 @@ url: "/services/payroll-services"
 meta_title: "Payroll Services for MN & WI Businesses | Slachta CPA"
 meta_description: "Slachta Accounting & Consulting handles payroll processing, tax filings, and year-end forms for dentists and service businesses across MN and WI. Schedule a consultation."
 target_keyword: "payroll services"
-secondary_keywords: ["payroll services Minnesota","payroll for dental practices","outsourced payroll","small business payroll Wisconsin"]
+secondary_keywords: ["payroll services Minnesota","payroll for dental practices","outsourced payroll","payroll for insurance agencies","payroll for law firms","payroll for architects","payroll for healthcare practices"]
 canonical_url: "https://www.slachtacpa.com/services/payroll-services"
 schema_markup: "Service"
 hero: "hero-split"
