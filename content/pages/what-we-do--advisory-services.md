@@ -135,9 +135,11 @@ Accounting advisory services help small business owners plan cash flow, track KP
 - outsourced accounting → /what-we-do/outsourced-accounting — Cross-sells the complementary service that pairs with advisory engagements
 - payroll services → /services/payroll-services — Shows how payroll data feeds into advisory forecasting and KPI work
 - dental practices → /industries/dentists — Builds authority for the dentist niche referenced in the advisory content
-- service-based businesses → /industries/service-based-businesses — Supports the named niche section on service business pricing and margin
+- insurance agencies → /industries/insurance-agencies — Supports the named niche section on insurance agency advisory
+- architects → /industries/architects — Supports the named niche section on architecture firm advisory
+- law firms → /industries/law-firms — Supports the named niche section on law firm advisory
+- specialty healthcare providers → /industries/specialty-healthcare-services — Supports the named niche section on specialty healthcare advisory
 - Schedule a consultation → /contact — Primary page CTA driving conversions
-- established small business owners → /industries/entrepreneurs-established-small-businesses — Connects advisory positioning to the entrepreneurs/established owners niche
 
 **FAQ Block:**
 
