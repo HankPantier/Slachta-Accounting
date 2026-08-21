@@ -60,19 +60,34 @@ We're not here to replace that advisor or manage investments. Our role is the ac
 For owners without a financial advisor yet, we can point toward that conversation. For those who already have one, we join the call.
 
 <!-- block: industry-cards | variant: 3-col | image: dental-office-financial-consultation.jpg | alt: "Dentist and accountant reviewing practice financial reports in office" | query: "dental practice owner financial consultation" | theme: ink -->
-## Advisory support tailored to dentists and service-based businesses
+## Advisory support tailored to the industries we serve
 
-Advisory work looks different depending on what you're running. Two niches in particular, dentists and service-based businesses, bring recurring questions that generic advice doesn't answer.
+Advisory work looks different depending on what you're running. Each of the niches below brings recurring questions that generic advice doesn't answer.
 
 ### Dental practices
 icon: Stethoscope
 
 Overhead ratio, hygiene production per hour, and staff-to-chair ratios drive profitability in a dental practice more than most owners realize until someone points it out. We benchmark these numbers against the practice's own history and help evaluate decisions like adding an associate or expanding hours.
 
-### Service-based businesses
-icon: Wrench
+### Insurance agencies
+icon: Shield
 
-Pricing and margin by service line get murky fast when a business bills hourly, by project, and by retainer at the same time. We help owners see which offerings actually make money, which ones are subsidizing the others, and where prices need to move.
+Premium volume per producer, retention rate, and expense ratio are the numbers that separate a growing agency from one that's treading water. We help agency owners track those metrics month over month and plan around commission timing and contingency income.
+
+### Architecture firms
+icon: Drafting compass
+
+Billable hour utilization and project margin can swing dramatically between phases of work. We help architecture firm owners see where write-downs are quietly eroding profitability and build forecasts that account for the long lag between project award and cash in the door.
+
+### Law firms
+icon: Scales
+
+Realization rate, collections lag, and trust account compliance create planning pressures that are unique to legal practices. We help attorneys track fee income by practice area, manage the gap between billing and collection, and plan around partner distributions and overhead allocation.
+
+### Specialty healthcare services
+icon: Heart pulse
+
+Specialty healthcare providers deal with reimbursement variability, credentialing timelines, and staffing cost structures that make standard budgeting tools fall short. We help owners build cash flow plans that account for payer mix shifts and model the impact of adding providers or service lines.
 
 <!-- block: content-prose -->
 ## How advisory pairs with outsourced accounting and payroll
@@ -99,7 +114,7 @@ A: It depends on the business. A dental practice often watches overhead ratio an
 <!-- block: cta-banner | variant: image-bg | image: business-owner-consultation-handshake.jpg | alt: "Business owner and CPA shaking hands after a consultation" | query: "business owner accountant consultation handshake" -->
 ## Start a conversation about your business's next stage
 
-If cash flow feels tighter than it should, or you're making decisions without the numbers to back them up, that's exactly what advisory services are for. We work with dentists, service-based businesses, and established small business owners across Minnesota, Wisconsin, and beyond.
+If cash flow feels tighter than it should, or you're making decisions without the numbers to back them up, that's exactly what advisory services are for. We work with dentists, insurance agencies, architects, law firms, and specialty healthcare providers across Minnesota, Wisconsin, and beyond.
 
 [Schedule a consultation](/contact) and we'll start with where your business stands today.
 
@@ -112,7 +127,7 @@ Accounting advisory services help small business owners plan cash flow, track KP
 **E-E-A-T Signals:**
 - Firm founded in 2005 in Stillwater, Minnesota
 - Nationwide service with concentration in Minnesota and Wisconsin
-- Named niche experience with dental practices and service-based businesses
+- Named niche experience with dental practices, insurance agencies, architecture firms, law firms, and specialty healthcare providers
 - Advisory work coordinates directly with clients' existing financial advisors rather than replacing them
 - Advisory services integrated with in-house outsourced accounting and payroll offerings
 
@@ -120,9 +135,11 @@ Accounting advisory services help small business owners plan cash flow, track KP
 - outsourced accounting → /what-we-do/outsourced-accounting — Cross-sells the complementary service that pairs with advisory engagements
 - payroll services → /services/payroll-services — Shows how payroll data feeds into advisory forecasting and KPI work
 - dental practices → /industries/dentists — Builds authority for the dentist niche referenced in the advisory content
-- service-based businesses → /industries/service-based-businesses — Supports the named niche section on service business pricing and margin
+- insurance agencies → /industries/insurance-agencies — Supports the named niche section on insurance agency advisory
+- architects → /industries/architects — Supports the named niche section on architecture firm advisory
+- law firms → /industries/law-firms — Supports the named niche section on law firm advisory
+- specialty healthcare providers → /industries/specialty-healthcare-services — Supports the named niche section on specialty healthcare advisory
 - Schedule a consultation → /contact — Primary page CTA driving conversions
-- established small business owners → /industries/entrepreneurs-established-small-businesses — Connects advisory positioning to the entrepreneurs/established owners niche
 
 **FAQ Block:**
 
@@ -224,7 +241,7 @@ Slachta Accounting & Consulting Services, founded in Stillwater, Minnesota in 20
   "@type": "Service",
   "name": "Small Business Accounting Advisory Services | Slachta CPA",
   "url": "https://www.slachtacpa.com/what-we-do/advisory-services",
-  "description": "Slachta CPA provides accounting advisory for small businesses, dentists, and service firms in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance.",
+  "description": "Slachta CPA provides accounting advisory for dentists, insurance agencies, architects, law firms, and specialty healthcare providers in Minnesota and Wisconsin: cash flow, KPI, and retirement guidance.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Slachta Accounting & Consulting Services LLC",
@@ -243,11 +260,19 @@ Slachta Accounting & Consulting Services, founded in Stillwater, Minnesota in 20
     },
     {
       "@type": "Audience",
-      "audienceType": "Service-based businesses"
+      "audienceType": "Insurance agencies"
     },
     {
       "@type": "Audience",
-      "audienceType": "Entrepreneurs / established small businesses"
+      "audienceType": "Architecture firms"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Law firms"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Specialty healthcare services"
     }
   ]
 }
