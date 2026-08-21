@@ -77,6 +77,10 @@
     {
       "label": "Contact us",
       "url": "/contact"
+    },
+    {
+      "label": "Packages",
+      "url": "/packages"
     }
   ]
 }
