@@ -66,11 +66,11 @@ For owners who work with a financial advisor on retirement plans or personal fin
 <!-- block: stats-bar | variant: 3-up -->
 ## Why business owners in Minnesota and Wisconsin trust Slachta
 
-Slachta Accounting & Consulting Services was founded in 2005 in Stillwater, Minnesota, and payroll has been part of the firm's work from the start. We serve clients nationwide today, with a concentration of dentists, attorneys, architects, insurance agencies, and service-based businesses across Minnesota and Wisconsin. Payroll here isn't a bolt-on product from a national processor; it's handled by the same team that manages your books, your tax filings, and your financial reporting.
+Slachta Accounting & Consulting Services was founded in 2005 in Stillwater, Minnesota, and payroll has been part of the firm's work from the start. We serve clients nationwide today, with a concentration of dentists, insurance agencies, law firms, architects, and specialty healthcare practices across Minnesota and Wisconsin. Payroll here isn't a bolt-on product from a national processor; it's handled by the same team that manages your books, your tax filings, and your financial reporting.
 
 - 2005: Year the firm was founded in Stillwater, Minnesota
 - 20+: Years supporting Minnesota and Wisconsin business owners
-- 6: Core industries served, including dentists, attorneys, architects, and insurance agencies
+- 5: Core niches served, including dentists, insurance agencies, law firms, architects, and specialty healthcare practices
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Payroll services
