@@ -114,7 +114,7 @@ A: It depends on the business. A dental practice often watches overhead ratio an
 <!-- block: cta-banner | variant: image-bg | image: business-owner-consultation-handshake.jpg | alt: "Business owner and CPA shaking hands after a consultation" | query: "business owner accountant consultation handshake" -->
 ## Start a conversation about your business's next stage
 
-If cash flow feels tighter than it should, or you're making decisions without the numbers to back them up, that's exactly what advisory services are for. We work with dentists, service-based businesses, and established small business owners across Minnesota, Wisconsin, and beyond.
+If cash flow feels tighter than it should, or you're making decisions without the numbers to back them up, that's exactly what advisory services are for. We work with dentists, insurance agencies, architects, law firms, and specialty healthcare providers across Minnesota, Wisconsin, and beyond.
 
 [Schedule a consultation](/contact) and we'll start with where your business stands today.
 
