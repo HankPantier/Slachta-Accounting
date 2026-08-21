@@ -248,7 +248,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Does Slachta handle payroll for small businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices and service-based businesses without in-house payroll staff."
+        "text": "Yes. Slachta processes payroll on weekly, biweekly, or monthly schedules, handles federal and state payroll tax filings, new hire reporting, and year-end W-2 and 1099 preparation. This is a common need for dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services without in-house payroll staff."
       }
     },
     {
