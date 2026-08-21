@@ -23,7 +23,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 <!-- block: intro-text | variant: centered -->
 ## Accounting support built around your business, not a template
 
-Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota, since 2005. Two decades in, the approach hasn't changed: understand how a business actually runs, then build accounting support around it, not the other way around. Business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare practices make up the client base, and each one needs something a little different from the next.
+Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota, since 2005. Two decades in, the approach hasn't changed: understand how a business actually runs, then build accounting support around it, not the other way around. Dentists, insurance agencies, architects, law firms, and specialty healthcare practices make up the core client base, and each one needs something a little different from the next.
 
 That's why this page works as a hub rather than a single service description. Below, you'll find outsourced accounting and bookkeeping, payroll processing, business tax planning and preparation, and advisory work covering cash flow, budgeting, and retirement plan evaluation. The firm serves clients nationwide, with the strongest concentration of relationships in Minnesota and Wisconsin. Whichever service you start with, the goal is the same: fewer surprises at tax time and a clearer read on where the business stands.
 
