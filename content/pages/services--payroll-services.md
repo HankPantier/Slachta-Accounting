@@ -50,7 +50,9 @@ Each of the industries we work with has its own payroll complexity, and a one-si
 
 **Insurance agencies** often run a combination of salaried staff and commission-based producers, where compensation structures shift with book-of-business changes. Keeping payroll accurate alongside those variables requires close attention to deduction and commission tracking.
 
-**Law firms and architecture firms** typically carry a mix of professional staff, support staff, and in some cases contractors or project-based employees. Payroll here has to account for different pay structures under one roof without creating reconciliation headaches at tax time.
+**Law firms** typically carry a mix of attorneys, support staff, and in some cases contractors or project-based employees. Payroll here has to account for different pay structures under one roof without creating reconciliation headaches at tax time.
+
+**Architecture firms** often run a similar mix of licensed professionals, administrative staff, and project-based contractors. Payroll needs to reflect varying compensation structures across those roles without creating gaps in the books between project cycles.
 
 **Specialty healthcare practices** face similar complexity to dental offices — licensed clinical staff, front-office employees, and varying benefit elections — with the added layer of compliance considerations that come with healthcare employment. We build payroll around how the practice actually operates, not a generic template.
 
