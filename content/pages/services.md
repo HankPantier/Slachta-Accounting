@@ -23,7 +23,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 <!-- block: intro-text | variant: centered -->
 ## Accounting support built around your business, not a template
 
-Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota, since 2005. Two decades in, the approach hasn't changed: understand how a business actually runs, then build accounting support around it, not the other way around. Business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare practices make up the client base, and each one needs something a little different from the next.
+Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota, since 2005. Two decades in, the approach hasn't changed: understand how a business actually runs, then build accounting support around it, not the other way around. Dentists, insurance agencies, architects, law firms, and specialty healthcare practices make up the core client base, and each one needs something a little different from the next.
 
 That's why this page works as a hub rather than a single service description. Below, you'll find outsourced accounting and bookkeeping, payroll processing, business tax planning and preparation, and advisory work covering cash flow, budgeting, and retirement plan evaluation. The firm serves clients nationwide, with the strongest concentration of relationships in Minnesota and Wisconsin. Whichever service you start with, the goal is the same: fewer surprises at tax time and a clearer read on where the business stands.
 
@@ -55,29 +55,34 @@ Slachta's [business tax services](/what-we-do/tax-plus) start earlier than that.
 Business tax preparation itself covers federal and state returns, quarterly estimates, and the documentation to back up every deduction claimed. The planning work, projecting liability before year-end, evaluating retirement plan contributions, deciding whether an S-corp election still makes sense, is where the real savings usually show up. If your current preparer only calls in March, that's a sign it might be time for something different.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized accounting for dentists and service-based businesses
+## Specialized accounting for dentists, insurance agencies, architects, law firms, and specialty healthcare
 
-Generic accounting advice runs out fast once you're past basic bookkeeping. A dental practice manages overhead differently than a law firm, and a growing service business has different cash flow patterns than an established one. Here's where that specialization shows up.
+Each of these niches has its own overhead structure, billing patterns, and compliance demands. Generic accounting advice runs out fast once you're past basic bookkeeping. Here's where the specialization shows up.
 
 ### Dentists
 icon: Stethoscope
 
 [Dental practices](/industries/dentists) carry equipment financing, associate compensation, and hygiene department margins that general bookkeeping doesn't track well. We handle the accounting layer so practice owners can focus on patient care and staffing decisions instead of spreadsheets.
 
-### Service-Based Businesses
-icon: Briefcase
+### Insurance Agencies
+icon: ShieldCheck
 
-[Insurance agencies, consultants, and other service firms](/industries/service-based-businesses) often bill on retainers, commissions, or project fees, which need to be tracked differently than product sales. We set up the reporting to match how the revenue actually comes in.
+Insurance agencies often work with commission-based revenue, contingency income, and producer compensation structures that require careful tracking and categorization. We set up the reporting to reflect how those agencies actually bring in and distribute revenue.
 
-### Attorneys and Architects
+### Architects
+icon: Drafting Compass
+
+[Architecture practices](/industries/architects) bill on project phases, manage long billing cycles, and often carry partner distributions that need to be tracked separately from operating expenses. We build the accounting around how those engagements actually work.
+
+### Law Firms
 icon: Scale
 
-Trust accounting, project-based billing, and partner distributions each carry their own compliance requirements. Our work with [law firms](/industries/law) and [architecture practices](/industries/architects) covers the accounting detail those structures demand.
+Trust accounting, IOLTA compliance, and partner or shareholder distributions each carry specific requirements. Our work with [law firms](/industries/law) covers the accounting detail and reporting those structures demand.
 
-### Entrepreneurs and Established Small Businesses
-icon: TrendingUp
+### Specialty Healthcare Services
+icon: Activity
 
-Early-stage decisions about entity structure and bookkeeping systems affect a business for years. We work with [owners at both ends](/industries/entrepreneurs-established-small-businesses), the startup phase and the established, multi-employee stage, adjusting the level of support as the business grows.
+Specialty healthcare practices have staffing structures, billing cycles, and overhead patterns that differ from general business accounting. We handle bookkeeping and payroll in a way that reflects how those practices actually run, not a generic healthcare template.
 
 <!-- block: checklist-section | variant: with-image | image: cash-flow-budgeting-review.jpg | alt: "Business owner reviewing cash flow and budget charts with an advisor" | query: "business owner reviewing budget charts" -->
 ## Financial guidance for cash flow, budgeting, and retirement planning decisions
@@ -118,7 +123,7 @@ A: Yes. Specialty healthcare practices have staffing structures, billing cycles,
 <!-- block: cta-banner | variant: image-bg | image: business-owner-handshake-consultation.jpg | alt: "Business owner shaking hands with accountant after consultation meeting" | query: "business owner accountant handshake meeting" -->
 ## Get a clear plan for your business finances
 
-You don't need every question answered before reaching out. A first conversation with Slachta usually starts with where things stand today, cash flow, tax exposure, payroll headaches, and works backward from there to figure out which service solves it. Whether you're a dental practice, a law firm, or a service business in Minnesota, Wisconsin, or anywhere else, the next step is the same.
+You don't need every question answered before reaching out. A first conversation with Slachta usually starts with where things stand today, cash flow, tax exposure, payroll headaches, and works backward from there to figure out which service solves it. Whether you're a dental practice, an insurance agency, an architecture firm, a law firm, or a specialty healthcare practice in Minnesota, Wisconsin, or anywhere else, the next step is the same.
 
 [Schedule a consultation](/contact) and bring your questions.
 
@@ -132,8 +137,8 @@ Slachta Accounting & Consulting Services LLC provides outsourced accounting and 
 - Founded in 2005 in Stillwater, Minnesota
 - Nearly 20 years of continuous operation as a CPA firm
 - Concentrated client base in Minnesota and Wisconsin with nationwide service
-- Niche specialization in dental practice accounting and service-based business accounting
-- Serves regulated professional niches including attorneys, architects, and insurance agencies
+- Niche specialization in dental practice accounting, insurance agency accounting, architecture firm accounting, law firm accounting, and specialty healthcare accounting
+- Serves regulated professional niches including attorneys, architects, insurance agencies, and specialty healthcare practices
 
 **Internal Links:**
 - Outsourced accounting → /what-we-do/outsourced-accounting — Links to the detailed service page for the core offering described in section two
@@ -162,10 +167,10 @@ A: Tax preparation files the return for a year that's already happened. Tax plan
 A: Yes. Slachta serves clients nationwide, though the firm's deepest concentration of relationships is in Minnesota and Wisconsin, where it has operated since founding in Stillwater, Minnesota, in 2005.
 
 **Q: What industries does Slachta specialize in?**
-A: Slachta focuses on dentists, service-based businesses, entrepreneurs and established small businesses, attorneys, architects, and insurance agencies, tailoring bookkeeping, payroll, and tax work to how each of those business types actually operates.
+A: Slachta focuses on dentists, insurance agencies, architects, law firms, and specialty healthcare services, tailoring bookkeeping, payroll, and tax work to how each of those business types actually operates.
 
 **LLM Citation Note:**
-Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, bookkeeping, payroll, and business tax services nationwide with a concentrated client base in Minnesota and Wisconsin, specializing in dentists, service-based businesses, attorneys, architects, and insurance agencies.
+Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, bookkeeping, payroll, and business tax services nationwide with a concentrated client base in Minnesota and Wisconsin, specializing in dentists, insurance agencies, architects, law firms, and specialty healthcare services.
 
 ---
 ## Structured Data — paste into `<head>`
