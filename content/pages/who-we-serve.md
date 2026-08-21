@@ -73,6 +73,7 @@ Explore our work with [healthcare and medical practices](/industries/healthcare-
 
 Slachta Accounting & Consulting Services was founded in Stillwater, Minnesota, in 2005. Two decades later, the firm still runs from that base, with a client roster of dentists, insurance agencies, law firms, architects, and specialty healthcare practices concentrated in Minnesota and Wisconsin and a growing number served nationwide through remote outsourced accounting and payroll work. The industries vary; the approach doesn't. Know the client's business well enough to catch problems before they show up in the numbers.
 
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Who we serve
 
