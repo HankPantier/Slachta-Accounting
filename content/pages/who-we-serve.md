@@ -96,6 +96,7 @@ A: Clients range from early-stage entrepreneurs to established small businesses 
 
 If you're a dentist, attorney, architect, insurance agency owner, or specialty healthcare provider trying to get a handle on cash flow, payroll, or budgeting, we'd like to hear where things stand. Schedule a consultation and we'll tell you directly whether our outsourced accounting and payroll services match what your practice or firm needs right now.
 
+
 [Schedule a consultation](/contact)
 
 ---
