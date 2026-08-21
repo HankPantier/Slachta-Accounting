@@ -55,29 +55,34 @@ Slachta's [business tax services](/what-we-do/tax-plus) start earlier than that.
 Business tax preparation itself covers federal and state returns, quarterly estimates, and the documentation to back up every deduction claimed. The planning work, projecting liability before year-end, evaluating retirement plan contributions, deciding whether an S-corp election still makes sense, is where the real savings usually show up. If your current preparer only calls in March, that's a sign it might be time for something different.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized accounting for dentists and service-based businesses
+## Specialized accounting for dentists, insurance agencies, architects, law firms, and specialty healthcare
 
-Generic accounting advice runs out fast once you're past basic bookkeeping. A dental practice manages overhead differently than a law firm, and a growing service business has different cash flow patterns than an established one. Here's where that specialization shows up.
+Each of these niches has its own overhead structure, billing patterns, and compliance demands. Generic accounting advice runs out fast once you're past basic bookkeeping. Here's where the specialization shows up.
 
 ### Dentists
 icon: Stethoscope
 
 [Dental practices](/industries/dentists) carry equipment financing, associate compensation, and hygiene department margins that general bookkeeping doesn't track well. We handle the accounting layer so practice owners can focus on patient care and staffing decisions instead of spreadsheets.
 
-### Service-Based Businesses
-icon: Briefcase
+### Insurance Agencies
+icon: ShieldCheck
 
-[Insurance agencies, consultants, and other service firms](/industries/service-based-businesses) often bill on retainers, commissions, or project fees, which need to be tracked differently than product sales. We set up the reporting to match how the revenue actually comes in.
+Insurance agencies often work with commission-based revenue, contingency income, and producer compensation structures that require careful tracking and categorization. We set up the reporting to reflect how those agencies actually bring in and distribute revenue.
 
-### Attorneys and Architects
+### Architects
+icon: Drafting Compass
+
+[Architecture practices](/industries/architects) bill on project phases, manage long billing cycles, and often carry partner distributions that need to be tracked separately from operating expenses. We build the accounting around how those engagements actually work.
+
+### Law Firms
 icon: Scale
 
-Trust accounting, project-based billing, and partner distributions each carry their own compliance requirements. Our work with [law firms](/industries/law) and [architecture practices](/industries/architects) covers the accounting detail those structures demand.
+Trust accounting, IOLTA compliance, and partner or shareholder distributions each carry specific requirements. Our work with [law firms](/industries/law) covers the accounting detail and reporting those structures demand.
 
-### Entrepreneurs and Established Small Businesses
-icon: TrendingUp
+### Specialty Healthcare Services
+icon: Activity
 
-Early-stage decisions about entity structure and bookkeeping systems affect a business for years. We work with [owners at both ends](/industries/entrepreneurs-established-small-businesses), the startup phase and the established, multi-employee stage, adjusting the level of support as the business grows.
+Specialty healthcare practices have staffing structures, billing cycles, and overhead patterns that differ from general business accounting. We handle bookkeeping and payroll in a way that reflects how those practices actually run, not a generic healthcare template.
 
 <!-- block: checklist-section | variant: with-image | image: cash-flow-budgeting-review.jpg | alt: "Business owner reviewing cash flow and budget charts with an advisor" | query: "business owner reviewing budget charts" -->
 ## Financial guidance for cash flow, budgeting, and retirement planning decisions
