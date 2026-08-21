@@ -21,11 +21,11 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in Sti
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Built for dentists, service businesses, and growing companies
+## Built for dentists, law firms, insurance agencies, architects, and specialty healthcare practices
 
-Slachta Accounting & Consulting Services has spent two decades working with a specific set of clients: dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and the entrepreneurs running service-based businesses. That focus shapes everything from how we build a chart of accounts to which KPIs we track each month.
+Slachta Accounting & Consulting Services has spent two decades working with a specific set of clients: dentists, insurance agencies, attorneys, architects, and specialty healthcare practices. That focus shapes everything from how we build a chart of accounts to which KPIs we track each month.
 
-We're not trying to be everything to everyone. A dental practice's overhead ratios look nothing like an architecture firm's project margins, and a first-year entrepreneur needs different support than a 15-person insurance agency. Below is a look at who we serve and how we help each group make sense of their numbers.
+We're not trying to be everything to everyone. A dental practice's overhead ratios look nothing like an architecture firm's project margins, and a law firm's trust accounting obligations look nothing like an insurance agency's commission timing challenges. Below is a look at who we serve and how we help each group make sense of their numbers.
 
 <!-- block: content-split | variant: image-right | image: dental-practice-accounting.jpg | alt: "Dentist reviewing financial reports with accounting advisor in office" | query: "dentist reviewing financial documents office" -->
 ## Dental practice accounting and financial guidance
