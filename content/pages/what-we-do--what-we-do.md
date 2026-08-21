@@ -232,7 +232,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Who does Slachta CPA typically work with?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slachta works primarily with business owners, dentists, insurance agencies, attorneys, architects, and specialty healthcare services, with concentrated experience in dental practices, service-based businesses, and entrepreneurs. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin."
+        "text": "Slachta works primarily with dentists, insurance agencies, architects, law firms, and specialty healthcare services, as well as business owners more broadly. The firm serves clients nationwide, with the heaviest presence in Minnesota and Wisconsin."
       }
     },
     {
