@@ -81,7 +81,7 @@ Retirement plan decisions touch payroll, tax planning, and personal financial go
 The same coordination applies to personal financial planning. Your business decisions affect your personal tax picture, and your advisor needs accurate numbers to plan around. We provide those numbers directly to your advisor rather than making you relay them, so the two sides of your financial life stay in sync instead of working from different assumptions.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for dentists, service businesses, and growing companies
+## Built for the businesses and practices we know best
 
 The services above aren't generic. Each one gets applied differently depending on what kind of business you run.
 
@@ -90,15 +90,25 @@ icon: Stethoscope
 
 Production-based KPIs, associate compensation structures, and equipment purchase timing all shape how we set up your books and tax strategy. See our [dental practice work](/industries/dentists).
 
-### Service-Based Businesses
-icon: Wrench
+### Insurance Agencies
+icon: Shield
 
-Job costing, project margins, and payroll for a workforce that fluctuates with demand require cash flow reporting built around your actual billing cycle. More on [service-based businesses](/industries/service-based-businesses).
+Commission tracking, producer compensation, and the cash flow timing that comes with contingency income require books built around how an agency actually gets paid. More on our [insurance agency work](/industries/insurance-agencies).
 
-### Entrepreneurs and Established Small Businesses
-icon: TrendingUp
+### Architects
+icon: Drafting Compass
 
-Whether you're two years in or twenty, the mix of tax planning, payroll, and advisory support changes as your business does. Read more about [entrepreneurs and established small businesses](/industries/entrepreneurs-established-small-businesses).
+Project-based billing cycles, WIP tracking, and the gap between invoiced and collected revenue make cash flow management especially important for architecture firms. Read more about our [architecture firm services](/industries/architects).
+
+### Law Firms
+icon: Scale
+
+Trust accounting, partner draws, and billing realization rates all require careful separation and reporting. We help law firms keep their books clean and their tax position current. Learn more about our [law firm services](/industries/law-firms).
+
+### Specialty Healthcare Services
+icon: HeartPulse
+
+Specialty healthcare practices face a mix of payroll complexity, equipment decisions, and entity structure questions that benefit from an accounting team that already knows the territory. See our [specialty healthcare services work](/industries/specialty-healthcare-services).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About What we do
