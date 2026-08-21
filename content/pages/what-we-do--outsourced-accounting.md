@@ -74,7 +74,7 @@ We build budgeting and KPI tracking into the outsourced accounting relationship 
 <!-- block: content-split | variant: image-left | image: advisor-meeting-client-retirement-planning.jpg | alt: "Financial advisor and business owner discussing retirement plan documents" | query: "financial advisor client consultation meeting" -->
 ## Retirement planning and collaboration with your financial advisor
 
-Retirement plan decisions, and personal financial planning generally, work best when your accountant and your financial advisor are looking at the same numbers instead of working from separate assumptions.
+Retirement plan decisions work best when your accountant and your financial advisor are looking at the same numbers instead of working from separate assumptions.
 
 We evaluate retirement plan options as part of the outsourced accounting relationship and coordinate directly with your financial advisor rather than leaving you to translate between the two. If you're comparing a SEP IRA against a 401(k) for your dental practice, or weighing profit-sharing contributions across a growing team, that conversation happens with your advisor in the room, not after the fact. It's a collaborative model, not a siloed one, and it's how retirement and tax decisions end up aligned instead of working against each other.
 
