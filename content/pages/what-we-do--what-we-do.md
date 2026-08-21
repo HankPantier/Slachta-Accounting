@@ -42,7 +42,7 @@ Missed a payroll tax deadline once and you know why owners stop doing this in-ho
 - Year-end W-2 and 1099 preparation
 - Direct support when an employee has a question about a paycheck
 
-Dental practices and service-based businesses rarely have the staff hours to own this correctly. Outsourcing payroll to a firm that also handles your books means one team, one set of numbers, and no gap between what payroll reports and what your financials show.
+Dental practices, insurance agencies, law firms, architecture firms, and specialty healthcare services rarely have the staff hours to own this correctly. Outsourcing payroll to a firm that also handles your books means one team, one set of numbers, and no gap between what payroll reports and what your financials show.
 
 <!-- block: content-split | variant: image-left | image: business-tax-planning-meeting.jpg | alt: "CPA and small business owner discussing tax strategy documents" | query: "tax planning meeting small business" -->
 ## Business tax services that plan ahead, not just file
