@@ -1,5 +1,5 @@
 ---
-title: "Auto Leasing vs. Buying: Which Makes More Sense?"
+title: Auto Leasing vs. Buying: Which Makes More Sense?
 slug: auto-leasing-vs-buying-which-makes-more-sense
 date: 2026-08-24
 excerpt: "A CPA framework for deciding whether to lease or buy your next vehicle, based on cash flow, Section 179 deductions, and how you actually drive."
