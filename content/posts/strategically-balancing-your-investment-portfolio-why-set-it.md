@@ -1,5 +1,5 @@
 ---
-title: "Why a Balanced Investment Portfolio Isn't a Set-It-and-Forget-It Decision"
+title: Why a Balanced Investment Portfolio Isn't a Set-It-and-Forget-It Decision
 slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 excerpt: "Portfolios drift out of balance quietly, and the tax cost of fixing them depends on timing. Here's how rebalancing, risk tolerance, and tax planning fit together for business owners."
