@@ -30,7 +30,7 @@ Most tax preparers file your return in April and move on until next year. Slacht
 Slachta connects those dots before the decision gets made, not after the return is filed. Founded in 2005 in Stillwater, Minnesota, Slachta Accounting & Consulting Services has spent two decades building this kind of forward-looking relationship with business owners across Minnesota, Wisconsin, and beyond.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Who benefits most from our Tax Plus approach
+## Who benefits most from our tax services approach
 
 ### Dentists
 icon: Stethoscope
