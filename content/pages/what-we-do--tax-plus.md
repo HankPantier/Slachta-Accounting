@@ -89,7 +89,7 @@ The firm serves clients nationwide, but the concentration stays close to home: d
 These tax services reflect that approach. They're scheduled, proactive, and built for a long relationship rather than a single transaction. Business owners who move from a transactional tax shop to Slachta's tax services often say the biggest difference isn't the tax bill. It's knowing someone is watching their numbers year-round.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Tax plus
+## Frequently Asked Questions About Tax Services
 
 **Q: What is Tax Plus?**
 A: Tax Plus is Slachta's year-round tax planning service. It pairs quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time.
