@@ -73,11 +73,11 @@ None of this replaces your annual filing. These services sit alongside it, feedi
 <!-- block: content-split | variant: image-left | image: business-owner-budget-review.jpg | alt: "Business owner reviewing budget and KPI reports with an accountant" | query: "business owner reviewing financial reports" -->
 ## How Tax Plus connects to your broader financial strategy
 
-A tax strategy that ignores your retirement plan, your budget, or your KPIs is only half a strategy. Slachta treats Tax Plus as one piece of a larger system, not a stand-alone product.
+A tax strategy that ignores your retirement plan, your budget, or your KPIs is only half a strategy. Slachta treats tax services as one piece of a larger system, not a stand-alone product.
 
 When a retirement plan gets evaluated, contribution limits and entity structure change the tax math on both sides. When a budget or KPI review happens, gross margin and labor cost percentage become the inputs for estimated tax calculations, not a separate exercise done later.
 
-This is where outsourced accounting and Tax Plus overlap: the bookkeeping data that drives your monthly financials is the same data that drives your quarterly tax projections. Clients who use both get a clearer, faster read on where they stand and what to do next.
+This is where outsourced accounting and tax services overlap: the bookkeeping data that drives your monthly financials is the same data that drives your quarterly tax projections. Clients who use both get a clearer, faster read on where they stand and what to do next.
 
 <!-- block: content-split | variant: image-right | image: minnesota-cpa-client-meeting.jpg | alt: "Accountant meeting with a small business client in a Minnesota office" | query: "accountant meeting small business owner office" -->
 ## Why Minnesota and Wisconsin businesses choose Slachta for tax planning
