@@ -6,7 +6,7 @@ excerpt: "How you use a second home, not what you call it, determines whether th
 image: lake-cabin-dock-summer.jpg
 image_alt: "A lakeside cabin with a dock, representing a second home that could generate rental income and tax considerations"
 tags: ["tax planning", "real estate tax", "second home", "rental income"]
-meta_title: "Second Home Tax Rules: The 14-Day Line That Matters"
+meta_title: "Second Home Tax Rules: The 14-Day Line That Matters | Slachta Accounting"
 meta_description: "Learn the IRS second home tax rules, including the 14-day rental threshold, deduction limits, and how a vacation property differs from an investment property."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]
