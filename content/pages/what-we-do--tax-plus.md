@@ -58,9 +58,9 @@ icon: HeartPulse
 Specialty practices managing a mix of insurance reimbursements and private-pay revenue need tax planning that accounts for collection timing and equipment cycles. Tax Plus connects those cash flow realities to your quarterly estimates and retirement contributions.
 
 <!-- block: checklist-section | variant: with-image | image: quarterly-tax-review-checklist.jpg | alt: "Accountant reviewing a quarterly tax planning checklist with a client" | query: "accountant reviewing checklist with client" -->
-## What's included in a Tax Plus engagement
+## What's included in a tax services engagement
 
-Tax Plus is built around five recurring pieces of work, each scheduled instead of left until year-end.
+Our tax services are built around five recurring pieces of work, each scheduled instead of left until year-end.
 
 - Quarterly check-ins to review income, expenses, and any life or business changes that affect your tax position
 - Entity structure review to confirm your S-corp, LLC, or partnership setup still fits your income level and goals
