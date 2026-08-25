@@ -40,7 +40,6 @@ Running a business means navigating cash flow, managing expenses, planning for t
 
 We've built our expertise through experience in serving:
 
-- Business owners and entrepreneurs at every stage
 - Dental practices
 - Attorneys and law firms
 - Insurance agencies
