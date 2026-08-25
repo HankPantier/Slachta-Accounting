@@ -6,7 +6,7 @@ excerpt: "Business credit card rewards can offset real expenses, but only if the
 image: business-owner-reviewing-credit-card-statement.jpg
 image_alt: "Small business owner reviewing a credit card statement and expense records at a desk"
 tags: ["tax planning", "cash flow", "small business finance"]
-meta_title: "Business Credit Card Rewards Strategy: A CPA's Guide"
+meta_title: "Business Credit Card Rewards Strategy: A CPA's Guide | Slachta CPA"
 meta_description: "Are business credit card rewards taxable? Learn how to choose the right card, track rewards correctly, and build a real cash-flow strategy around it."
 target_keyword: "business credit card rewards strategy"
 secondary_keywords: ["best business credit card for small business taxes", "are credit card rewards taxable for businesses", "how to choose a business credit card", "maximize business credit card points"]
