@@ -258,7 +258,7 @@ Slachta's tax services include quarterly check-ins, entity structure review, est
     "name": "Slachta Accounting & Consulting Services LLC",
     "url": "https://www.slachtacpa.com"
   },
-  "serviceType": "Tax plus",
+  "serviceType": "Tax Services",
   "audience": [
     {
       "@type": "Audience",
