@@ -245,9 +245,9 @@ Slachta's tax services include quarterly check-ins, entity structure review, est
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Tax Plus Year-Round Tax Planning | Slachta CPA Firm",
-  "url": "https://www.slachtacpa.com/what-we-do/tax-plus",
-  "description": "Tax Plus delivers year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation with Slachta CPA.",
+  "name": "Tax Services Year-Round Tax Planning | Slachta CPA Firm",
+  "url": "https://www.slachtacpa.com/what-we-do/tax-services",
+  "description": "Slachta's tax services deliver year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Slachta Accounting & Consulting Services LLC",
