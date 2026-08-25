@@ -6,7 +6,7 @@ excerpt: "Insurance coverage should be sized against your net worth and cash flo
 image: insurance-documents-financial-planning-desk.jpg
 image_alt: "Business owner reviewing insurance policy documents and financial statements at a desk"
 tags: ["insurance planning", "risk management", "financial planning", "business owners"]
-meta_title: "How Much Insurance Coverage Do You Need? A CPA's Guide"
+meta_title: "How Much Insurance Coverage Do You Need? | Slachta Accounting & Consulting Services | Stillwater, MN"
 meta_description: "Learn how to size life, disability, umbrella, and business insurance against real net worth and cash flow exposure, not generic rules of thumb, from a CPA firm."
 target_keyword: "how much insurance coverage do you need"
 secondary_keywords: ["types of insurance for financial protection", "business insurance coverage checklist", "insurance needs analysis", "personal risk management planning"]
