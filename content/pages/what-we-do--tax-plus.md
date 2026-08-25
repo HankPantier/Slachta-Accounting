@@ -68,7 +68,7 @@ Our tax services are built around five recurring pieces of work, each scheduled 
 - Coordination with your payroll and outsourced accounting data, so tax projections are built on real numbers, not guesses
 - Collaboration with your financial advisor on retirement contributions, distribution timing, and other moves that touch both your tax return and your investment plan
 
-None of this replaces your annual filing. It sits alongside it, feeding better information into the return you file every spring.
+None of this replaces your annual filing. These services sit alongside it, feeding better information into the return you file every spring.
 
 <!-- block: content-split | variant: image-left | image: business-owner-budget-review.jpg | alt: "Business owner reviewing budget and KPI reports with an accountant" | query: "business owner reviewing financial reports" -->
 ## How Tax Plus connects to your broader financial strategy
