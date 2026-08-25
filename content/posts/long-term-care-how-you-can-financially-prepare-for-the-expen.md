@@ -6,7 +6,7 @@ excerpt: "Long-term care can cost $90,000 to $600,000 or more depending on how l
 image: senior-couple-reviewing-financial-documents.jpg
 image_alt: "Senior couple reviewing financial and insurance documents at their kitchen table"
 tags: ["long-term care", "retirement planning", "tax planning", "elder care"]
-meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide"
+meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide | Slachta Accounting"
 meta_description: "Long-term care planning costs can reach $600,000. Compare long-term care insurance vs self-funding and VA Aid and Attendance benefits with a Minnesota CPA."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
