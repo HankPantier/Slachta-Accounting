@@ -25,7 +25,7 @@ hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, M
 
 - Calculator: **Outsourced Accounting:** Accurate, reliable bookkeeping and accounting so you can focus on running your business.
 - Briefcase: **Payroll Services:** Timely, compliant payroll processing handled for you from start to finish.
-- ChartLine: **Business Tax Services:** Strategic tax planning and compliance designed around your business goals.
+- ChartLine: **Tax Services:** Strategic tax planning and compliance designed around your business goals.
 - Lightbulb: **Advisory Services:** Expert guidance to help you make informed decisions for your business.
 
 <!-- block: content-split | variant: image-right -->
