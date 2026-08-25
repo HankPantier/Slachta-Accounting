@@ -26,7 +26,7 @@ There are exceptions worth knowing. Rewards earned just for opening an account, 
 
 The practical takeaway: rewards themselves are not usually a tax event, but how you book them matters. If a $750 cash back credit sits unclassified in your general ledger for a year, your CPA either has to track it down at tax time or make an assumption. Neither is ideal. The IRS Small Business and Self-Employed Tax Center lays out general recordkeeping expectations for business expenses, and rewards tracking falls under that same discipline: [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed).
 
-## Matching card structure to your actual spending
+## [Matching card structure to your actual spending](/resources/business-credit-card-rewards-a-financial-strategy-for-busine-2)
 
 Most business owners choose a card based on the sign-up bonus. That is backwards. The better question is: where does your money actually go every month, and which rewards structure pays you back the most for that specific pattern?
 
