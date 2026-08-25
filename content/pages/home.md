@@ -10,7 +10,7 @@ hero: hero
 hero_variant: statement
 hero_headline: Accounting and consulting that keeps your business moving forward.
 hero_eyebrow: Stillwater, MN · Founded 2005
-hero_subhead: Outsourced accounting, payroll, and business tax services for small businesses, dentists, and service professionals — across Minnesota, Wisconsin, and nationwide.
+hero_subhead: Outsourced accounting, payroll, and tax services for small businesses, dentists, and service professionals — across Minnesota, Wisconsin, and nationwide.
 hero_image: hero-office.png
 hero_image_alt: Slachta Accounting & Consulting Services office in Stillwater, Minnesota
 ---
