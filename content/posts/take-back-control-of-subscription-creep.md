@@ -6,8 +6,8 @@ excerpt: "Subscription creep quietly drains business and personal budgets a few 
 image: person-reviewing-bank-statement-subscriptions.jpg
 image_alt: "Business owner reviewing a bank statement on a laptop to identify recurring subscription charges"
 tags: ["budgeting", "cash flow", "expense management", "small business"]
-meta_title: "Subscription Creep: How to Audit and Cut Costs Fast"
-meta_description: "Subscription creep quietly drains cash from budgets and business accounts. Learn how to audit recurring charges and control costs with a CPA's approach."
+meta_title: "Subscription Creep: How to Audit and Cut Costs Fast | Slachta Accounting – Stillwater, MN"
+meta_description: "Subscription creep quietly drains cash from budgets and business accounts. Learn how to audit recurring charges and control costs with Slachta Accounting, a CPA firm in Stillwater, MN."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
 canonical_url: https://www.slachtacpa.com/resources/take-back-control-of-subscription-creep
