@@ -1,11 +1,11 @@
 ---
-title: "Tax plus | Slachta Accounting & Consulting Services LLC"
-url: "/what-we-do/tax-plus"
-meta_title: "Tax Plus Year-Round Tax Planning | Slachta CPA Firm"
-meta_description: "Tax Plus delivers year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation with Slachta CPA."
-target_keyword: "tax plus"
+title: "Tax Services | Slachta Accounting & Consulting Services LLC"
+url: "/what-we-do/tax-services"
+meta_title: "Tax Services Year-Round Tax Planning | Slachta CPA Firm"
+meta_description: "Slachta's tax services deliver year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation."
+target_keyword: "tax services"
 secondary_keywords: ["tax planning services","proactive tax planning","quarterly tax planning","CPA Minnesota Wisconsin","year-round tax strategy"]
-canonical_url: "https://www.slachtacpa.com/what-we-do/tax-plus"
+canonical_url: "https://www.slachtacpa.com/what-we-do/tax-services"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
