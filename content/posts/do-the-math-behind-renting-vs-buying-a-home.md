@@ -6,8 +6,8 @@ excerpt: "Buying versus renting isn't a lifestyle choice or a market-timing bet,
 image: couple-reviewing-finances-at-kitchen-table.jpg
 image_alt: "A couple sitting at a kitchen table reviewing financial documents and a calculator while deciding between renting and buying a home"
 tags: ["personal finance", "homeownership", "financial planning", "tax planning"]
-meta_title: "Buy vs Rent a Home: Run the Financial Math First"
-meta_description: "Buy vs rent home financially: compare real costs, opportunity cost, and the mortgage interest deduction with a CPA's framework before you decide."
+meta_title: "Buy vs Rent a Home: Run the Financial Math First | Slachta CPA"
+meta_description: "Buy vs rent home financially: compare real costs, opportunity cost, and the mortgage interest deduction with a CPA's framework from Slachta Accounting & Consulting in Stillwater, MN."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
 canonical_url: https://www.slachtacpa.com/resources/do-the-math-behind-renting-vs-buying-a-home
