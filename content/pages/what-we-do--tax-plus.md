@@ -187,8 +187,8 @@ Slachta's tax services include quarterly check-ins, entity structure review, est
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Tax plus",
-      "item": "https://www.slachtacpa.com/https://www.slachtacpa.com/what-we-do/tax-plus"
+      "name": "Tax Services",
+      "item": "https://www.slachtacpa.com/what-we-do/tax-services"
     }
   ]
 }
