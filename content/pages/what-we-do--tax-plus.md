@@ -23,11 +23,11 @@ llm_citation_note: "Slachta's tax services include quarterly check-ins, entity s
 <!-- block: content-split | variant: image-right | image: tax-plus-planning-meeting.jpg | alt: "Accountant and business owner reviewing tax planning documents at a desk" | query: "accountant client meeting office documents" -->
 ## Tax planning built around your whole financial picture
 
-Tax Plus is not a bigger version of your annual return. It's a running conversation about how tax decisions affect the rest of your finances, from the cash you keep in the business to the retirement account you fund every quarter.
+These tax services are not a bigger version of your annual return. They're a running conversation about how tax decisions affect the rest of your finances, from the cash you keep in the business to the retirement account you fund every quarter.
 
-Most tax preparers file your return in April and move on until next year. Slachta built Tax Plus differently: quarterly reviews, adjustments when your income shifts mid-year, and a strategy that changes as your business does. A dentist buying new equipment, an insurance agency navigating a commission windfall, an architect closing a major contract, a law firm timing a partner distribution, a specialty healthcare practice planning an equipment purchase — each of those decisions carries tax consequences today, not just next April.
+Most tax preparers file your return in April and move on until next year. Slachta approaches tax services differently: quarterly reviews, adjustments when your income shifts mid-year, and a strategy that changes as your business does. A dentist buying new equipment, an insurance agency navigating a commission windfall, an architect closing a major contract, a law firm timing a partner distribution, a specialty healthcare practice planning an equipment purchase — each of those decisions carries tax consequences today, not just next April.
 
-Tax Plus connects those dots before the decision gets made, not after the return is filed. Founded in 2005 in Stillwater, Minnesota, Slachta Accounting & Consulting Services has spent two decades building this kind of forward-looking relationship with business owners across Minnesota, Wisconsin, and beyond.
+Slachta connects those dots before the decision gets made, not after the return is filed. Founded in 2005 in Stillwater, Minnesota, Slachta Accounting & Consulting Services has spent two decades building this kind of forward-looking relationship with business owners across Minnesota, Wisconsin, and beyond.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Who benefits most from our Tax Plus approach
