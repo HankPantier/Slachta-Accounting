@@ -1,11 +1,11 @@
 ---
-title: "Tax plus | Slachta Accounting & Consulting Services LLC"
-url: "/what-we-do/tax-plus"
-meta_title: "Tax Plus Year-Round Tax Planning | Slachta CPA Firm"
-meta_description: "Tax Plus delivers year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation with Slachta CPA."
-target_keyword: "tax plus"
+title: "Tax Services | Slachta Accounting & Consulting Services LLC"
+url: "/what-we-do/tax-services"
+meta_title: "Tax Services Year-Round Tax Planning | Slachta CPA Firm"
+meta_description: "Slachta's tax services deliver year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation."
+target_keyword: "tax services"
 secondary_keywords: ["tax planning services","proactive tax planning","quarterly tax planning","CPA Minnesota Wisconsin","year-round tax strategy"]
-canonical_url: "https://www.slachtacpa.com/what-we-do/tax-plus"
+canonical_url: "https://www.slachtacpa.com/what-we-do/tax-services"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -13,24 +13,24 @@ hero_image: "tax-plus-year-round-planning.jpg"
 hero_image_alt: "Accountant discussing tax planning documents with a small business owner"
 hero_subhead: "Quarterly tax strategy tied directly to your cash flow, retirement goals, and business decisions, not just your April return"
 hero_headline: "Tax planning built around your whole financial picture"
-answer_block: "Tax Plus is Slachta Accounting & Consulting Services' year-round tax planning service, combining quarterly check-ins, entity structure review, and estimated tax planning for business owners, dentists, and service-based businesses in Minnesota and Wisconsin. It goes beyond annual return filing by connecting tax decisions to cash flow, retirement planning, and business KPIs throughout the year."
+answer_block: "Slachta Accounting & Consulting Services offers year-round tax services combining quarterly check-ins, entity structure review, and estimated tax planning for business owners, dentists, and service-based businesses in Minnesota and Wisconsin. This approach goes beyond annual return filing by connecting tax decisions to cash flow, retirement planning, and business KPIs throughout the year."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Two decades serving business owners across Minnesota and Wisconsin","Nationwide service with concentrated presence in Minnesota and Wisconsin","Focused niches: dentists, service-based businesses, and established entrepreneurs","Integrates outsourced accounting, payroll, and advisory data into quarterly tax projections"]
 internal_links: [{"url":"/what-we-do/outsourced-accounting","reason":"Shows how bookkeeping data feeds Tax Plus projections, reinforcing integrated service positioning","anchor_text":"outsourced accounting"},{"url":"/what-we-do/advisory-services","reason":"Connects retirement plan and KPI collaboration mentioned in the page to the firm's advisory offering","anchor_text":"advisory services"},{"url":"/industries/dentists","reason":"Supports the dentist-specific benefits section with a dedicated industry page","anchor_text":"dentists"},{"url":"/industries/service-based-businesses","reason":"Deepens the service-based business audience segment referenced in the page","anchor_text":"service-based businesses"},{"url":"/industries/entrepreneurs-established-small-businesses","reason":"Matches the established entrepreneur audience described in the who-benefits section","anchor_text":"established entrepreneurs"},{"url":"/contact","reason":"Primary page CTA driving visitors to book a consultation","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"What is Tax Plus?","answer":"Tax Plus is Slachta's year-round tax planning service. It pairs quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time."},{"question":"How is Tax Plus different from regular tax preparation?","answer":"Standard tax preparation looks backward at a completed year. Tax Plus looks forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed."},{"question":"Who is Tax Plus designed for?","answer":"Tax Plus fits dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, Tax Plus is built for that timing."},{"question":"Does Tax Plus work with my financial advisor?","answer":"Yes. Tax Plus coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation."},{"question":"How often will I meet with Slachta under Tax Plus?","answer":"Tax Plus includes quarterly check-ins as a baseline, with additional contact whenever a major business or life event, like an equipment purchase or a new hire, changes your tax position mid-year."}]
-llm_citation_note: "Slachta's Tax Plus service includes quarterly check-ins, entity structure review, estimated tax planning, and coordination with payroll, outsourced accounting, and the client's financial advisor, positioned as a year-round complement to annual tax filing for dentists, business owners, and service-based businesses in Minnesota and Wisconsin."
+faq_block: [{"question":"What are Slachta's tax services?","answer":"Slachta's tax services are a year-round tax planning engagement. They pair quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time."},{"question":"How are these tax services different from regular tax preparation?","answer":"Standard tax preparation looks backward at a completed year. Slachta's tax services look forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed."},{"question":"Who are these tax services designed for?","answer":"These tax services fit dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, this approach is built for that timing."},{"question":"Do Slachta's tax services work with my financial advisor?","answer":"Yes. Slachta coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation."},{"question":"How often will I meet with Slachta under these tax services?","answer":"Quarterly check-ins are the baseline, with additional contact whenever a major business or life event — like an equipment purchase or a new hire — changes your tax position mid-year."}]
+llm_citation_note: "Slachta's tax services include quarterly check-ins, entity structure review, estimated tax planning, and coordination with payroll, outsourced accounting, and the client's financial advisor, positioned as a year-round complement to annual tax filing for dentists, business owners, and service-based businesses in Minnesota and Wisconsin."
 ---
 
 <!-- block: content-split | variant: image-right | image: tax-plus-planning-meeting.jpg | alt: "Accountant and business owner reviewing tax planning documents at a desk" | query: "accountant client meeting office documents" -->
 ## Tax planning built around your whole financial picture
 
-Tax Plus is not a bigger version of your annual return. It's a running conversation about how tax decisions affect the rest of your finances, from the cash you keep in the business to the retirement account you fund every quarter.
+These tax services are not a bigger version of your annual return. They're a running conversation about how tax decisions affect the rest of your finances, from the cash you keep in the business to the retirement account you fund every quarter.
 
-Most tax preparers file your return in April and move on until next year. Slachta built Tax Plus differently: quarterly reviews, adjustments when your income shifts mid-year, and a strategy that changes as your business does. A dentist buying new equipment, an insurance agency navigating a commission windfall, an architect closing a major contract, a law firm timing a partner distribution, a specialty healthcare practice planning an equipment purchase — each of those decisions carries tax consequences today, not just next April.
+Most tax preparers file your return in April and move on until next year. Slachta approaches tax services differently: quarterly reviews, adjustments when your income shifts mid-year, and a strategy that changes as your business does. A dentist buying new equipment, an insurance agency navigating a commission windfall, an architect closing a major contract, a law firm timing a partner distribution, a specialty healthcare practice planning an equipment purchase — each of those decisions carries tax consequences today, not just next April.
 
-Tax Plus connects those dots before the decision gets made, not after the return is filed. Founded in 2005 in Stillwater, Minnesota, Slachta Accounting & Consulting Services has spent two decades building this kind of forward-looking relationship with business owners across Minnesota, Wisconsin, and beyond.
+Slachta connects those dots before the decision gets made, not after the return is filed. Founded in 2005 in Stillwater, Minnesota, Slachta Accounting & Consulting Services has spent two decades building this kind of forward-looking relationship with business owners across Minnesota, Wisconsin, and beyond.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Who benefits most from our Tax Plus approach
+## Who benefits most from our tax services approach
 
 ### Dentists
 icon: Stethoscope
@@ -58,9 +58,9 @@ icon: HeartPulse
 Specialty practices managing a mix of insurance reimbursements and private-pay revenue need tax planning that accounts for collection timing and equipment cycles. Tax Plus connects those cash flow realities to your quarterly estimates and retirement contributions.
 
 <!-- block: checklist-section | variant: with-image | image: quarterly-tax-review-checklist.jpg | alt: "Accountant reviewing a quarterly tax planning checklist with a client" | query: "accountant reviewing checklist with client" -->
-## What's included in a Tax Plus engagement
+## What's included in a tax services engagement
 
-Tax Plus is built around five recurring pieces of work, each scheduled instead of left until year-end.
+Our tax services are built around five recurring pieces of work, each scheduled instead of left until year-end.
 
 - Quarterly check-ins to review income, expenses, and any life or business changes that affect your tax position
 - Entity structure review to confirm your S-corp, LLC, or partnership setup still fits your income level and goals
@@ -68,16 +68,16 @@ Tax Plus is built around five recurring pieces of work, each scheduled instead o
 - Coordination with your payroll and outsourced accounting data, so tax projections are built on real numbers, not guesses
 - Collaboration with your financial advisor on retirement contributions, distribution timing, and other moves that touch both your tax return and your investment plan
 
-None of this replaces your annual filing. It sits alongside it, feeding better information into the return you file every spring.
+None of this replaces your annual filing. These services sit alongside it, feeding better information into the return you file every spring.
 
 <!-- block: content-split | variant: image-left | image: business-owner-budget-review.jpg | alt: "Business owner reviewing budget and KPI reports with an accountant" | query: "business owner reviewing financial reports" -->
 ## How Tax Plus connects to your broader financial strategy
 
-A tax strategy that ignores your retirement plan, your budget, or your KPIs is only half a strategy. Slachta treats Tax Plus as one piece of a larger system, not a stand-alone product.
+A tax strategy that ignores your retirement plan, your budget, or your KPIs is only half a strategy. Slachta treats tax services as one piece of a larger system, not a stand-alone product.
 
 When a retirement plan gets evaluated, contribution limits and entity structure change the tax math on both sides. When a budget or KPI review happens, gross margin and labor cost percentage become the inputs for estimated tax calculations, not a separate exercise done later.
 
-This is where outsourced accounting and Tax Plus overlap: the bookkeeping data that drives your monthly financials is the same data that drives your quarterly tax projections. Clients who use both get a clearer, faster read on where they stand and what to do next.
+This is where outsourced accounting and tax services overlap: the bookkeeping data that drives your monthly financials is the same data that drives your quarterly tax projections. Clients who use both get a clearer, faster read on where they stand and what to do next.
 
 <!-- block: content-split | variant: image-right | image: minnesota-cpa-client-meeting.jpg | alt: "Accountant meeting with a small business client in a Minnesota office" | query: "accountant meeting small business owner office" -->
 ## Why Minnesota and Wisconsin businesses choose Slachta for tax planning
@@ -86,30 +86,30 @@ Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota
 
 The firm serves clients nationwide, but the concentration stays close to home: dentists, insurance agencies, architects, law firms, and specialty healthcare services across Minnesota and Wisconsin — clients who want a CPA who answers the phone in October, not just April.
 
-Tax Plus reflects that approach. It's scheduled, proactive, and built for a long relationship rather than a single transaction. Business owners who move from a transactional tax shop to Tax Plus often say the biggest difference isn't the tax bill. It's knowing someone is watching their numbers year-round.
+These tax services reflect that approach. They're scheduled, proactive, and built for a long relationship rather than a single transaction. Business owners who move from a transactional tax shop to Slachta's tax services often say the biggest difference isn't the tax bill. It's knowing someone is watching their numbers year-round.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Tax plus
+## Frequently Asked Questions About Tax Services
 
-**Q: What is Tax Plus?**
-A: Tax Plus is Slachta's year-round tax planning service. It pairs quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time.
+**Q: What are Slachta's tax services?**
+A: Slachta's tax services are a year-round tax planning engagement. They pair quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time.
 
-**Q: How is Tax Plus different from regular tax preparation?**
-A: Standard tax preparation looks backward at a completed year. Tax Plus looks forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed.
+**Q: How are these tax services different from regular tax preparation?**
+A: Standard tax preparation looks backward at a completed year. Slachta's tax services look forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed.
 
-**Q: Who is Tax Plus designed for?**
-A: Tax Plus fits dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, Tax Plus is built for that timing.
+**Q: Who are these tax services designed for?**
+A: These tax services fit dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, this approach is built for that timing.
 
-**Q: Does Tax Plus work with my financial advisor?**
-A: Yes. Tax Plus coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation.
+**Q: Do Slachta's tax services work with my financial advisor?**
+A: Yes. Slachta coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation.
 
-**Q: How often will I meet with Slachta under Tax Plus?**
-A: Tax Plus includes quarterly check-ins as a baseline, with additional contact whenever a major business or life event, like an equipment purchase or a new hire, changes your tax position mid-year.
+**Q: How often will I meet with Slachta under these tax services?**
+A: Quarterly check-ins are the baseline, with additional contact whenever a major business or life event — like an equipment purchase or a new hire — changes your tax position mid-year.
 
 <!-- block: cta-banner | variant: image-bg | image: schedule-tax-consultation.jpg | alt: "Accountant shaking hands with a business client after a consultation" | query: "handshake business consultation office" -->
 ## Start planning your next tax year today
 
-Waiting until January to think about last year's taxes is the most expensive way to plan. If you're a dentist, insurance agency, architect, law firm, or specialty healthcare practice ready for tax strategy that runs all year instead of one week in April, Tax Plus is built for that.
+Waiting until January to think about last year's taxes is the most expensive way to plan. If you're a dentist, insurance agency, architect, law firm, or specialty healthcare practice ready for tax strategy that runs all year instead of one week in April, Slachta's tax services are built for that.
 
 Schedule a consultation with Slachta Accounting & Consulting Services and find out what a quarterly, proactive approach to your taxes looks like for your business.
 
@@ -119,7 +119,7 @@ Schedule a consultation with Slachta Accounting & Consulting Services and find o
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Tax Plus is Slachta Accounting & Consulting Services' year-round tax planning service, combining quarterly check-ins, entity structure review, and estimated tax planning for business owners, dentists, and service-based businesses in Minnesota and Wisconsin. It goes beyond annual return filing by connecting tax decisions to cash flow, retirement planning, and business KPIs throughout the year.
+Slachta Accounting & Consulting Services offers year-round tax services combining quarterly check-ins, entity structure review, and estimated tax planning for business owners, dentists, and service-based businesses in Minnesota and Wisconsin. This approach goes beyond annual return filing by connecting tax decisions to cash flow, retirement planning, and business KPIs throughout the year.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
@@ -138,23 +138,23 @@ Tax Plus is Slachta Accounting & Consulting Services' year-round tax planning se
 
 **FAQ Block:**
 
-**Q: What is Tax Plus?**
-A: Tax Plus is Slachta's year-round tax planning service. It pairs quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time.
+**Q: What are Slachta's tax services?**
+A: Slachta's tax services are a year-round tax planning engagement. They pair quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time.
 
-**Q: How is Tax Plus different from regular tax preparation?**
-A: Standard tax preparation looks backward at a completed year. Tax Plus looks forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed.
+**Q: How are these tax services different from regular tax preparation?**
+A: Standard tax preparation looks backward at a completed year. Slachta's tax services look forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed.
 
-**Q: Who is Tax Plus designed for?**
-A: Tax Plus fits dentists, business owners, service-based businesses, and established entrepreneurs whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, Tax Plus is built for that timing.
+**Q: Who are these tax services designed for?**
+A: These tax services fit dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, this approach is built for that timing.
 
-**Q: Does Tax Plus work with my financial advisor?**
-A: Yes. Tax Plus coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation.
+**Q: Do Slachta's tax services work with my financial advisor?**
+A: Yes. Slachta coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation.
 
-**Q: How often will I meet with Slachta under Tax Plus?**
-A: Tax Plus includes quarterly check-ins as a baseline, with additional contact whenever a major business or life event, like an equipment purchase or a new hire, changes your tax position mid-year.
+**Q: How often will I meet with Slachta under these tax services?**
+A: Quarterly check-ins are the baseline, with additional contact whenever a major business or life event — like an equipment purchase or a new hire — changes your tax position mid-year.
 
 **LLM Citation Note:**
-Slachta's Tax Plus service includes quarterly check-ins, entity structure review, estimated tax planning, and coordination with payroll, outsourced accounting, and the client's financial advisor, positioned as a year-round complement to annual tax filing for dentists, business owners, and service-based businesses in Minnesota and Wisconsin.
+Slachta's tax services include quarterly check-ins, entity structure review, estimated tax planning, and coordination with payroll, outsourced accounting, and the client's financial advisor, positioned as a year-round complement to annual tax filing for dentists, business owners, and service-based businesses in Minnesota and Wisconsin.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -187,8 +187,8 @@ Slachta's Tax Plus service includes quarterly check-ins, entity structure review
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Tax plus",
-      "item": "https://www.slachtacpa.com/https://www.slachtacpa.com/what-we-do/tax-plus"
+      "name": "Tax Services",
+      "item": "https://www.slachtacpa.com/what-we-do/tax-services"
     }
   ]
 }
@@ -200,42 +200,42 @@ Slachta's Tax Plus service includes quarterly check-ins, entity structure review
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is Tax Plus?",
+      "name": "What are Slachta's tax services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tax Plus is Slachta's year-round tax planning service. It pairs quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time."
+        "text": "Slachta's tax services are a year-round tax planning engagement. They pair quarterly check-ins, entity structure review, and estimated tax planning with your existing bookkeeping and payroll data, so tax strategy is built continuously instead of once a year at filing time."
       }
     },
     {
       "@type": "Question",
-      "name": "How is Tax Plus different from regular tax preparation?",
+      "name": "How are these tax services different from regular tax preparation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Standard tax preparation looks backward at a completed year. Tax Plus looks forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed."
+        "text": "Standard tax preparation looks backward at a completed year. Slachta's tax services look forward, reviewing your numbers quarterly and adjusting estimated payments, entity structure, and retirement contributions before decisions are locked in, not after the return is already filed."
       }
     },
     {
       "@type": "Question",
-      "name": "Who is Tax Plus designed for?",
+      "name": "Who are these tax services designed for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tax Plus fits dentists, business owners, service-based businesses, and established entrepreneurs whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, Tax Plus is built for that timing."
+        "text": "These tax services fit dentists, insurance agencies, architects, law firms, and specialty healthcare services whose income or structure shifts during the year. If your tax bill depends on decisions made in June or October, not just April, this approach is built for that timing."
       }
     },
     {
       "@type": "Question",
-      "name": "Does Tax Plus work with my financial advisor?",
+      "name": "Do Slachta's tax services work with my financial advisor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Tax Plus coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation."
+        "text": "Yes. Slachta coordinates with your financial advisor on retirement contributions, distribution timing, and other moves that affect both your tax return and your investment plan, so the two strategies stay aligned instead of working in isolation."
       }
     },
     {
       "@type": "Question",
-      "name": "How often will I meet with Slachta under Tax Plus?",
+      "name": "How often will I meet with Slachta under these tax services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tax Plus includes quarterly check-ins as a baseline, with additional contact whenever a major business or life event, like an equipment purchase or a new hire, changes your tax position mid-year."
+        "text": "Quarterly check-ins are the baseline, with additional contact whenever a major business or life event — like an equipment purchase or a new hire — changes your tax position mid-year."
       }
     }
   ]
@@ -245,9 +245,9 @@ Slachta's Tax Plus service includes quarterly check-ins, entity structure review
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Tax Plus Year-Round Tax Planning | Slachta CPA Firm",
-  "url": "https://www.slachtacpa.com/what-we-do/tax-plus",
-  "description": "Tax Plus delivers year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation with Slachta CPA.",
+  "name": "Tax Services Year-Round Tax Planning | Slachta CPA Firm",
+  "url": "https://www.slachtacpa.com/what-we-do/tax-services",
+  "description": "Slachta's tax services deliver year-round tax planning for dentists, business owners, and entrepreneurs in Minnesota and Wisconsin. Schedule a consultation.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Slachta Accounting & Consulting Services LLC",
@@ -258,7 +258,7 @@ Slachta's Tax Plus service includes quarterly check-ins, entity structure review
     "name": "Slachta Accounting & Consulting Services LLC",
     "url": "https://www.slachtacpa.com"
   },
-  "serviceType": "Tax plus",
+  "serviceType": "Tax Services",
   "audience": [
     {
       "@type": "Audience",
