@@ -109,7 +109,7 @@ A: Tax Plus includes quarterly check-ins as a baseline, with additional contact 
 <!-- block: cta-banner | variant: image-bg | image: schedule-tax-consultation.jpg | alt: "Accountant shaking hands with a business client after a consultation" | query: "handshake business consultation office" -->
 ## Start planning your next tax year today
 
-Waiting until January to think about last year's taxes is the most expensive way to plan. If you're a dentist, insurance agency, architect, law firm, or specialty healthcare practice ready for tax strategy that runs all year instead of one week in April, Tax Plus is built for that.
+Waiting until January to think about last year's taxes is the most expensive way to plan. If you're a dentist, insurance agency, architect, law firm, or specialty healthcare practice ready for tax strategy that runs all year instead of one week in April, Slachta's tax services are built for that.
 
 Schedule a consultation with Slachta Accounting & Consulting Services and find out what a quarterly, proactive approach to your taxes looks like for your business.
 
