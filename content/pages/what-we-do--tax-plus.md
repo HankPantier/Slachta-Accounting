@@ -86,7 +86,7 @@ Slachta Accounting & Consulting Services has worked out of Stillwater, Minnesota
 
 The firm serves clients nationwide, but the concentration stays close to home: dentists, insurance agencies, architects, law firms, and specialty healthcare services across Minnesota and Wisconsin — clients who want a CPA who answers the phone in October, not just April.
 
-Tax Plus reflects that approach. It's scheduled, proactive, and built for a long relationship rather than a single transaction. Business owners who move from a transactional tax shop to Tax Plus often say the biggest difference isn't the tax bill. It's knowing someone is watching their numbers year-round.
+These tax services reflect that approach. They're scheduled, proactive, and built for a long relationship rather than a single transaction. Business owners who move from a transactional tax shop to Slachta's tax services often say the biggest difference isn't the tax bill. It's knowing someone is watching their numbers year-round.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Tax plus
