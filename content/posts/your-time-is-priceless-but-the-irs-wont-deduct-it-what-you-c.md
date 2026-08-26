@@ -6,7 +6,7 @@ excerpt: "Volunteers can't deduct their hours, but out-of-pocket costs like mile
 image: volunteer-loading-donation-boxes.jpg
 image_alt: "Volunteer loading donation boxes into the trunk of a car after a nonprofit event"
 tags: ["tax deductions", "charitable giving", "individual tax"]
-meta_title: "Tax Deductions for Volunteering: What Actually Qualifies"
+meta_title: "Tax Deductions for Volunteering: What Actually Qualifies | Slachta Accounting"
 meta_description: "Learn which volunteer expenses are tax deductible under IRS rules, including charitable mileage, uniforms, and travel, plus what never counts."
 target_keyword: "tax deductions for volunteering"
 secondary_keywords: ["volunteer expenses tax deductible", "charitable mileage deduction", "unreimbursed volunteer expenses", "IRS rules on charitable donations"]
