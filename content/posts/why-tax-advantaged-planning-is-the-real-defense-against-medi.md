@@ -6,7 +6,7 @@ excerpt: "An emergency fund only covers the cash side of a medical crisis. Learn
 image: hsa-medical-expense-planning.jpg
 image_alt: "Person reviewing medical bills and paperwork at a kitchen table while calculating expenses"
 tags: ["tax planning", "HSA", "personal finance", "medical expenses"]
-meta_title: "How to Plan for Unexpected Medical Expenses | CPA Guide"
+meta_title: "How to Plan for Unexpected Medical Expenses | Slachta Accounting"
 meta_description: "Learn how to plan for unexpected medical expenses using HSA tax benefits, the medical expense tax deduction, and smarter cash reserves to avoid medical debt."
 target_keyword: "how to plan for unexpected medical expenses"
 secondary_keywords: ["HSA tax benefits", "medical expense tax deduction", "emergency fund for medical bills", "avoiding medical debt"]
