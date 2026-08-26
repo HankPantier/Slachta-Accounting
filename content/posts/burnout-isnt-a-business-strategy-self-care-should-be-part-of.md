@@ -6,7 +6,7 @@ excerpt: "Exhausted owners make expensive decisions. See why self-care for busin
 image: exhausted-business-owner-reviewing-finances.jpg
 image_alt: "A small business owner sitting at a desk late in the evening reviewing financial paperwork, showing signs of fatigue"
 tags: ["business owner burnout", "sustainable growth", "financial planning"]
-meta_title: "Self-Care for Business Owners: A Financial Safeguard"
+meta_title: "Self-Care for Business Owners: A Financial Safeguard | Slachta Accounting"
 meta_description: "Business owner burnout drives costly mistakes. Learn why self-care for business owners protects judgment, cash flow, and long-term profitability."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]
