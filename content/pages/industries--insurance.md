@@ -104,9 +104,9 @@ A: Yes. We regularly collaborate with agency owners' financial advisors on retir
 <!-- block: cta-banner | variant: image-bg | image: insurance-agency-cpa-consultation.jpg | alt: "Insurance agency owner shaking hands with accountant after consultation" | query: "business handshake office consultation" -->
 ## Talk to an accountant who understands insurance agencies
 
-You didn't get into the insurance business to spend evenings reconciling commission statements. If your books, payroll, or tax planning aren't keeping up with how your agency actually operates, that's a fixable problem, not a permanent state.
+You didn't get into the insurance business to chase down commission discrepancies or wonder whether last month's numbers are accurate. If your books, payroll, or tax planning aren't giving you the real-time visibility and financial insights you need to run your agency with confidence, that's a fixable problem, not a permanent state.
 
-Slachta Accounting & Consulting Services has supported independent agencies from our Stillwater, Minnesota office since 2005, with clients across Minnesota, Wisconsin, and beyond. Schedule a consultation and we'll walk through where your agency's accounting stands today and what would make it easier to run.
+Slachta Accounting & Consulting Services has supported independent agencies from our Stillwater, Minnesota office since 2005, with clients across Minnesota, Wisconsin, and beyond. Schedule a consultation and we'll walk through where your agency's accounting stands today and how modern, connected systems can make it easier to run.
 
 [Schedule a consultation](/contact)
 
