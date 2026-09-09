@@ -39,7 +39,7 @@ Most agency owners we talk to are managing the same handful of problems, just at
 - Budgeting for growth, whether that's hiring a new producer or opening a second location, without data-driven insight into next quarter's cash position
 - Contingent and override commissions that arrive months after the policy was written, requiring proactive cash flow planning rather than reactive catch-up
 
-Without a modern system built around these patterns, owners end up reacting to financial surprises instead of making proactive, informed decisions.
+Without a modern system built around these patterns and connected systems that surface real-time data, owners end up responding to financial surprises instead of making proactive, informed decisions.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting and bookkeeping for your agency
