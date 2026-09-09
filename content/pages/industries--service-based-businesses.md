@@ -203,7 +203,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "How does Slachta help with retirement planning for business owners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slachta evaluates retirement plan options like SEP IRAs, SIMPLE IRAs, and 401(k)s against a business's cash flow and staffing, and coordinates directly with each owner's existing financial advisor rather than replacing that relationship."
+        "text": "Slachta evaluates retirement plan options like SEP IRAs, SIMPLE IRAs, and 401(k)s against a business's real-time cash flow and staffing data, and coordinates directly with each owner's existing financial advisor rather than replacing that relationship. The goal is data-driven coordination so the accounting side and the financial planning side work from the same current numbers."
       }
     }
   ]
