@@ -58,12 +58,13 @@ Key performance indicators matter here too. A service business scaling from one 
 <!-- block: checklist-section | variant: with-image | image: advisor-client-financial-review.jpg | alt: "Accountant and business owner reviewing financial benchmarks together" | query: "accountant client reviewing reports together" -->
 ## Why industry-specific accounting matters
 
-An accountant who already knows your industry's benchmarks saves you the time of explaining your business model from scratch. That translates into faster answers, fewer surprises, and advice grounded in what actually works for practices and firms like yours.
+An accountant who already knows your industry's benchmarks saves you the time of explaining your business model from scratch. Add modern accounting with real-time visibility, connected systems, and data-driven financial insights, and the result is proactive guidance that catches problems early rather than explaining them after the fact.
 
-- Faster, more relevant advice, without spending time explaining how dental production differs from collections or how architecture billing works
-- Retirement plan evaluation grounded in your industry's typical cash flow, not a generic template
-- Collaboration with your financial advisor that speaks the same language your business already uses
-- Fewer costly missteps, because the benchmarks and red flags specific to your field get caught early
+- Real-time visibility into cash flow, receivables, and performance metrics, so you always know where the business stands
+- Data-driven, proactive decision-making grounded in your industry's actual financial patterns rather than generic assumptions
+- Connected systems that keep your accounting, payroll, and reporting aligned and current across the business
+- Financial insights specific to your field, from dental production reporting to project-based billing, delivered on a schedule that matches your pace
+- Collaboration with your financial advisor using current, accurate numbers rather than outdated summaries
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
