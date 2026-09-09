@@ -44,22 +44,22 @@ Without a modern system built around these patterns, owners end up reacting to f
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting and bookkeeping for your agency
 
-Outsourced accounting means your books get done by people who already know how insurance agencies work, without the cost of a full-time controller. We handle the ongoing bookkeeping, close your books monthly, and hand you reporting that answers the question owners actually ask: which lines of business are making money.
+Modern outsourced accounting means your books get done by people who already know how insurance agencies work, using connected systems that give you real-time visibility into your agency's financial position, without the cost of a full-time controller. We handle the ongoing bookkeeping, close your books monthly, and deliver reporting that answers the question owners actually ask: which lines of business are making money, and what should I do about it.
 
 ### Bookkeeping built for commission revenue
 icon: Receipt
 
-We reconcile commission statements against carrier deposits and categorize income by line of business, so your books reflect how your agency really earns, not a generic chart of accounts.
+We reconcile commission statements against carrier deposits and categorize income by line of business using connected systems, so your books reflect how your agency really earns and you always have a current, accurate picture.
 
-### Financial reporting by book of business
+### Financial insights by book of business
 icon: ChartBar
 
-Monthly financials broken out by product line and producer let you see which parts of the agency are growing and which are quietly draining resources.
+Monthly financials broken out by product line and producer give you real-time visibility into which parts of the agency are growing and which are quietly draining resources, so you can make data-driven decisions before small issues become costly ones.
 
-### KPI tracking and profitability analysis
+### KPI tracking and proactive profitability analysis
 icon: Target
 
-We track the metrics that matter for agencies, retention rate, revenue per producer, and expense ratio, so decisions about staffing and growth are based on numbers instead of instinct.
+We track the metrics that matter for agencies, retention rate, revenue per producer, and expense ratio, and surface those insights proactively so decisions about staffing and growth are driven by data, not instinct.
 
 <!-- block: content-split | variant: image-left | image: insurance-agency-payroll-processing.jpg | alt: "Agency staff member processing payroll on a laptop in an office" | query: "office worker processing payroll laptop" -->
 ## Payroll processing for agency staff and producers
