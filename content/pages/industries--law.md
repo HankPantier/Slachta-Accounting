@@ -198,7 +198,7 @@ Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minneso
       "name": "Can Slachta manage payroll for a small law firm with just a few employees?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Payroll services scale from a solo attorney with one assistant to firms with dozens of employees, handling mixed pay structures like salaried associates, hourly paralegals, and partner draws with consistent, on-time processing."
+        "text": "Yes. Payroll services scale from a solo attorney with one assistant to firms with dozens of employees, handling mixed pay structures like salaried associates, hourly paralegals, and partner draws with consistent, on-time processing. Because payroll connects directly to the firm's broader accounting systems, labor costs are always visible alongside other financial data in real time, supporting proactive, data-driven decisions about staffing and overhead rather than reactive ones."
       }
     },
     {
