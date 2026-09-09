@@ -30,15 +30,16 @@ Slachta Accounting & Consulting Services has worked with architecture firm owner
 <!-- block: checklist-section | variant: with-image | image: architecture-bookkeeping-review.jpg | alt: "Close-up of financial statements and blueprints spread on a desk" | query: "blueprints financial documents desk" -->
 ## Outsourced accounting and bookkeeping for design firms
 
-Running a design business means coordinating client meetings, project deadlines, and staff schedules, not reconciling bank feeds at 11 p.m. Our outsourced accounting service handles the monthly close so you get accurate financial statements without hiring a full-time controller.
+Running a design business means coordinating client meetings, project deadlines, and staff schedules, not chasing down numbers at 11 p.m. Our outsourced accounting service uses modern, connected systems to handle the monthly close so you get accurate financial statements, real-time visibility into project performance, and proactive financial insights without hiring a full-time controller.
 
 - Monthly bookkeeping built around project-based revenue, not generic small-business templates
 - Work-in-progress tracking so unbilled hours and reimbursables don't disappear into the wrong account
-- Financial statements delivered on a consistent schedule, not whenever someone gets around to it
+- Real-time financial visibility so you always know where each project and the overall firm stand
+- Proactive insights delivered on a consistent schedule, not whenever someone gets around to it
 - Cash flow visibility so you know what's available before committing to new software, a lease, or a hire
-- Clean books ready for your banker, bonding company, or line of credit renewal
+- Clean, connected books ready for your banker, bonding company, or line of credit renewal
 
-A two-principal studio and a twenty-person firm need different levels of detail. The bookkeeping scales to match your firm's size and project complexity, so you're paying for what you actually need.
+A two-principal studio and a twenty-person firm need different levels of detail. The system scales to match your firm's size and project complexity, so you're paying for what you actually need.
 
 <!-- block: content-split | variant: image-left | image: architect-tax-planning-meeting.jpg | alt: "Architecture firm owner discussing tax strategy with an accountant" | query: "business owner tax planning meeting" -->
 ## Tax planning and preparation for architects
