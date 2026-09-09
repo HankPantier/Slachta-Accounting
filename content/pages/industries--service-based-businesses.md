@@ -30,17 +30,17 @@ Consultants, agencies, contractors, and specialty firms across Minnesota, Wiscon
 <!-- block: checklist-section | variant: with-image | image: service-business-cash-flow-review.jpg | alt: "Business owner reviewing cash flow charts on a laptop" | query: "small business owner reviewing financial charts" -->
 ## Common financial challenges service businesses face
 
-Service businesses rarely fail because of a bad idea. They fail because cash comes in unevenly, expenses creep past budget without anyone noticing, and owners have no real-time dashboard showing which clients or projects actually make money.
+Service businesses rarely fail because of a bad idea. They fail because cash comes in unevenly, expenses drift past budget without anyone noticing in real time, and owners have no connected dashboard showing which clients or projects are actually profitable.
 
 The same patterns show up again and again across Minnesota and Wisconsin service firms:
 
-- Cash flow that swings with project timing, retainers, and slow-paying clients
-- Expense management that loses track of subscriptions, subcontractors, and reimbursable costs
-- Budgets built once a year, if at all, and never revisited against live data
+- Cash flow that swings with project timing, retainers, and slow-paying clients, without real-time visibility into what is coming next
+- Expense management that loses track of subscriptions, subcontractors, and reimbursable costs across disconnected systems
+- Budgets built once a year and never revisited against live financial data
 - No KPIs tracking utilization, project margin, or client profitability in real time
-- Pricing decisions made on gut feel instead of data-driven financial insights
+- Pricing and staffing decisions made without data-driven financial insights to back them up
 
-A firm that has seen these patterns in dental practices, insurance agencies, and law offices knows where to look first, and what connected systems and proactive reporting can do to fix them.
+A firm that has seen these patterns in dental practices, insurance agencies, and law offices knows where to look first, and what connected systems and proactive, real-time reporting can do to fix them.
 
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-service-team.jpg | alt: "Accountant reviewing financial statements with a service business owner" | query: "accountant reviewing documents office meeting" -->
 ## Outsourced accounting and bookkeeping support
