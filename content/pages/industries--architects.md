@@ -60,9 +60,9 @@ We process payroll accurately and on schedule through modern, connected systems 
 <!-- block: content-split | variant: image-right | image: architecture-firm-budget-review.jpg | alt: "Two professionals reviewing budget charts and KPI reports" | query: "professionals reviewing charts reports" -->
 ## Budgeting, KPIs, and retirement plan support for firm owners
 
-Numbers matter less than what you do with them. We help architecture firm owners build budgets tied to actual project pipelines, track KPIs like utilization rate, effective billing rate, and overhead multiplier, and use that data to decide whether to bring on another architect or hold steady for a year.
+Numbers matter less than what you do with them. We help architecture firm owners build budgets tied to actual project pipelines, track KPIs like utilization rate, effective billing rate, and overhead multiplier, and use real-time financial insights to make data-driven decisions, whether that means bringing on another architect, investing in new technology, or holding steady for a year.
 
-Retirement plan evaluation comes up often with principals nearing a transition point, and we work directly alongside your existing financial advisor rather than duplicating their role. If you already have a 401(k) provider or an investment advisor, we coordinate with them on contribution strategy and plan design so the tax and cash flow pieces line up with your broader financial plan instead of sitting in a separate silo.
+Retirement plan evaluation comes up often with principals nearing a transition point, and we work directly alongside your existing financial advisor rather than duplicating their role. If you already have a 401(k) provider or an investment advisor, we coordinate with them on contribution strategy and plan design so the tax and cash flow pieces connect seamlessly with your broader financial plan rather than operating in a separate silo.
 
 <!-- block: content-prose -->
 ## Serving architecture firms across Minnesota, Wisconsin, and nationwide
