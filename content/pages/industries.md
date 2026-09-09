@@ -58,7 +58,7 @@ Key performance indicators matter here too. A service business scaling from one 
 <!-- block: checklist-section | variant: with-image | image: advisor-client-financial-review.jpg | alt: "Accountant and business owner reviewing financial benchmarks together" | query: "accountant client reviewing reports together" -->
 ## Why industry-specific accounting matters
 
-An accountant who already knows your industry's benchmarks saves you the time of explaining your business model from scratch. Add modern accounting with real-time visibility, connected systems, and data-driven financial insights, and the result is proactive guidance that catches problems early rather than explaining them after the fact.
+An accountant who already knows your industry's benchmarks saves you the time of explaining your business model from scratch. Add modern accounting with real-time visibility, connected systems, and data-driven financial insights, and the result is proactive guidance that catches problems early, not after the fact. For business owners used to finding out what went wrong at year-end, that difference is significant.
 
 - Real-time visibility into cash flow, receivables, and performance metrics, so you always know where the business stands
 - Data-driven, proactive decision-making grounded in your industry's actual financial patterns rather than generic assumptions
