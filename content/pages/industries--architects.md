@@ -69,7 +69,7 @@ Retirement plan evaluation comes up often with principals nearing a transition p
 
 Since 2005, Slachta Accounting & Consulting Services has served architect and design clients in Minnesota, Wisconsin, and across the United States. Cloud-based bookkeeping and video meetings mean a firm in Madison, Rochester, or Denver gets the same monthly close and the same direct access to your accountant as a firm five minutes from our office.
 
-Searching for a CPA near you doesn't have to mean settling for whoever's closest. It means finding someone who returns calls, knows your firm's project list by name, and understands architecture billing without a lengthy explanation. That's the standard we hold ourselves to, whether your office sits in the St. Croix Valley or three states away.
+Searching for a CPA near you doesn't have to mean settling for whoever's closest. It means finding someone who returns calls, knows your firm's project list by name, delivers proactive financial insights, and understands architecture billing without a lengthy explanation. Modern, connected systems mean you always have real-time visibility into your numbers, whether your office sits in the St. Croix Valley or three states away.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Architects
