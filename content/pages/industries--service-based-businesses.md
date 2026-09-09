@@ -30,17 +30,17 @@ Consultants, agencies, contractors, and specialty firms across Minnesota, Wiscon
 <!-- block: checklist-section | variant: with-image | image: service-business-cash-flow-review.jpg | alt: "Business owner reviewing cash flow charts on a laptop" | query: "small business owner reviewing financial charts" -->
 ## Common financial challenges service businesses face
 
-Service businesses rarely fail because of a bad idea. They fail because cash comes in unevenly, expenses creep past budget without anyone noticing, and owners have no dashboard showing which clients or projects actually make money.
+Service businesses rarely fail because of a bad idea. They fail because cash comes in unevenly, expenses creep past budget without anyone noticing, and owners have no real-time dashboard showing which clients or projects actually make money.
 
 The same patterns show up again and again across Minnesota and Wisconsin service firms:
 
 - Cash flow that swings with project timing, retainers, and slow-paying clients
 - Expense management that loses track of subscriptions, subcontractors, and reimbursable costs
-- Budgets built once a year, if at all, and never revisited
-- No KPIs tracking utilization, project margin, or client profitability
-- Pricing decisions made on gut feel instead of real numbers
+- Budgets built once a year, if at all, and never revisited against live data
+- No KPIs tracking utilization, project margin, or client profitability in real time
+- Pricing decisions made on gut feel instead of data-driven financial insights
 
-A firm that has seen these patterns in dental practices, insurance agencies, and law offices knows where to look first.
+A firm that has seen these patterns in dental practices, insurance agencies, and law offices knows where to look first, and what connected systems and proactive reporting can do to fix them.
 
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-service-team.jpg | alt: "Accountant reviewing financial statements with a service business owner" | query: "accountant reviewing documents office meeting" -->
 ## Outsourced accounting and bookkeeping support
