@@ -92,9 +92,9 @@ A: Slachta evaluates retirement plan options like SEP IRAs, SIMPLE IRAs, and 401
 <!-- block: cta-banner | variant: image-bg | image: service-business-owner-handshake.jpg | alt: "Service business owner shaking hands with an accounting advisor" | query: "business handshake professional meeting office" -->
 ## Get started with a service business accounting consultation
 
-Running a service business means the numbers move constantly: billable hours, project margins, payroll, quarterly taxes. A consultation puts a CPA firm with twenty years of Minnesota and Wisconsin experience behind those numbers, whether the business is a five-person consultancy or an established firm with a full staff and multiple locations.
+Running a service business means the numbers move constantly: billable hours, project margins, payroll, quarterly taxes. A consultation puts a CPA firm with twenty years of Minnesota and Wisconsin experience behind those numbers, backed by connected systems, real-time financial visibility, and proactive insights, whether the business is a five-person consultancy or an established firm with a full staff and multiple locations.
 
-[Schedule a consultation](/contact) to talk through outsourced accounting, payroll, and business tax planning built around how service businesses actually operate.
+[Schedule a consultation](/contact) to talk through modern outsourced accounting, payroll, and business tax planning built around how service businesses actually operate.
 
 ---
 ## SEO & AIO Metadata
