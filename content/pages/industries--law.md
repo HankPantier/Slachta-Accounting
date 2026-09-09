@@ -190,7 +190,7 @@ Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minneso
       "name": "Does Slachta handle trust accounting for law firms?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Trust accounting oversight is part of outsourced bookkeeping for legal clients, including reconciliation and strict separation of client funds from operating accounts, which supports the compliance requirements attorneys face under state bar rules."
+        "text": "Yes. Trust accounting oversight is part of outsourced bookkeeping for legal clients, including reconciliation and strict separation of client funds from operating accounts. Modern, connected systems keep that activity visible in real time, which supports the compliance requirements attorneys face under state bar rules without requiring a manual audit at month-end. That real-time visibility means problems surface immediately rather than turning up in a year-end review."
       }
     },
     {
