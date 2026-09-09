@@ -30,7 +30,7 @@ Slachta Accounting & Consulting Services has worked with architecture firm owner
 <!-- block: checklist-section | variant: with-image | image: architecture-bookkeeping-review.jpg | alt: "Close-up of financial statements and blueprints spread on a desk" | query: "blueprints financial documents desk" -->
 ## Outsourced accounting and bookkeeping for design firms
 
-Running a design business means coordinating client meetings, project deadlines, and staff schedules, not chasing down numbers at 11 p.m. Our outsourced accounting service uses modern, connected systems to handle the monthly close so you get accurate financial statements, real-time visibility into project performance, and proactive financial insights without hiring a full-time controller.
+Running a design business means coordinating client meetings, project deadlines, and staff schedules, not hunting down receipts or reconciling accounts late at night. Our outsourced accounting service uses modern, connected systems to handle the monthly close so you get accurate financial statements, real-time visibility into project performance, and proactive financial insights without hiring a full-time controller.
 
 - Monthly bookkeeping built around project-based revenue, not generic small-business templates
 - Work-in-progress tracking so unbilled hours and reimbursables don't disappear into the wrong account
