@@ -195,7 +195,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Can Slachta help set up payroll for a growing team with hourly and contract workers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slachta processes payroll for teams that mix hourly, salaried, and 1099 contract workers, handling tax filings, withholdings, and classification requirements so pay runs stay accurate and compliant as a business adds staff."
+        "text": "Slachta processes payroll for teams that mix hourly, salaried, and 1099 contract workers, handling tax filings, withholdings, and classification requirements so pay runs stay accurate and compliant as a business adds staff. Connected systems keep payroll data current and integrated with the broader financial picture."
       }
     },
     {
