@@ -259,7 +259,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005, provides outsourc
   "@type": "Service",
   "name": "CPA for Dentists Near Me | Slachta Accounting Services",
   "url": "https://www.slachtacpa.com/industries/dentists",
-  "description": "Slachta Accounting provides outsourced accounting, payroll, and tax planning built for dental practices in Minnesota, Wisconsin, and nationwide since 2005.",
+  "description": "Slachta Accounting provides modern outsourced accounting with real-time visibility, connected systems, and proactive tax planning built for dental practices in Minnesota, Wisconsin, and nationwide since 2005.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Slachta Accounting & Consulting Services LLC",
