@@ -40,7 +40,7 @@ The issues we see most often at firms in Stillwater, across Minnesota, and beyon
 - No consistent KPIs to measure realization rates, utilization, or margin by service line
 - Retirement plan and benefits decisions made without input from both a financial advisor and an accountant who sees the full financial picture
 
-Each of these compounds the others. Without clean cash flow visibility, partner compensation conversations turn into guesswork.
+Each of these compounds the others. Without real-time cash flow visibility and data-driven financial insights, partner compensation conversations turn into guesswork and proactive decision making becomes nearly impossible.
 
 <!-- block: content-split | variant: image-right | image: bookkeeper-updating-financial-records.jpg | alt: "Accountant updating financial records on a laptop in an office" | query: "accountant working laptop office" -->
 ## Outsourced accounting and payroll for growing firms
