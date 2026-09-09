@@ -25,7 +25,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 
 Slachta Accounting & Consulting Services has worked with Minnesota and Wisconsin business owners since 2005, when the firm opened its doors in Stillwater. Twenty years later, the client list still centers on a short list of industries: dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and service-based entrepreneurs.
 
-That focus is deliberate. A dentist managing an associate buy-in needs different guidance than an architect billing by project phase, and a generalist accountant tends to treat both the same way. Slachta built its practice around the industries below because their financial patterns, from production reporting to trust accounting, deserve specific attention and modern accounting that delivers real-time visibility, connected systems, and financial insights that support proactive decisions rather than reactive ones.
+That focus is deliberate. A dentist managing an associate buy-in needs different guidance than an architect billing by project phase, and a generalist accountant tends to treat both the same way. Slachta built its practice around the industries below because their financial patterns, from production reporting to trust accounting, deserve specific attention and modern accounting that delivers real-time visibility, connected systems, data-driven financial insights, and proactive decision-making grounded in current numbers rather than outdated summaries.
 
 <!-- block: content-split | variant: image-right | image: dental-practice-accounting.jpg | alt: "Dentist reviewing financial reports with accountant in dental office" | query: "dentist reviewing financial documents office" -->
 ## Dental practices
