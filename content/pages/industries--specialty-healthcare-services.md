@@ -74,7 +74,7 @@ If your practice works with outside auditors or lenders, we coordinate directly 
 <!-- block: cta-banner | variant: image-bg | image: healthcare-consultation-handshake.jpg | alt: "Healthcare practice owner shaking hands with financial consultant" | query: "healthcare professional business handshake meeting" -->
 ## Partner with a healthcare accounting specialist
 
-Specialty healthcare practices don't run on generic bookkeeping, and they shouldn't run on generic accounting advice either. Whether you're a dentist evaluating a second location, a physician group rethinking payroll structure, or a specialty clinic trying to get ahead of cash flow swings, we bring modern accounting built on real-time visibility, connected systems, and data-driven financial insights, so you can make proactive decisions rather than catching up to problems after the fact.
+Specialty healthcare practices don't run on generic bookkeeping, and they shouldn't run on generic accounting advice either. Whether you're a dentist evaluating a second location, a physician group rethinking payroll structure, or a specialty clinic trying to get ahead of cash flow swings, we bring modern accounting built on real-time visibility, connected systems, and data-driven financial insights so you can make proactive decisions rather than catching up to problems after the fact.
 
 Schedule a consultation with our team and bring your questions, your recent financials, or just a sense of what's not working. We'll take it from there.
 
