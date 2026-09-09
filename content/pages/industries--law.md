@@ -56,7 +56,7 @@ This is the same discipline Slachta brings to [service-based businesses](/indust
 
 Attorneys, paralegals, legal assistants, and office staff often sit on different pay structures inside the same firm: salaried associates, hourly paralegals, and partners who draw rather than take a paycheck. [Payroll services](/services/payroll-services) from Slachta handle that mix without creating extra work for whoever's managing HR on top of casework.
 
-Payroll runs on schedule, tax withholdings stay accurate, and new hires get set up correctly the first time, whether the firm has three employees or thirty. Firms scaling from a solo practice to a multi-attorney office lean on this most, since adding staff shouldn't mean adding payroll headaches. Compliance stays consistent as the team grows, so nobody's guessing at year-end.
+Payroll runs on schedule, tax withholdings stay accurate, and new hires get set up correctly the first time, whether the firm has three employees or thirty. Because payroll connects directly to the firm's broader accounting systems, labor costs are always visible in context alongside other financial data, supporting proactive decisions about staffing and overhead rather than reactive ones. Firms scaling from a solo practice to a multi-attorney office lean on this most, since adding staff shouldn't mean adding payroll headaches. Compliance stays consistent as the team grows, so nobody is guessing at year-end.
 
 <!-- block: content-split | variant: image-right | image: law-firm-tax-planning-meeting.jpg | alt: "CPA discussing tax strategy with law firm partners in conference room" | query: "business tax planning meeting professionals" -->
 ## Tax preparation and planning for law firms
