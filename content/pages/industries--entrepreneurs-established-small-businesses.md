@@ -49,20 +49,22 @@ The same collaboration extends to personal financial planning. A business owner'
 <!-- block: feature-grid | variant: 3-col | image: kpi-dashboard-review.jpg | alt: "Business owner reviewing key performance indicator dashboard on laptop" | query: "business owner reviewing financial dashboard" -->
 ## Tracking the KPIs that actually drive business decisions
 
+Our modern reporting goes beyond the standard income statement. We build dashboards and reporting that surface the financial insights owners actually need to make confident, data-driven decisions, updated in real time as transactions flow through your connected systems.
+
 ### Margin and profitability
 icon: ChartLine
 
-Gross margin by service line or product tells you which parts of the business are actually making money, not just which parts are busiest.
+Gross margin by service line or product tells you which parts of the business are actually making money, not just which parts are busiest, so you can act on that insight now rather than at year-end.
 
 ### Labor and overhead ratios
 icon: Users
 
-Labor cost as a percentage of revenue catches staffing decisions that quietly outpace growth, before payroll becomes the largest line item on the P&L.
+Labor cost as a percentage of revenue catches staffing decisions that quietly outpace growth, before payroll becomes the largest line item on the P&L. Current data means current decisions.
 
 ### Cash conversion cycle
 icon: Clock
 
-How long cash sits in receivables and inventory before it's usable again shapes decisions on financing, hiring, and expansion timing.
+How long cash sits in receivables and inventory before it's usable again shapes decisions on financing, hiring, and expansion timing. Real-time tracking removes the guesswork.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting and payroll that scales as you grow
