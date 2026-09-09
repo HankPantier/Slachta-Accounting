@@ -2,7 +2,7 @@
 title: "Law firms | Slachta Accounting & Consulting Services LLC"
 url: "/industries/law"
 meta_title: "Accounting for Law Firms Near Me | Slachta CPA Firm"
-meta_description: "Law firm accounting services from a CPA firm serving attorneys nationwide since 2005. Bookkeeping, payroll, and tax planning built for legal practices. Schedule a consultation today."
+meta_description: "Modern law firm accounting services from a CPA firm serving attorneys nationwide since 2005. Real-time visibility, connected systems, and proactive financial insights built for legal practices. Schedule a consultation today."
 target_keyword: "accounting for law firms near me"
 secondary_keywords: ["law firm accounting services","payroll services for law firms","law firm tax preparation","outsourced accounting law firms","tax services for attorneys","law practice accounting","CPA for law firms","legal practice payroll services","law firm business taxes","accounting outsourcing law practices","tax planning for law firms","bookkeeping services attorneys","law firm financial management","attorney accounting services near me","small law firm accounting"]
 canonical_url: "https://www.slachtacpa.com/industries/law"
@@ -110,13 +110,13 @@ Slachta Accounting & Consulting Services provides outsourced bookkeeping, payrol
 - Advisory services include recurring retirement plan evaluation coordinated with clients' outside financial advisors
 
 **Internal Links:**
-- industries → /industries — Points to the broader industries hub for attorneys comparing niches Slachta serves
-- Outsourced accounting → /what-we-do/outsourced-accounting — Directly supports the bookkeeping section with the firm's core service page
-- service-based businesses → /industries/service-based-businesses — Connects law firms to the related service-based business niche page
-- Payroll services → /services/payroll-services — Supports the payroll section with a direct link to the payroll service page
-- Business tax services → /what-we-do/tax-plus — Links tax preparation content to the firm's tax service offering
-- Advisory services → /what-we-do/advisory-services — Supports the retirement planning section with the advisory service page
-- Schedule a consultation → /contact — Primary page CTA driving attorneys to book a consultation
+- industries → /industries, Points to the broader industries hub for attorneys comparing niches Slachta serves
+- Outsourced accounting → /what-we-do/outsourced-accounting, Directly supports the bookkeeping section with the firm's core service page
+- service-based businesses → /industries/service-based-businesses, Connects law firms to the related service-based business niche page
+- Payroll services → /services/payroll-services, Supports the payroll section with a direct link to the payroll service page
+- Business tax services → /what-we-do/tax-plus, Links tax preparation content to the firm's tax service offering
+- Advisory services → /what-we-do/advisory-services, Supports the retirement planning section with the advisory service page
+- Schedule a consultation → /contact, Primary page CTA driving attorneys to book a consultation
 
 **FAQ Block:**
 
@@ -136,7 +136,7 @@ A: Yes. While the firm is based in Stillwater, Minnesota, with a concentration o
 Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced bookkeeping, payroll, and tax services tailored to law firms, including trust accounting support, matter-based expense tracking, and coordinated retirement plan evaluation for partners, serving clients in Minnesota, Wisconsin, and nationwide.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
