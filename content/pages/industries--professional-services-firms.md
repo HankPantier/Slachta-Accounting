@@ -47,9 +47,9 @@ Each of these compounds the others. Without real-time cash flow visibility and d
 
 Partners at a law firm or principals at an architecture practice didn't go into the profession to reconcile bank accounts or process payroll. Every hour spent on back-office bookkeeping is an hour not billed to a client or spent bringing in new work.
 
-Our [outsourced accounting](/what-we-do/outsourced-accounting) services cover monthly bookkeeping, account reconciliation, and financial reporting built around how service firms actually track revenue: by matter, by project, or by partner. [Payroll](/services/payroll-services) runs on schedule, whether the firm has three employees or thirty, and includes handling for partner draws, bonus structures, and benefits deductions that differ from standard W-2 payroll.
+Our [outsourced accounting](/what-we-do/outsourced-accounting) services are built on connected systems that keep your financial data current, not weeks behind. That means real-time account reconciliation, financial reporting organized around how service firms actually track revenue (by matter, by project, or by partner), and insights leadership can act on before a problem compounds. [Payroll](/services/payroll-services) runs on schedule, whether the firm has three employees or thirty, and includes handling for partner draws, bonus structures, and benefits deductions that differ from standard W-2 payroll.
 
-The goal is straightforward: firm leadership gets accurate numbers without doing the work themselves, and the time that frees up goes back into client service and business development.
+The goal is straightforward: firm leadership gets accurate, up-to-date numbers without doing the work themselves, and the time that frees up goes back into client service and business development.
 
 <!-- block: content-split | variant: image-left | image: partners-reviewing-tax-strategy.jpg | alt: "Two business partners discussing tax documents at a conference table" | query: "business partners reviewing documents meeting" -->
 ## Business tax strategy for partnerships and professional entities
