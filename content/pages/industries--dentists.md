@@ -2,7 +2,7 @@
 title: "Dentists | Slachta Accounting & Consulting Services LLC"
 url: "/industries/dentists"
 meta_title: "CPA for Dentists Near Me | Slachta Accounting Services"
-meta_description: "Slachta Accounting provides outsourced accounting, payroll, and tax planning built for dental practices in Minnesota, Wisconsin, and nationwide since 2005."
+meta_description: "Slachta Accounting provides modern outsourced accounting with real-time visibility, connected systems, and proactive tax planning built for dental practices in Minnesota, Wisconsin, and nationwide since 2005."
 target_keyword: "CPA for dentists near me"
 secondary_keywords: ["dental practice accountant","dentist tax services","accounting services for dental offices","dental business accounting","dentist payroll services","dental practice tax planning","outsourced accounting for dentists","dental office bookkeeping","dentist business tax deductions","dental practice financial services"]
 canonical_url: "https://www.slachtacpa.com/industries/dentists"
