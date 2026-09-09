@@ -63,7 +63,7 @@ Payroll runs on schedule, tax withholdings stay accurate, and new hires get set 
 
 Law firm tax preparation involves more than filing a return once a year. Entity structure decisions, whether the firm is organized as an LLC, partnership, or professional corporation, affect how partners are taxed on distributions and how much flexibility the firm has for retirement contributions and deductions.
 
-[Business tax services](/what-we-do/tax-plus) from Slachta start with that structure question and build a plan around it. Quarterly estimates get calculated with real numbers, not guesses carried over from last year. Partners see tax strategy discussed before December, when there's still time to act on it, rather than after the year closes when options are gone.
+[Business tax services](/what-we-do/tax-plus) from Slachta start with that structure question and build a data-driven plan around it. Quarterly estimates get calculated with real numbers drawn from current financials, not guesses carried over from last year. Because the firm's accounting systems stay connected throughout the year, proactive tax planning conversations happen before December, when there is still time to act, rather than after the year closes when options are gone. Partners get financial insights that make those conversations concrete: specific numbers, current projections, and clear next steps.
 
 Firms that have grown, added partners, or opened a second location get particular attention here, since those changes often shift what the right entity structure and tax approach should be going forward.
 
