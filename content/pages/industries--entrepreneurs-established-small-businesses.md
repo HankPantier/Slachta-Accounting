@@ -89,7 +89,7 @@ Entity structure, quarterly planning, and proactive year-round tax strategy buil
 
 Slachta Accounting & Consulting Services LLC has served business clients from Stillwater, Minnesota since 2005, with a client base concentrated in Minnesota and Wisconsin and reaching business owners nationwide. Tax rules differ by state, and a CPA working across both Minnesota and Wisconsin sees how choices in one state affect filings in the other, from entity election to multi-state payroll.
 
-Our business tax services focus on year-round strategy, not a once-a-year filing. Quarterly estimates, entity structure reviews, and planning around major purchases or ownership changes happen before the deadline, not the week of it.
+Our business tax services are built on real-time financial data flowing from your connected accounting systems, which means proactive tax planning grounded in current numbers, not year-old figures. Quarterly estimates, entity structure reviews, and planning around major purchases or ownership changes happen before the deadline, not the week of it. That's the difference between reactive filing and data-driven tax strategy.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Entrepreneurs and established small businesses
