@@ -27,7 +27,7 @@ Slachta Accounting & Consulting Services has worked with insurance agencies sinc
 
 We understand renewal cycles, contingent commissions, and the lag between writing a policy and seeing that revenue land in the bank account. That knowledge shapes how we set up your books with connected systems that deliver real-time visibility into cash position and profitability by line of business. You get financial insights you can act on, not a report that tells you where you were last quarter.
 
-Whether you run a two-person agency near Stillwater or a multi-location operation with producers across state lines, your accounting should support proactive, data-driven decisions, not just keep a historical record.
+Whether you run a two-person agency near Stillwater or a multi-location operation with producers across state lines, your accounting should deliver real-time financial insights and support proactive, data-driven decisions at every stage of growth.
 
 <!-- block: checklist-section | variant: with-image-left | image: insurance-agent-cash-flow-review.jpg | alt: "Insurance agent reviewing commission statements and cash flow charts" | query: "insurance agent reviewing paperwork desk" -->
 ## Common financial challenges facing insurance agencies
