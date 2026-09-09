@@ -36,7 +36,7 @@ Oral surgeons, occupational therapists, speech therapists, and chiropractors all
 
 Each sub-niche carries its own wrinkles. Oral surgeons face significant equipment depreciation and hospital or surgical facility fee complexity. Occupational and speech therapists often work across multiple settings, from private practice and school contracts to home health, each with different billing and revenue recognition rules. Chiropractors deal with high visit volume, mixed insurance and cash-pay revenue, and staffing ratios that shift with patient load.
 
-We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections rather than just a general ledger. Practice owners need to see the gap between what they billed and what actually landed in the account, and then plan around it.
+We've seen these patterns across the specialty healthcare clients we serve, and it's why we build reporting around production versus collections rather than a static general ledger. Practice owners need real-time visibility into the gap between what they billed and what actually landed in the account. Connected systems that link your billing, payroll, and accounting data make that picture clear at any point in the month, not just at year-end, so every financial decision is grounded in current, accurate information.
 
 <!-- block: checklist-section | variant: with-image-left | image: dentist-tax-planning-consultation.jpg | alt: "Specialty healthcare practice owner and accountant discussing tax strategy at a desk" | query: "healthcare professional accountant consultation office" -->
 ## Tax planning & compliance for specialty healthcare practices
