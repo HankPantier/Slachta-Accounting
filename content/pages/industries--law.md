@@ -23,11 +23,11 @@ llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 in
 <!-- block: intro-text | variant: centered -->
 ## Trusted accounting support for attorneys and law practices
 
-Slachta Accounting & Consulting Services has worked with attorneys since 2005, when the firm opened its doors in Stillwater, Minnesota. Today the firm serves law practices across Minnesota and Wisconsin, plus clients nationwide who want a CPA already familiar with legal practice financials.
+Slachta Accounting & Consulting Services has worked with attorneys since 2005, when the firm opened its doors in Stillwater, Minnesota. Today the firm serves law practices across Minnesota and Wisconsin, plus clients nationwide who want a CPA already familiar with legal practice financials and committed to keeping those financials current, connected, and actionable.
 
-Search "accounting for law firms near me" and most results lead to generalists who handle bookkeeping for restaurants, retail shops, and law offices with the same playbook. Attorneys need something more specific: trust accounting rules, cash flow that swings with case timelines, and partner compensation structures that don't fit a standard small-business template. That's the daily work here, not an occasional specialty.
+Search "accounting for law firms near me" and most results lead to generalists who handle bookkeeping for restaurants, retail shops, and law offices with the same playbook. Attorneys need something more specific: trust accounting rules, cash flow that swings with case timelines, and partner compensation structures that don't fit a standard small-business template. They also need real-time financial visibility and connected systems that surface insights before problems develop, not reports assembled after the fact. That's the daily work here, not an occasional specialty.
 
-Firms across [industries](/industries), from dentists to architects, bring similar expense management concerns, but law practices carry their own compliance weight. Attorneys who work with Slachta get a team that recognizes the difference.
+Firms across [industries](/industries), from dentists to architects, bring similar expense management concerns, but law practices carry their own compliance weight. Attorneys who work with Slachta get a team that recognizes the difference and delivers proactive, data-driven guidance to support it.
 
 <!-- block: checklist-section | variant: with-image | image: law-firm-financial-review.jpg | alt: "Attorney and accountant reviewing financial reports at a law office desk" | query: "attorney reviewing documents office meeting" -->
 ## Financial challenges unique to running a law practice
