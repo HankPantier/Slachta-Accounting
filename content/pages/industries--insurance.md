@@ -2,7 +2,7 @@
 title: "Insurance Agencies | Slachta Accounting & Consulting Services LLC"
 url: "/industries/insurance"
 meta_title: "CPA for Insurance Agencies | Slachta Accounting"
-meta_description: "Slachta CPA has served insurance agencies since 2005 from Stillwater, MN. Modern outsourced accounting with real-time visibility, proactive insights, and connected systems built for commission-based revenue."
+meta_description: "Slachta CPA has served insurance agencies since 2005 from Stillwater, MN. Modern outsourced accounting with real-time visibility, connected systems, and proactive, data-driven financial insights built for commission-based revenue."
 target_keyword: "CPA for insurance agencies"
 secondary_keywords: ["insurance agency accounting services","payroll services for insurance agents","business tax services insurance agencies","insurance broker accounting","CPA outsourced accounting insurance","insurance agency bookkeeping services","independent insurance agent accountant","insurance agency payroll processing","insurance agent tax services"]
 canonical_url: "https://www.slachtacpa.com/industries/insurance"
