@@ -63,9 +63,9 @@ Slachta [processes payroll](/services/payroll-services) for teams that mix hourl
 
 Tax preparation for a service business happens once a year. Tax planning happens all year long, and that is where the real savings show up.
 
-Slachta works with entrepreneurs and established small businesses on entity structure, quarterly estimates, and deduction strategy months before a filing deadline, not the week of it. Contractors weighing S-corp status, consultants deciding how much to reinvest versus distribute, and agencies managing multi-state revenue all need a plan built around their own numbers, not a generic checklist.
+Slachta works with entrepreneurs and established small businesses on entity structure, quarterly estimates, and deduction strategy months before a filing deadline, not the week of it. Contractors weighing S-corp status, consultants deciding how much to reinvest versus distribute, and agencies managing multi-state revenue all need a plan built around their own real-time numbers, not a generic checklist.
 
-Preparation and filing still happen, accurately and on time, but the real value sits earlier: a mid-year call that flags a tax bill before it becomes a surprise, a strategy session ahead of a big equipment purchase or a new hire. [Business tax services](/what-we-do/tax-plus) from Slachta are built to keep owners ahead of the calendar, not behind it.
+Preparation and filing still happen, accurately and on time, but the real value sits earlier: proactive, data-driven guidance that flags a tax bill before it becomes a surprise, and strategy sessions ahead of a big equipment purchase or a new hire. [Business tax services](/what-we-do/tax-plus) from Slachta are built to keep owners ahead of the calendar, not behind it.
 
 <!-- block: content-split | variant: image-left | image: retirement-planning-business-owner.jpg | alt: "Business owner reviewing retirement plan documents with an advisor" | query: "retirement planning meeting advisor documents" -->
 ## Retirement plans and financial guidance for owners
