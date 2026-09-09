@@ -32,14 +32,14 @@ Whether you run a two-person agency near Stillwater or a multi-location operatio
 <!-- block: checklist-section | variant: with-image-left | image: insurance-agent-cash-flow-review.jpg | alt: "Insurance agent reviewing commission statements and cash flow charts" | query: "insurance agent reviewing paperwork desk" -->
 ## Common financial challenges facing insurance agencies
 
-Most agency owners we talk to are managing the same handful of problems, just at different scales. Commission income doesn't arrive on a predictable schedule, and books that treat it like a regular paycheck end up misleading owners about how the agency is actually performing.
+Most agency owners we talk to are managing the same handful of problems, just at different scales. Commission income doesn't arrive on a predictable schedule, and books that treat it like a regular paycheck end up misleading owners about how the agency is actually performing. Without real-time visibility and connected systems, too many decisions get made on instinct instead of data.
 
-- Renewal-driven revenue that spikes and dips depending on policy cycles, not calendar quarters
-- Expense creep across E&O premiums, licensing fees, CRM and quoting software, and marketing spend that's rarely tracked against production
-- Budgeting for growth, whether that's hiring a new producer or opening a second location, without a clear read on next quarter's cash position
-- Contingent and override commissions that arrive months after the policy was written, making short-term cash flow hard to forecast
+- Renewal-driven revenue that spikes and dips depending on policy cycles, not calendar quarters, making it difficult to forecast cash position without current, connected reporting
+- Expense creep across E&O premiums, licensing fees, CRM and quoting software, and marketing spend that rarely gets tracked against production in real time
+- Budgeting for growth, whether that's hiring a new producer or opening a second location, without data-driven insight into next quarter's cash position
+- Contingent and override commissions that arrive months after the policy was written, requiring proactive cash flow planning rather than reactive catch-up
 
-Without a system built around these patterns, owners end up guessing at profitability instead of planning around it.
+Without a modern system built around these patterns, owners end up reacting to financial surprises instead of making proactive, informed decisions.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting and bookkeeping for your agency
