@@ -48,7 +48,7 @@ Tax returns for architecture firms get complicated fast once pass-through income
 
 We work with architects on entity structure, S-corp elections, reasonable compensation for owner-employees, retirement plan contributions, and the Section 179 and bonus depreciation decisions that come up when a firm upgrades equipment or moves offices. Licensed professionals face specific rules around personal service corporations and self-employment tax that a generalist preparer can get wrong.
 
-Tax planning at Slachta is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments and surface decisions before December 31, not after the return is already locked in.
+Tax planning at Slachta is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface financial insights before December 31, not after the return is already locked in.
 
 <!-- block: content-prose -->
 ## Payroll services for architecture practices
