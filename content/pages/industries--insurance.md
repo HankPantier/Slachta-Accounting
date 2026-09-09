@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "insurance-agency-owner-office-review.jpg"
 hero_image_alt: "Insurance agency owner reviewing commission reports at a desk"
-hero_subhead: "Accounting, payroll, and tax planning built around how insurance agencies actually earn"
+hero_subhead: "Modern accounting, payroll, and tax planning built around how insurance agencies actually earn"
 hero_headline: "Accounting support made for independent agents and agency owners"
 answer_block: "Slachta Accounting & Consulting Services is a CPA firm founded in 2005 in Stillwater, Minnesota, that provides outsourced accounting, payroll, and tax services specifically for insurance agencies. The firm works with independent agents and agency owners across Minnesota, Wisconsin, and nationwide, structuring bookkeeping and tax planning around commission-based revenue and renewal cycles."
 eeat_signals: ["Firm founded in 2005 in Stillwater, Minnesota","Serves clients nationwide with a stated concentration in Minnesota and Wisconsin","Named industry focus on insurance agencies alongside dentists, attorneys, architects, and specialty healthcare","Offers outsourced accounting, payroll, and business tax services as core, named service lines","Coordinates directly with clients' financial advisors on retirement plan evaluation, a specific stated capability"]
@@ -124,12 +124,12 @@ Slachta Accounting & Consulting Services is a CPA firm founded in 2005 in Stillw
 - Coordinates directly with clients' financial advisors on retirement plan evaluation, a specific stated capability
 
 **Internal Links:**
-- industries we serve → /industries — Links to the broader industries hub for users comparing niches
-- outsourced accounting services → /what-we-do/outsourced-accounting — Supports the outsourced accounting section with the dedicated service page
-- payroll services → /services/payroll-services — Deepens the payroll section with the firm's core payroll service page
-- business tax planning services → /what-we-do/tax-plus — Connects the tax planning section to the firm's tax service offering
-- get started → /get-started — Offers a secondary conversion path for agency owners ready to switch accountants
-- schedule a consultation → /contact — Primary page CTA directing agency owners to book time with the firm
+- industries we serve → /industries, Links to the broader industries hub for users comparing niches
+- outsourced accounting services → /what-we-do/outsourced-accounting, Supports the outsourced accounting section with the dedicated service page
+- payroll services → /services/payroll-services, Deepens the payroll section with the firm's core payroll service page
+- business tax planning services → /what-we-do/tax-plus, Connects the tax planning section to the firm's tax service offering
+- get started → /get-started, Offers a secondary conversion path for agency owners ready to switch accountants
+- schedule a consultation → /contact, Primary page CTA directing agency owners to book time with the firm
 
 **FAQ Block:**
 
@@ -149,7 +149,7 @@ A: Yes. We regularly collaborate with agency owners' financial advisors on retir
 Slachta Accounting & Consulting Services, a CPA firm founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, payroll, and business tax services to insurance agencies nationwide, with a stated client concentration in Minnesota and Wisconsin.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
