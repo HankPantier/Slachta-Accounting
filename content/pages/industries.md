@@ -51,9 +51,9 @@ Specialty healthcare practices, from physical therapy groups to diagnostic clini
 <!-- block: content-split | variant: image-left | image: small-business-owner-budgeting.jpg | alt: "Small business owner reviewing budget and KPI reports with accountant" | query: "small business owner reviewing budget reports" -->
 ## Service-based businesses and entrepreneurs
 
-Owner-operators building a service business face a narrower version of the problem every growing company runs into: expenses creep, cash gets tight, and it's hard to tell which decisions actually moved the business forward. We work with entrepreneurs and established small businesses on budgeting that reflects how the business actually spends money, not a generic template.
+Owner-operators building a service business face a narrower version of the problem every growing company runs into: expenses creep, cash gets tight, and it's hard to tell which decisions actually moved the business forward. We work with entrepreneurs and established small businesses on budgeting backed by real-time financial data and connected systems that reflect how the business actually spends money, not a generic template.
 
-Key performance indicators matter here too. A service business scaling from one location to three, or from a founder-only team to ten employees, needs to track the numbers that predict trouble before it shows up on a bank statement: utilization rates, client acquisition cost, average job size. We set up that tracking and review it on a schedule that matches the pace of the business, not just at tax time.
+Key performance indicators matter here too. A service business scaling from one location to three, or from a founder-only team to ten employees, needs data-driven insight into the numbers that predict trouble before it shows up on a bank statement: utilization rates, client acquisition cost, average job size. We set up that tracking within connected systems and review it on a schedule that matches the pace of the business, supporting proactive decision-making throughout the year, not just at tax time.
 
 <!-- block: checklist-section | variant: with-image | image: advisor-client-financial-review.jpg | alt: "Accountant and business owner reviewing financial benchmarks together" | query: "accountant client reviewing reports together" -->
 ## Why industry-specific accounting matters
