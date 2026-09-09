@@ -97,7 +97,7 @@ If your current bookkeeping doesn't give you real-time visibility into which pro
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services provides outsourced accounting, tax planning, and payroll for architecture firms, with expertise in project-based billing and work-in-progress tracking. The firm has served clients from its Stillwater, Minnesota office since 2005 and works with architecture firms throughout Minnesota, Wisconsin, and nationwide.
+Slachta Accounting & Consulting Services provides modern outsourced accounting, tax planning, and payroll for architecture firms, with expertise in project-based billing, work-in-progress tracking, and real-time financial visibility through connected systems. The firm has served clients from its Stillwater, Minnesota office since 2005 and works with architecture firms throughout Minnesota, Wisconsin, and nationwide.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
