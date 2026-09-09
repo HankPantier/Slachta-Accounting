@@ -223,23 +223,23 @@ Slachta Accounting & Consulting Services LLC, founded in 2005, provides outsourc
       "name": "What's included in outsourced accounting for a dental practice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Monthly bookkeeping, bank and merchant account reconciliation, cash flow tracking, and budgeting built around dental-specific costs like lab fees and supplies. You get financial statements on a set schedule instead of piecing together numbers at tax time."
+        "text": "Monthly bookkeeping, bank and merchant account reconciliation, and production-versus-collections tracking through connected systems that keep your financial data current and accessible. Expense tracking is tied to dental-specific categories like lab fees, supplies, and equipment, and financial statements are delivered on a set schedule so practice owners have real-time visibility into how the practice is performing, not a summary pieced together months after the fact."
       }
     },
     {
       "@type": "Question",
-      "name": "Can you handle payroll for hygienists, associates, and front-desk staff?",
+      "name": "What's included in dental office payroll processing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Dental payroll involves hourly, salaried, and production-based pay structures plus benefits and PTO tracking through staff turnover. Slachta manages the full cycle, including quarterly and annual payroll tax filings."
+        "text": "Payroll processing covers hourly hygienists, associates paid on production percentages, salaried staff, tax deposits, and filings. It's scheduled around how dental offices actually pay their teams, with ongoing checks for overtime and benefits cost creep through staff changes, leave, and associate buy-ins."
       }
     },
     {
       "@type": "Question",
-      "name": "How often should a dental practice do tax planning, not just tax prep?",
+      "name": "How is dental practice tax planning different from year-end tax prep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Quarterly, at minimum. Waiting until the annual return is filed means missing decisions on entity structure, equipment purchase timing, and retirement contributions while there's still time in the tax year to act on them."
+        "text": "Tax prep reports what already happened. Tax planning happens throughout the year and uses real-time financial data from your practice to evaluate entity structure, equipment purchases, Section 179 elections, and retirement contributions before December, while there's still time to adjust estimated payments or change the timing of a major purchase."
       }
     },
     {
@@ -247,7 +247,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005, provides outsourc
       "name": "Will you coordinate with my financial advisor on retirement plan decisions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Slachta works directly with a practice owner's financial advisor on retirement plan evaluation, whether that's a SIMPLE IRA, SEP, or 401(k) with profit sharing, so the plan design lines up with entity structure and cash flow."
+        "text": "Yes. Slachta works directly with a practice owner's financial advisor on retirement plan evaluation, whether that's a SIMPLE IRA, SEP, or 401(k) with profit sharing, so the plan design lines up with entity structure, cash flow, and the owner's personal financial planning. Because the accounting runs on connected systems with current data, both the CPA and the financial advisor are working from the same financial picture."
       }
     }
   ]
