@@ -73,7 +73,7 @@ We break out revenue and cost by service line or partner so leadership can see w
 ### Cash flow forecasting
 icon: Wallet
 
-Project-based and retainer revenue create timing gaps. We build forecasts around your billing cycles so payroll, rent, and partner draws don't outrun collections.
+Project-based and retainer revenue create timing gaps. We build real-time forecasts around your billing cycles so payroll, rent, and partner draws don't outrun collections, and leadership always has a current picture, not last month's numbers.
 
 ### Performance benchmarks that fit the model
 icon: Target
