@@ -40,7 +40,7 @@ Running a law practice comes with financial pressure points that don't show up i
 - Expense management across matters, support staff, and overhead that needs to stay visible to every partner, not just the managing partner
 - Budgeting for growth, whether that means adding an associate, opening a second office, or covering a partner's retirement buyout
 
-These are not hypothetical concerns. They are the reason firms move away from reactive, after-the-fact accounting and bring in a CPA who has already built the modern reporting infrastructure: real-time financial visibility, connected systems, proactive decision-making support, and data-driven financial insights that answer these challenges before they become costly problems.
+These are not hypothetical concerns. They are exactly why modern accounting matters for law firms. Real-time financial visibility means partners always know where the firm stands, not just at year-end. Connected systems keep bookkeeping, payroll, and tax data aligned without manual re-entry or guesswork. Proactive decision-making support means financial guidance arrives before problems develop, and data-driven financial insights make every conversation about cash flow, budgeting, or partner compensation grounded in current numbers rather than figures assembled after the fact.
 
 <!-- block: content-split | variant: image-right | image: outsourced-bookkeeping-law-firm.jpg | alt: "Accountant preparing monthly financial reports for a law firm client" | query: "accountant working laptop financial reports" -->
 ## Outsourced accounting and bookkeeping for attorneys
