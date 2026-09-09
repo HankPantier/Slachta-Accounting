@@ -110,7 +110,7 @@ A: Tax strategy for these entities is handled year-round rather than only at fil
 <!-- block: cta-banner | variant: image-bg | image: consultation-meeting-handshake.jpg | alt: "Advisor and client shaking hands after a consultation meeting" | query: "business consultation handshake office" -->
 ## Talk to an accountant who understands your firm
 
-Attorneys, architects, engineers, and consultants deserve more than generic small-business accounting. Modern, connected systems give your firm real-time visibility into cash flow and profitability, financial insights that support proactive decisions, and a tax strategy built around how your entity actually works.
+Attorneys, architects, engineers, and consultants deserve more than generic small-business accounting. Modern, connected systems give your firm real-time visibility into cash flow and profitability, data-driven financial insights that support proactive decision-making, and a tax strategy built around how your entity actually works.
 
 If you run a professional services firm in Minnesota, Wisconsin, or anywhere else, [schedule a consultation](/contact) and we'll walk through where your firm stands and where the gaps are.
 
