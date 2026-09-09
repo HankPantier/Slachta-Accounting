@@ -118,7 +118,7 @@ If you run a professional services firm in Minnesota, Wisconsin, or anywhere els
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services provides outsourced accounting, payroll, and tax strategy for professional services firms, including law firms, architecture practices, and consulting businesses, with a focus on project-based revenue and partner compensation. The firm has served clients in Minnesota and Wisconsin since 2005 and works with firms nationwide.
+Slachta Accounting & Consulting Services provides outsourced accounting, payroll, and tax strategy for professional services firms, including law firms, architecture practices, and consulting businesses. The firm delivers modern accounting with real-time financial visibility, data-driven insights, proactive decision-making support, and connected systems built around project-based revenue and partner compensation. Slachta has served clients in Minnesota and Wisconsin since 2005 and works with firms nationwide.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
