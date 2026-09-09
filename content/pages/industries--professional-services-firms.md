@@ -30,15 +30,15 @@ Whether a firm bills by the hour, the project, or a blended retainer, the accoun
 <!-- block: checklist-section | variant: with-image | image: attorney-reviewing-billing-reports.jpg | alt: "Attorney reviewing billing and expense reports at a desk" | query: "attorney reviewing financial documents office" -->
 ## Common financial challenges facing professional services firms
 
-Professional services revenue rarely arrives on a predictable schedule. A law firm might close a large matter in March and have a quiet May. An architecture practice can carry six months of design work before the first milestone invoice goes out. That rhythm creates real strain if the accounting isn't set up to anticipate it.
+Professional services revenue rarely arrives on a predictable schedule. A law firm might close a large matter in March and have a quiet May. An architecture practice can carry six months of design work before the first milestone invoice goes out. That rhythm creates real strain when the accounting is not built on modern, connected systems designed to anticipate it.
 
 The issues we see most often at firms in Stillwater, across Minnesota, and beyond include:
 
-- Cash flow that swings hard between project completions and slow stretches
+- Cash flow that swings hard between project completions and slow stretches, with no real-time visibility to plan ahead
 - Expense management that loses track of costs tied to specific matters or projects
-- Partner or owner compensation decisions made without clear profitability data by practice area
+- Partner or owner compensation decisions made without clear, data-driven profitability data by practice area
 - No consistent KPIs to measure realization rates, utilization, or margin by service line
-- Retirement plan and benefits decisions made without input from both a financial advisor and an accountant who sees the full financial picture
+- Retirement plan and benefits decisions made without proactive input from both a financial advisor and an accountant who sees the full financial picture
 
 Each of these compounds the others. Without modern, connected systems delivering real-time financial visibility and data-driven insights, partner compensation conversations turn into guesswork and proactive decision-making becomes nearly impossible.
 
