@@ -55,7 +55,7 @@ Tax planning at Slachta is proactive and data-driven, not a once-in-March scramb
 
 Architecture firms mix salaried designers, hourly drafters, project managers, and the occasional 1099 contractor brought in for a specialized rendering or specification package. Getting classification wrong, missing overtime rules, or filing payroll taxes late creates problems that outlast the project that caused them.
 
-We process payroll accurately and on schedule, handle federal and state payroll tax filings, and manage 1099 issuance for contractors. Multi-state payroll comes up often for firms with remote staff or projects outside Minnesota, and we set that up correctly from the start rather than fixing it after a notice arrives. Your team gets paid on time, and you get Friday afternoon back for client work instead of chasing down a payroll error.
+We process payroll accurately and on schedule through modern, connected systems that handle federal and state payroll tax filings and 1099 issuance for contractors. Multi-state payroll comes up often for firms with remote staff or projects outside Minnesota, and we set that up correctly from the start rather than fixing it after a notice arrives. Your team gets paid on time, and you get real-time visibility into labor costs so payroll data feeds directly into your broader financial picture instead of living in a separate silo.
 
 <!-- block: content-split | variant: image-right | image: architecture-firm-budget-review.jpg | alt: "Two professionals reviewing budget charts and KPI reports" | query: "professionals reviewing charts reports" -->
 ## Budgeting, KPIs, and retirement plan support for firm owners
