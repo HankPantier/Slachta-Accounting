@@ -68,7 +68,7 @@ Slachta prepares business tax returns for dental practices structured as S corpo
 
 Choosing between a SIMPLE IRA, SEP, or 401(k) with profit sharing affects both a dentist's personal retirement savings and the tax bill for the whole practice. It's a decision that works best when the CPA and the financial advisor are looking at the same numbers.
 
-Slachta doesn't work in a silo. The firm coordinates directly with a practice owner's financial advisor on retirement plan evaluation, contribution limits, and how those numbers interact with entity structure and cash flow. That coordination matters more as a practice grows and adds associates or partners, each with different retirement needs and different stakes in the plan design. The goal is one coherent plan, not three advisors working from three different spreadsheets.
+Slachta doesn't work in a silo. The firm coordinates directly with a practice owner's financial advisor on retirement plan evaluation, contribution limits, and how those numbers interact with entity structure and cash flow. Because the accounting runs on connected systems with current data, both the CPA and the financial advisor are working from the same financial picture, not reconciling separate spreadsheets weeks after the fact. That coordination matters more as a practice grows and adds associates or partners, each with different retirement needs and different stakes in the plan design. The goal is one coherent plan built on accurate, up-to-date financial insights.
 
 <!-- block: checklist-section | variant: standalone -->
 ## CFO and controller-level guidance without the in-house cost
