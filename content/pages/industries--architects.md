@@ -123,10 +123,10 @@ Slachta Accounting & Consulting Services provides modern outsourced accounting, 
 A: Yes. While Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, and has a strong client concentration in Minnesota and Wisconsin, cloud-based bookkeeping and video meetings let us serve architecture firms nationwide with the same monthly close and direct access.
 
 **Q: How is accounting for an architecture firm different from a typical small business?**
-A: Architecture firms bill by project phase, carry work-in-progress and retainage, and often have reimbursable expenses tied to specific jobs. Standard small-business bookkeeping templates don't capture that, so financial statements need to be built around your actual project pipeline.
+A: Architecture firms bill by project phase, carry work-in-progress and retainage, and often have reimbursable expenses tied to specific jobs. Standard small-business bookkeeping templates don't capture that. We build connected systems around your actual project pipeline so you get real-time financial insights and proactive, data-driven visibility, not just a month-end summary that technically balances.
 
 **Q: Can you handle payroll for both salaried staff and 1099 contractors?**
-A: Yes. Many architecture practices mix salaried designers, hourly drafters, and contract specialists. We process payroll accurately, handle federal and state filings, manage 1099 issuance, and set up multi-state payroll correctly when firms have remote staff or out-of-state projects.
+A: Yes. Many architecture practices mix salaried designers, hourly drafters, and contract specialists. We process payroll through modern, connected systems, handle federal and state filings, manage 1099 issuance, and set up multi-state payroll correctly when firms have remote staff or out-of-state projects. Payroll data feeds directly into your connected financial systems so labor costs are visible in real time.
 
 **Q: Do you replace or work alongside a firm's financial advisor?**
 A: We work alongside your existing financial advisor rather than replacing that relationship. We coordinate on retirement plan evaluation, contribution strategy, and cash flow decisions so the tax and accounting side lines up with your broader financial plan.
