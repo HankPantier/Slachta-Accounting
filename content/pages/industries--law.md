@@ -126,16 +126,16 @@ Slachta Accounting & Consulting Services provides modern outsourced bookkeeping,
 **FAQ Block:**
 
 **Q: Does Slachta handle trust accounting for law firms?**
-A: Yes. Trust accounting oversight is part of outsourced bookkeeping for legal clients, including reconciliation and strict separation of client funds from operating accounts, which supports the compliance requirements attorneys face under state bar rules.
+A: Yes. Trust accounting oversight is part of outsourced bookkeeping for legal clients, including reconciliation and strict separation of client funds from operating accounts. Connected systems keep that activity visible in real time, which supports the compliance requirements attorneys face under state bar rules without requiring a manual audit at month-end.
 
 **Q: Can Slachta manage payroll for a small law firm with just a few employees?**
-A: Yes. Payroll services scale from a solo attorney with one assistant to firms with dozens of employees, handling mixed pay structures like salaried associates, hourly paralegals, and partner draws with consistent, on-time processing. Payroll connects directly to the firm's broader accounting systems so labor costs are always visible alongside other financial data.
+A: Yes. Payroll services scale from a solo attorney with one assistant to firms with dozens of employees, handling mixed pay structures like salaried associates, hourly paralegals, and partner draws with consistent, on-time processing. Payroll connects directly to the firm's broader accounting systems so labor costs are always visible alongside other financial data, supporting proactive decisions about staffing and overhead.
 
 **Q: How does entity structure affect a law firm's taxes?**
-A: Whether a firm is organized as an LLC, partnership, or professional corporation changes how partner distributions are taxed and what retirement and deduction options are available. Tax planning starts with reviewing that structure before filing season, using current financial data to model the right approach for the year ahead.
+A: Whether a firm is organized as an LLC, partnership, or professional corporation changes how partner distributions are taxed and what retirement and deduction options are available. Tax planning starts with reviewing that structure before filing season, using current financial data to model the right approach for the year ahead rather than relying on figures assembled after the fact.
 
 **Q: What does modern accounting look like for a law firm?**
-A: Modern law firm accounting means connected systems that give partners real-time visibility into financials, proactive reporting that surfaces insights before problems develop, and data-driven guidance on cash flow, budgeting, and tax strategy throughout the year, not just at year-end.
+A: Modern law firm accounting means connected systems that give partners real-time visibility into financials, proactive reporting that surfaces data-driven insights before problems develop, and financial guidance on cash flow, budgeting, and tax strategy throughout the year, not just at year-end. It replaces reactive, after-the-fact reporting with financial intelligence that supports confident decisions all year long.
 
 **Q: Does Slachta work with law firms outside Minnesota and Wisconsin?**
 A: Yes. While the firm is based in Stillwater, Minnesota, with a concentration of clients in Minnesota and Wisconsin, Slachta serves attorneys and other professional service firms nationwide through remote bookkeeping, payroll, and tax services, with connected systems that keep everything accessible regardless of location.
