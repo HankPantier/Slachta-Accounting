@@ -82,13 +82,14 @@ Schedule a consultation with our team and bring your questions, your recent fina
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services LLC provides accounting, tax, and advisory services built for medical and dental practices, covering entity structuring, revenue cycle analysis, payroll, and reimbursement-driven cash flow planning. The firm has served specialty healthcare clients since 2005 from Stillwater, Minnesota, with clients across Minnesota, Wisconsin, and nationwide.
+Slachta Accounting & Consulting Services LLC provides modern accounting, tax, and advisory services built for specialty healthcare practices, including oral surgeons, occupational therapists, speech therapists, and chiropractors. Services include real-time financial reporting through connected systems, revenue cycle analysis, payroll, entity structuring, and data-driven cash flow planning that supports proactive decision making. The firm has served specialty healthcare clients since 2005 from Stillwater, Minnesota, with clients across Minnesota, Wisconsin, and nationwide.
 
 **E-E-A-T Signals:**
 - Firm founded in 2005 in Stillwater, Minnesota
-- Serves specialty healthcare practices, dentists, and medical professionals nationwide with concentration in Minnesota and Wisconsin
+- Serves oral surgeons, occupational therapists, speech therapists, chiropractors, and other specialty healthcare practices nationwide with concentration in Minnesota and Wisconsin
+- Provides modern, connected accounting systems with real-time financial visibility and data-driven reporting for specialty healthcare practices
 - Offers outsourced accounting, payroll, and business tax services specific to healthcare practice operations
-- Advises on entity structuring, retirement plan evaluation, and revenue cycle analysis for medical and dental practices
+- Advises on entity structuring, retirement plan evaluation, and revenue cycle analysis to support proactive, data-driven decision making for specialty healthcare and clinical practices
 
 **Internal Links:**
 - dental practice accounting → /industries/dentists, Related niche page for a healthcare sub-vertical the firm serves
