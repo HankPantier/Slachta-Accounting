@@ -65,7 +65,7 @@ For practices thinking about adding a location, bringing on an associate provide
 <!-- block: content-prose -->
 ## Regulatory compliance & reporting support
 
-Healthcare practices answer to more than the IRS. Payroll tax filings, 1099 reporting for contracted providers, and state-specific licensing and reporting requirements all need to be accurate and on time. We handle the accounting side of that compliance load through modern, connected systems so it doesn't fall on clinical staff or get pushed to the last minute.
+Healthcare practices answer to more than the IRS. Payroll tax filings, 1099 reporting for contracted providers, and state-specific licensing and reporting requirements all need to be accurate and on time. We handle the accounting side of that compliance load through modern, connected systems that automate what can be automated and flag what needs attention, so it doesn't fall on clinical staff or get pushed to the last minute.
 
 Accurate, timely financial reporting also matters when a practice goes through a bank review, a partner buy-in valuation, or an internal audit. We prepare financial statements and supporting documentation built to hold up under that kind of scrutiny, and because our reporting reflects real-time data rather than month-end summaries assembled after the fact, the numbers are ready when you need them.
 
