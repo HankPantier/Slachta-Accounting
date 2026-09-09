@@ -45,11 +45,11 @@ A firm that has seen these patterns in dental practices, insurance agencies, and
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-service-team.jpg | alt: "Accountant reviewing financial statements with a service business owner" | query: "accountant reviewing documents office meeting" -->
 ## Outsourced accounting and bookkeeping support
 
-Most service businesses do not need a full-time controller. They need accurate books, up-to-date financials, and a clear read on cash flow before a tight month becomes a real problem.
+Most service businesses do not need a full-time controller. They need accurate books, real-time financial visibility, and a clear read on cash flow before a tight month becomes a real problem.
 
-Slachta's [outsourced accounting service](/what-we-do/outsourced-accounting) uses connected systems to deliver real-time financial visibility, handling the monthly close, reconciliations, and financial statements that owners use to make data-driven decisions, not just file taxes at year-end. Reports come formatted around what matters for a services model: revenue by client or project, overhead as a percentage of billings, cash runway. Budgeting support turns current data into next quarter's plan, and cash flow forecasting flags a shortfall before payroll is due, not after.
+Slachta's [outsourced accounting service](/what-we-do/outsourced-accounting) uses connected systems to handle the monthly close, reconciliations, and financial statements that owners rely on for data-driven decisions throughout the year, not just at tax time. Reports are formatted around what matters for a services model: revenue by client or project, overhead as a percentage of billings, and cash runway. Budgeting support turns current data into next quarter's plan, and proactive cash flow forecasting flags a shortfall before payroll is due, not after.
 
-For an entrepreneur running a twelve-person consulting shop or an agency with twenty years of history, that difference matters. It is the gap between reacting to the bank balance and managing toward a target with current, reliable financial insights. Slachta's team functions as the accounting department without the overhead of hiring one.
+For an entrepreneur running a twelve-person consulting shop or an agency with twenty years of history, that difference matters. It is the gap between reacting to a bank balance and managing toward a target with up-to-date, connected financial insights. Slachta's team functions as a modern accounting department without the overhead of building one.
 
 <!-- block: content-split | variant: image-left | image: payroll-processing-small-business.jpg | alt: "Payroll specialist processing paychecks for a small business team" | query: "payroll paperwork small business office" -->
 ## Payroll processing for growing teams
