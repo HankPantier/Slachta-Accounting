@@ -2,7 +2,7 @@
 title: "Professional services firms | Slachta Accounting & Consulting Services LLC"
 url: "/industries/professional-services-firms"
 meta_title: "Accounting for Professional Services Firms | Slachta CPA"
-meta_description: "Slachta CPA gives law firms, architects, and consultants real-time financial visibility, data-driven insights, and connected accounting systems built for project-based revenue. Schedule a consultation."
+meta_description: "Slachta CPA gives law firms, architects, and consultants real-time financial visibility, data-driven insights, proactive decision-making support, and connected accounting systems built for project-based revenue. Schedule a consultation."
 target_keyword: "professional services firms"
 secondary_keywords: ["accounting for law firms","outsourced accounting for professional services","payroll for professional services firms","tax planning for partnerships"]
 canonical_url: "https://www.slachtacpa.com/industries/professional-services-firms"
