@@ -73,7 +73,7 @@ If your agency adds or loses producers mid-year, we update the payroll setup as 
 <!-- block: content-split | variant: image-right | image: insurance-agency-tax-planning-session.jpg | alt: "Accountant and insurance agency owner discussing tax documents at a desk" | query: "accountant client tax planning meeting" -->
 ## Business tax planning and preparation for insurance agencies
 
-Tax preparation is the last step, not the strategy. We plan for your agency's tax position throughout the year using real-time financial data, looking at entity structure, quarterly estimates, and timing of income and expenses so April doesn't bring surprises. That proactive approach means tax decisions are made with current, accurate numbers rather than a year-end scramble.
+Tax preparation is the last step, not the strategy. We plan for your agency's tax position throughout the year using real-time financial data from your connected systems, looking at entity structure, quarterly estimates, and timing of income and expenses so there are no surprises at filing time. That proactive approach means tax decisions are made with current, accurate numbers and data-driven financial insights gathered throughout the year, not assembled at the last minute.
 
 Entity structure matters more for agencies than owners often realize. Whether your agency is set up as an S corp, LLC, or something else affects self-employment tax, how owner compensation is handled, and what deductions are available. We review that structure as your agency grows, not just at formation.
 
