@@ -56,9 +56,9 @@ The goal is straightforward: firm leadership gets accurate, up-to-date numbers w
 
 Partnerships, S corporations, and professional LLCs each carry their own tax mechanics, and the right entity structure at formation isn't always the right one five years later as a firm grows or adds partners. [Tax planning](/what-we-do/tax-plus) for these entities works best as a year-round conversation, not a scramble in March.
 
-We look at guaranteed payments, partner distributions, retirement plan contributions, and quarterly estimates together, because a decision in one area almost always affects another. A partner buy-in, an office expansion, or a new associate hire all carry tax consequences worth planning for before they happen, not after the return is filed.
+We look at guaranteed payments, partner distributions, retirement plan contributions, and quarterly estimates together, because a decision in one area almost always affects another. Real-time financial data and connected systems mean we can model scenarios before a partner buy-in, office expansion, or new associate hire rather than reacting after the return is filed.
 
-That proactive approach matters more for professional services firms than most businesses, since partner-level tax exposure is personal, not just corporate.
+That proactive, data-driven approach matters more for professional services firms than most businesses, since partner-level tax exposure is personal, not just corporate.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Cash flow, budgeting, and KPI support for firm leadership
