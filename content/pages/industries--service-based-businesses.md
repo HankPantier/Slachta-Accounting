@@ -187,7 +187,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "Does Slachta work with service businesses outside Minnesota?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Slachta serves clients nationwide, with a concentration of business owners, dentists, attorneys, architects, and insurance agencies located in Minnesota and Wisconsin, supported remotely through outsourced accounting and payroll systems."
+        "text": "Yes. Slachta serves clients nationwide, with a concentration of business owners, dentists, attorneys, architects, and insurance agencies located in Minnesota and Wisconsin, supported remotely through outsourced accounting and connected payroll systems that provide real-time financial visibility regardless of location."
       }
     },
     {
