@@ -179,7 +179,7 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
       "name": "What accounting services does Slachta offer for service-based businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Slachta provides outsourced accounting and bookkeeping, payroll processing, and business tax planning and preparation for service-based businesses such as consultants, agencies, contractors, and specialty firms across Minnesota, Wisconsin, and nationwide, with a focus on cash flow visibility and proactive tax strategy."
+        "text": "Slachta provides modern outsourced accounting and bookkeeping, payroll processing, and business tax planning and preparation for service-based businesses such as consultants, agencies, contractors, and specialty firms across Minnesota, Wisconsin, and nationwide. The firm uses connected systems and real-time financial data to deliver proactive insights and data-driven decision support, with a focus on cash flow visibility and tax strategy."
       }
     },
     {
