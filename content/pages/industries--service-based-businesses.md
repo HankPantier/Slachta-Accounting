@@ -2,7 +2,7 @@
 title: "Service based businesses | Slachta Accounting & Consulting Services LLC"
 url: "/industries/service-based-businesses"
 meta_title: "Accounting for Service-Based Businesses | Slachta CPA"
-meta_description: "Modern outsourced accounting with real-time visibility, data-driven insights, and connected systems for service-based businesses in Minnesota, Wisconsin, and nationwide since 2005. Schedule a consultation."
+meta_description: "Modern outsourced accounting with real-time visibility, connected systems, and proactive data-driven insights for service-based businesses in Minnesota, Wisconsin, and nationwide. Serving clients since 2005. Schedule a consultation."
 target_keyword: "accounting services for service-based businesses near me"
 secondary_keywords: ["CPA for service businesses","outsourced accounting service industry","payroll services service-based businesses","business tax services for contractors","small business accounting consultant","accounting firm for entrepreneurs","tax preparation service businesses","bookkeeping services small business","business accounting outsourcing","professional services accounting"]
 canonical_url: "https://www.slachtacpa.com/industries/service-based-businesses"
