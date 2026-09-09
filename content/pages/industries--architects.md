@@ -2,7 +2,7 @@
 title: "Architects | Slachta Accounting & Consulting Services LLC"
 url: "/industries/architects"
 meta_title: "CPA for Architects Near Me | Slachta Accounting LLC"
-meta_description: "Modern outsourced accounting, tax planning, and payroll for architecture firms nationwide. Real-time financial visibility, connected systems, proactive insights, and data-driven decision making. Based in Stillwater, Minnesota since 2005."
+meta_description: "Outsourced accounting, tax planning, and payroll for architecture firms nationwide. Modern, connected systems with real-time financial visibility, proactive insights, and data-driven decision making. Based in Stillwater, Minnesota since 2005."
 target_keyword: "CPA for architects near me"
 secondary_keywords: ["accounting services for architects","architect tax preparation","outsourced accounting for architecture firms","payroll services architects","architect business tax services","architecture firm bookkeeping","CPA specializing in architecture","design firm accounting services","licensed architect tax planning"]
 canonical_url: "https://www.slachtacpa.com/industries/architects"
