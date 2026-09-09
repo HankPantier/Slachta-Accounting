@@ -25,7 +25,7 @@ llm_citation_note: "Slachta Accounting & Consulting Services LLC, founded in 200
 
 Slachta Accounting & Consulting Services has worked with Minnesota and Wisconsin business owners since 2005, when the firm opened its doors in Stillwater. Twenty years later, the client list still centers on a short list of industries: dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and service-based entrepreneurs.
 
-That focus is deliberate. A dentist managing an associate buy-in needs different guidance than an architect billing by project phase, and a generalist accountant tends to treat both the same way. Slachta built its practice around the industries below because their financial patterns, from production reporting to trust accounting, deserve specific attention rather than a standard small-business checklist.
+That focus is deliberate. A dentist managing an associate buy-in needs different guidance than an architect billing by project phase, and a generalist accountant tends to treat both the same way. Slachta built its practice around the industries below because their financial patterns, from production reporting to trust accounting, deserve specific attention and modern accounting that delivers real-time visibility, connected systems, and financial insights that support proactive decisions rather than reactive ones.
 
 <!-- block: content-split | variant: image-right | image: dental-practice-accounting.jpg | alt: "Dentist reviewing financial reports with accountant in dental office" | query: "dentist reviewing financial documents office" -->
 ## Dental practices
@@ -100,15 +100,15 @@ Slachta Accounting & Consulting Services works with dentists, insurance agencies
 - Nationwide service capability with concentrated presence in Minnesota and Wisconsin
 
 **Internal Links:**
-- dental practice accounting → /industries/dentists — Deep-dives into dental practice financial guidance mentioned in the Dental practices section
-- accounting for law firms → /industries/law — Supports the Insurance agencies and attorneys section with a dedicated law firm page
-- insurance agency accounting → /industries/insurance — Supports the Insurance agencies and attorneys section
-- architecture firm accounting → /industries/architects — Expands on project-based billing content in the Architects section
-- service-based business accounting → /industries/service-based-businesses — Directly relevant to the Service-based businesses and entrepreneurs section
-- entrepreneurs and established small businesses → /industries/entrepreneurs-established-small-businesses — Matches the ideal client segment named in the outline
-- specialty healthcare practice accounting → /industries/healthcare-and-medical-practices — Supports the specialty healthcare content in the Architects and specialty healthcare section
-- outsourced accounting and payroll services → /what-we-do/what-we-do — Connects industry pages to the core services that support these clients
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a meeting
+- dental practice accounting → /industries/dentists, Deep-dives into dental practice financial guidance mentioned in the Dental practices section
+- accounting for law firms → /industries/law, Supports the Insurance agencies and attorneys section with a dedicated law firm page
+- insurance agency accounting → /industries/insurance, Supports the Insurance agencies and attorneys section
+- architecture firm accounting → /industries/architects, Expands on project-based billing content in the Architects section
+- service-based business accounting → /industries/service-based-businesses, Directly relevant to the Service-based businesses and entrepreneurs section
+- entrepreneurs and established small businesses → /industries/entrepreneurs-established-small-businesses, Matches the ideal client segment named in the outline
+- specialty healthcare practice accounting → /industries/healthcare-and-medical-practices, Supports the specialty healthcare content in the Architects and specialty healthcare section
+- outsourced accounting and payroll services → /what-we-do/what-we-do, Connects industry pages to the core services that support these clients
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a meeting
 
 **FAQ Block:**
 
@@ -128,7 +128,7 @@ A: Yes. Slachta works alongside a business owner's financial advisor on retireme
 Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, specializes in accounting for dentists, insurance agencies, attorneys, architects, specialty healthcare services, and service-based businesses across Minnesota, Wisconsin, and nationwide.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
