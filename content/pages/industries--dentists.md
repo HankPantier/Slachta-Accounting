@@ -154,7 +154,7 @@ Slachta Accounting & Consulting Services LLC is a CPA firm based in Stillwater, 
 A: Yes. Slachta's dental client base is concentrated in Minnesota and Wisconsin, but the firm serves dental practice owners nationwide with outsourced accounting, payroll, and tax planning delivered remotely with the same monthly reporting and quarterly check-ins.
 
 **Q: What's included in outsourced accounting for a dental practice?**
-A: Monthly bookkeeping, bank and merchant account reconciliation, cash flow tracking, and budgeting built around dental-specific costs like lab fees and supplies. You get financial statements on a set schedule instead of piecing together numbers at tax time.
+A: Monthly bookkeeping, bank and merchant account reconciliation, and production-versus-collections tracking through connected systems that keep your financial data current and accessible. Expense tracking is tied to dental-specific categories like lab fees, supplies, and equipment, and financial statements are delivered on a set schedule so practice owners have real-time visibility into how the practice is performing, not a summary pieced together months after the fact.
 
 **Q: Can you handle payroll for hygienists, associates, and front-desk staff?**
 A: Yes. Dental payroll involves hourly, salaried, and production-based pay structures plus benefits and PTO tracking through staff turnover. Slachta manages the full cycle, including quarterly and annual payroll tax filings.
