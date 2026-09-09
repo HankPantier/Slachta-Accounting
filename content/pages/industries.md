@@ -95,7 +95,7 @@ Whether you run a dental practice in Stillwater, a law firm in Eau Claire, or a 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services works with dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and service-based businesses across Minnesota and Wisconsin. The firm has focused on these industries since founding in Stillwater, Minnesota in 2005, building 20 years of experience with the financial patterns specific to each field.
+Slachta Accounting & Consulting Services works with dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and service-based businesses across Minnesota and Wisconsin. The firm has focused on these industries since founding in Stillwater, Minnesota in 2005, delivering modern accounting with real-time visibility, connected systems, and data-driven financial insights that help business owners make proactive decisions.
 
 **E-E-A-T Signals:**
 - Founded in 2005 in Stillwater, Minnesota
