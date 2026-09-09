@@ -63,7 +63,7 @@ That proactive approach matters more for professional services firms than most b
 <!-- block: feature-grid | variant: 3-col -->
 ## Cash flow, budgeting, and KPI support for firm leadership
 
-Knowing the firm made money last quarter isn't the same as knowing which practice area, partner, or project drove that result. Firm leaders need both.
+Knowing the firm made money last quarter isn't the same as knowing which practice area, partner, or project drove that result. Modern accounting built on connected systems and real-time data gives firm leaders both.
 
 ### Profitability by practice area
 icon: ChartBar
