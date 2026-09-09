@@ -206,7 +206,7 @@ Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minneso
       "name": "How does entity structure affect a law firm's taxes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Whether a firm is organized as an LLC, partnership, or professional corporation changes how partner distributions are taxed and what retirement and deduction options are available. Tax planning starts with reviewing that structure before filing season."
+        "text": "Whether a firm is organized as an LLC, partnership, or professional corporation changes how partner distributions are taxed and what retirement and deduction options are available. Tax planning starts with reviewing that structure before filing season, using current financial data drawn from connected systems to model the right approach for the year ahead rather than relying on figures assembled after the fact."
       }
     },
     {
