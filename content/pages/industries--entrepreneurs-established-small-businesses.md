@@ -109,9 +109,9 @@ A: We build monthly cash flow forecasts, track expense trends, and flag receivab
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA shaking hands with small business owner in an office setting" | query: "business handshake office meeting" -->
 ## Talk with a CPA who understands small business ownership
 
-Running a business comes with enough unknowns. Your accounting shouldn't be one of them. Whether you're two years in or twenty, Slachta Accounting & Consulting Services LLC can look at your cash flow, your retirement plan, and your tax strategy as one connected picture instead of three separate problems.
+Running a business comes with enough unknowns. Your accounting shouldn't be one of them. Whether you're two years in or twenty, Slachta Accounting & Consulting Services LLC brings modern, connected accounting systems and real-time financial insights to every client relationship, looking at your cash flow, your retirement plan, and your tax strategy as one connected picture instead of three separate problems.
 
-Schedule a consultation and bring your questions. We'll tell you plainly what we see and what we'd do differently.
+Schedule a consultation and bring your questions. We'll tell you plainly what we see, what the data shows, and what we'd do differently.
 
 [Schedule a consultation](/contact)
 
