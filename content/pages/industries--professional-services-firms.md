@@ -45,11 +45,11 @@ Each of these compounds the others. Without real-time cash flow visibility and d
 <!-- block: content-split | variant: image-right | image: bookkeeper-updating-financial-records.jpg | alt: "Accountant updating financial records on a laptop in an office" | query: "accountant working laptop office" -->
 ## Outsourced accounting and payroll for growing firms
 
-Partners at a law firm or principals at an architecture practice didn't go into the profession to reconcile bank accounts or process payroll. Every hour spent on back-office bookkeeping is an hour not billed to a client or spent bringing in new work.
+Partners at a law firm or principals at an architecture practice didn't go into the profession to reconcile bank accounts or process payroll. Every hour spent on back-office accounting tasks is an hour not billed to a client or invested in bringing in new work.
 
-Our [outsourced accounting](/what-we-do/outsourced-accounting) services are built on connected systems that keep your financial data current, not weeks behind. That means real-time account reconciliation, financial reporting organized around how service firms actually track revenue (by matter, by project, or by partner), and insights leadership can act on before a problem compounds. [Payroll](/services/payroll-services) runs on schedule, whether the firm has three employees or thirty, and includes handling for partner draws, bonus structures, and benefits deductions that differ from standard W-2 payroll.
+Our [outsourced accounting](/what-we-do/outsourced-accounting) services are built on modern, connected systems that keep your financial data current in real time, not weeks behind. That means real-time account reconciliation, financial reporting organized around how service firms actually track revenue (by matter, by project, or by partner), and data-driven financial insights leadership can act on before a problem compounds. [Payroll](/services/payroll-services) runs on schedule, whether the firm has three employees or thirty, and includes handling for partner draws, bonus structures, and benefits deductions that differ from standard W-2 payroll.
 
-The goal is straightforward: firm leadership gets accurate, up-to-date numbers without doing the work themselves, and the time that frees up goes back into client service and business development.
+The goal is straightforward: firm leadership gets accurate, real-time numbers without doing the work themselves, and the time that frees up goes back into client service and business development.
 
 <!-- block: content-split | variant: image-left | image: partners-reviewing-tax-strategy.jpg | alt: "Two business partners discussing tax documents at a conference table" | query: "business partners reviewing documents meeting" -->
 ## Business tax strategy for partnerships and professional entities
