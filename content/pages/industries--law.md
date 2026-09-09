@@ -40,7 +40,7 @@ Running a law practice comes with financial pressure points that don't show up i
 - Expense management across matters, support staff, and overhead that needs to stay visible to every partner, not just the managing partner
 - Budgeting for growth, whether that means adding an associate, opening a second office, or covering a partner's retirement buyout
 
-These aren't hypothetical concerns. They're the reason firms bring in a CPA who has already built the reporting and cash flow systems that answer them.
+These aren't hypothetical concerns. They're the reason firms move away from reactive, after-the-fact accounting and bring in a CPA who has already built the modern reporting, connected systems, and real-time cash flow visibility that answer them proactively.
 
 <!-- block: content-split | variant: image-right | image: outsourced-bookkeeping-law-firm.jpg | alt: "Accountant preparing monthly financial reports for a law firm client" | query: "accountant working laptop financial reports" -->
 ## Outsourced accounting and bookkeeping for attorneys
