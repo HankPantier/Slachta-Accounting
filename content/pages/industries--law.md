@@ -97,9 +97,9 @@ A: Yes. While the firm is based in Stillwater, Minnesota, with a concentration o
 
 Slachta Accounting & Consulting Services has been based in Stillwater, Minnesota since 2005, working with attorneys, dentists, insurance agencies, and other professional service firms across Minnesota, Wisconsin, and nationwide. The firm brings modern accounting to every engagement: connected systems, real-time financial visibility, and proactive, data-driven insights that help law practices make confident decisions all year long, not just at tax time.
 
-If trust accounting, partner compensation, or matter-based cash flow are keeping your firm's books more complicated than they should be, that's a conversation worth having before tax season, not during it.
+If trust accounting, partner compensation, or matter-based cash flow are holding your firm back from the financial clarity it deserves, that is a conversation worth having now, well before tax season, when there is still time to act. Modern accounting means real-time visibility, connected systems, proactive guidance, and data-driven insights working together all year long, not just at filing time.
 
-[Schedule a consultation](/contact) with a CPA who already knows how law firm accounting works, and spend the next partner meeting talking about growth instead of catching up on reconciliations.
+[Schedule a consultation](/contact) with a CPA who already knows how law firm accounting works, and spend the next partner meeting talking about growth instead of catching up on last quarter's numbers.
 
 ---
 ## SEO & AIO Metadata
