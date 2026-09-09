@@ -32,11 +32,11 @@ Generic startup guides answer the first set of questions reasonably well. They s
 
 Most small businesses don't fail because revenue disappears. They fail because cash runs out while the books still say things look fine. Expense creep, slow-paying customers, and seasonal swings can erode a healthy-looking business month by month, and by the time it shows up on a year-end statement, the window to fix it has closed.
 
-We watch the numbers between statements, not just at tax time. That means:
+We don't wait for year-end to surface problems. Our connected accounting systems sync with your bank accounts, payroll, and payment platforms so the data is current, not weeks behind. That real-time foundation powers proactive decisions, not reactive ones. That means:
 
-- Monthly cash flow forecasting so surprises show up weeks early instead of after the fact
-- Expense categorization that flags creeping costs before they harden into fixed costs
-- Budget-to-actual reviews tied to real bank activity, not last year's guesswork
+- Live cash flow visibility so surprises show up weeks early instead of after the fact
+- Data-driven expense tracking that flags creeping costs before they harden into fixed costs
+- Budget-to-actual reviews tied to real-time bank activity, not last year's guesswork
 - Early flags on receivables aging so slow-paying clients don't quietly drain your cash
 
 <!-- block: content-split | variant: image-left | image: retirement-planning-consultation.jpg | alt: "Financial advisor and business owner discussing retirement plan documents" | query: "retirement planning meeting financial advisor" -->
