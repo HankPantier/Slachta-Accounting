@@ -2,7 +2,7 @@
 title: "Industries we serve | Slachta Accounting & Consulting Services LLC"
 url: "/industries"
 meta_title: "Industries We Serve | Slachta Accounting & Consulting"
-meta_description: "Modern accounting for dentists, attorneys, insurance agencies, architects, and service businesses in Minnesota and Wisconsin. Real-time visibility, financial insights, and proactive guidance since 2005."
+meta_description: "Modern accounting for dentists, attorneys, insurance agencies, architects, and service businesses in Minnesota and Wisconsin. Real-time visibility, connected systems, data-driven financial insights, and proactive guidance since 2005."
 target_keyword: "industries we serve"
 secondary_keywords: ["dental practice accounting","CPA for attorneys and insurance agencies","accounting for architects","small business accounting Minnesota"]
 canonical_url: "https://www.slachtacpa.com/industries"
