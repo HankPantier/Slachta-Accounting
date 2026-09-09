@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "attorney-architect-office-meeting.jpg"
 hero_image_alt: "Professional in a law or architecture office reviewing financial paperwork"
-hero_subhead: "Modern accounting with real-time visibility, financial insights, and connected systems built around billable hours, project revenue, and partner compensation"
+hero_subhead: "Modern accounting with real-time visibility, data-driven financial insights, proactive decision-making, and connected systems built around billable hours, project revenue, and partner compensation"
 hero_headline: "Financial guidance built for attorneys, architects, and consultants"
 answer_block: "Slachta Accounting & Consulting Services provides outsourced accounting, payroll, and tax strategy for professional services firms, including law firms, architecture practices, and consulting businesses, with a focus on real-time financial visibility, data-driven decision making, and connected systems built around project-based revenue and partner compensation. The firm has served clients in Minnesota and Wisconsin since 2005 and works with firms nationwide."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Twenty years of continuous service to regional professional services clients","Concentration of clients in Minnesota and Wisconsin with nationwide reach","Direct experience with partner compensation, work-in-progress tracking, and retainer billing models"]
