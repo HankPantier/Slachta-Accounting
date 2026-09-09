@@ -92,7 +92,9 @@ A: Yes. While the firm is based in Stillwater, Minnesota, with a concentration o
 <!-- block: cta-banner | variant: image-bg | image: law-firm-cpa-consultation.jpg | alt: "CPA shaking hands with law firm attorney after consultation meeting" | query: "handshake business meeting professionals office" -->
 ## Talk to a CPA who understands law firm accounting
 
-Slachta Accounting & Consulting Services has been based in Stillwater, Minnesota since 2005, working with attorneys, dentists, insurance agencies, and other professional service firms across Minnesota, Wisconsin, and nationwide. If trust accounting, partner compensation, or matter-based cash flow are keeping your firm's books more complicated than they should be, that's a conversation worth having before tax season, not during it.
+Slachta Accounting & Consulting Services has been based in Stillwater, Minnesota since 2005, working with attorneys, dentists, insurance agencies, and other professional service firms across Minnesota, Wisconsin, and nationwide. The firm brings modern accounting to every engagement: connected systems, real-time financial visibility, and proactive, data-driven insights that help law practices make confident decisions all year long, not just at tax time.
+
+If trust accounting, partner compensation, or matter-based cash flow are keeping your firm's books more complicated than they should be, that's a conversation worth having before tax season, not during it.
 
 [Schedule a consultation](/contact) with a CPA who already knows how law firm accounting works, and spend the next partner meeting talking about growth instead of catching up on reconciliations.
 
