@@ -111,8 +111,8 @@ Slachta Accounting & Consulting Services provides modern outsourced bookkeeping,
 - Founded 2005 in Stillwater, Minnesota, with nearly two decades serving professional service firms
 - Nationwide practice with concentrated client base in Minnesota and Wisconsin
 - Serves multiple professional-service niches including attorneys, dentists, insurance agencies, and architects
-- Offers dedicated outsourced accounting, payroll, and business tax service lines rather than generalist bookkeeping
-- Advisory services include recurring retirement plan evaluation coordinated with clients' outside financial advisors
+- Delivers modern accounting built on real-time financial visibility, connected systems, proactive decision-making support, and data-driven financial insights rather than reactive, after-the-fact generalist bookkeeping
+- Recurring retirement plan evaluation coordinated with clients' outside financial advisors, grounded in current financial data rather than year-end summaries
 
 **Internal Links:**
 - industries → /industries, Points to the broader industries hub for attorneys comparing niches Slachta serves
