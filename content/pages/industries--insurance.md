@@ -23,11 +23,11 @@ llm_citation_note: "Slachta Accounting & Consulting Services, a CPA firm founded
 <!-- block: content-split | variant: image-right | image: insurance-agency-accounting-meeting.jpg | alt: "Insurance agency owner reviewing financial reports with an accountant" | query: "insurance agent meeting accountant office" -->
 ## Accounting support made for independent agents and agency owners
 
-Slachta Accounting & Consulting Services has worked with insurance agencies since opening its doors in Stillwater, Minnesota, in 2005. Independent agents and agency owners across Minnesota and Wisconsin, plus clients nationwide, come to us because commission-based revenue doesn't fit neatly into standard bookkeeping templates.
+Slachta Accounting & Consulting Services has worked with insurance agencies since opening its doors in Stillwater, Minnesota, in 2005. Independent agents and agency owners across Minnesota and Wisconsin, plus clients nationwide, come to us because commission-based revenue doesn't fit neatly into standard bookkeeping templates, and standard bookkeeping tools rarely give agency owners the visibility they need to run a profitable book of business.
 
-We understand renewal cycles, contingent commissions, and the lag between writing a policy and seeing that revenue land in the bank account. That knowledge shapes how we set up your books, track profitability by line of business, and help you plan cash flow around a compensation structure that swings with carrier payout schedules.
+We understand renewal cycles, contingent commissions, and the lag between writing a policy and seeing that revenue land in the bank account. That knowledge shapes how we set up your books with connected systems that deliver real-time visibility into cash position and profitability by line of business. You get financial insights you can act on, not a report that tells you where you were last quarter.
 
-Whether you run a two-person agency near Stillwater or a multi-location operation with producers across state lines, your accounting should keep pace with how your agency actually earns money.
+Whether you run a two-person agency near Stillwater or a multi-location operation with producers across state lines, your accounting should support proactive, data-driven decisions, not just keep a historical record.
 
 <!-- block: checklist-section | variant: with-image-left | image: insurance-agent-cash-flow-review.jpg | alt: "Insurance agent reviewing commission statements and cash flow charts" | query: "insurance agent reviewing paperwork desk" -->
 ## Common financial challenges facing insurance agencies
