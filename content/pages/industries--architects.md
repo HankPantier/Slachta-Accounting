@@ -89,7 +89,7 @@ A: We work alongside your existing financial advisor rather than replacing that 
 <!-- block: cta-banner | variant: image-bg | image: architecture-office-consultation.jpg | alt: "Modern architecture office with drafting tables and natural light" | query: "modern architecture office interior" -->
 ## Let's talk about your firm's finances
 
-If your current bookkeeping doesn't tell you which projects make money, or your accountant treats your architecture firm like any other small business, it's worth a conversation. Schedule a consultation and we'll look at where your books stand now and what a monthly close built around your actual project list would show you.
+If your current bookkeeping doesn't give you real-time visibility into which projects are profitable, or your accountant treats your architecture firm like any other small business, it's worth a conversation. Schedule a consultation and we'll look at where your books stand now and what modern, connected accounting built around your actual project list would show you.
 
 [Schedule a consultation](/contact)
 
