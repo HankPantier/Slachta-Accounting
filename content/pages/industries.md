@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "industries-we-serve-hero.jpg"
 hero_image_alt: "Accountant meeting with a professional services client in a modern office"
-hero_subhead: "Accounting built around how your industry actually makes and spends money, not a generic small-business template"
+hero_subhead: "Modern accounting built around how your industry actually makes and spends money, with real-time visibility, connected systems, and data-driven insights that support proactive decisions"
 hero_headline: "Accounting expertise built around your industry"
 answer_block: "Slachta Accounting & Consulting Services works with dentists, insurance agencies, attorneys, architects, specialty healthcare practices, and service-based businesses across Minnesota and Wisconsin. The firm has focused on these industries since founding in Stillwater, Minnesota in 2005, delivering modern accounting with real-time visibility, connected systems, and data-driven financial insights that help business owners make proactive decisions."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","20 years of continuous operation serving Minnesota and Wisconsin business owners","Focused industry specialization: dentists, insurance agencies, attorneys, architects, specialty healthcare services, and service-based businesses","Nationwide service capability with concentrated presence in Minnesota and Wisconsin"]
