@@ -2,7 +2,7 @@
 title: "Professional services firms | Slachta Accounting & Consulting Services LLC"
 url: "/industries/professional-services-firms"
 meta_title: "Accounting for Professional Services Firms | Slachta CPA"
-meta_description: "Slachta CPA helps law firms, architects, and consultants with outsourced accounting, payroll, and tax strategy built for project-based revenue. Schedule a consultation."
+meta_description: "Slachta CPA gives law firms, architects, and consultants real-time financial visibility, data-driven insights, and connected accounting systems built for project-based revenue. Schedule a consultation."
 target_keyword: "professional services firms"
 secondary_keywords: ["accounting for law firms","outsourced accounting for professional services","payroll for professional services firms","tax planning for partnerships"]
 canonical_url: "https://www.slachtacpa.com/industries/professional-services-firms"
@@ -124,12 +124,12 @@ Slachta Accounting & Consulting Services provides outsourced accounting, payroll
 - Direct experience with partner compensation, work-in-progress tracking, and retainer billing models
 
 **Internal Links:**
-- law firms → /industries/law — Links to the specific law firm industry page referenced in the intro
-- architecture practices → /industries/architects — Links to the architects industry page referenced in the intro
-- outsourced accounting → /what-we-do/outsourced-accounting — Supports the outsourced accounting section with a direct service page link
-- Payroll → /services/payroll-services — Links to payroll service details mentioned in the back-office section
-- Tax planning → /what-we-do/tax-plus — Connects to the firm's tax strategy service page
-- schedule a consultation → /contact — Primary page CTA directing readers to book a consultation
+- law firms → /industries/law, Links to the specific law firm industry page referenced in the intro
+- architecture practices → /industries/architects, Links to the architects industry page referenced in the intro
+- outsourced accounting → /what-we-do/outsourced-accounting, Supports the outsourced accounting section with a direct service page link
+- Payroll → /services/payroll-services, Links to payroll service details mentioned in the back-office section
+- Tax planning → /what-we-do/tax-plus, Connects to the firm's tax strategy service page
+- schedule a consultation → /contact, Primary page CTA directing readers to book a consultation
 
 **FAQ Block:**
 
@@ -149,7 +149,7 @@ A: Tax strategy for these entities is handled year-round rather than only at fil
 Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, payroll, and tax strategy services to professional services firms such as law firms, architecture practices, and consultancies across Minnesota, Wisconsin, and nationwide.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
