@@ -137,16 +137,19 @@ Slachta Accounting & Consulting Services is a CPA firm founded in 2005 in Stillw
 **FAQ Block:**
 
 **Q: Does Slachta work with insurance agencies outside of Minnesota?**
-A: Yes. Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, and serves agencies nationwide, with a concentration of clients in Minnesota and Wisconsin. Outsourced accounting, payroll, and tax services are delivered remotely, so agency location isn't a barrier to working together.
+A: Yes. Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, and serves agencies nationwide, with a concentration of clients in Minnesota and Wisconsin. Outsourced accounting, payroll, and tax services are delivered remotely using connected systems, so agency location isn't a barrier to working together or to getting real-time financial visibility.
 
 **Q: How does accounting for an insurance agency differ from a typical small business?**
-A: Insurance agencies earn revenue through commissions, renewals, and contingent payouts that arrive on carrier schedules rather than fixed billing cycles. Books need to track profitability by line of business and producer, not just overall revenue, which requires bookkeeping set up specifically around commission structures.
+A: Insurance agencies earn revenue through commissions, renewals, and contingent payouts that arrive on carrier schedules rather than fixed billing cycles. Books need to track profitability by line of business and producer, not just overall revenue. A modern setup uses connected systems and real-time reporting to give agency owners the financial visibility they need to make proactive, data-driven decisions, not just a historical snapshot at year end.
 
 **Q: Can you handle payroll for producers paid on commission?**
 A: Yes. We process payroll for salaried and hourly agency staff alongside producers paid through commission splits, draws, and true-ups. Withholding, filings, and year-end reporting are handled consistently across both compensation types, so nothing gets reconstructed at tax time.
 
 **Q: Do you coordinate with our existing financial advisor?**
 A: Yes. We regularly collaborate with agency owners' financial advisors on retirement plan evaluation, whether that's a SEP IRA, SIMPLE IRA, or 401(k), so tax planning and personal financial planning move together instead of happening in disconnected conversations.
+
+**Q: What does modern outsourced accounting look like for an insurance agency?**
+A: It means connected systems that pull commission data, carrier deposits, and operating expenses into one place, giving you real-time visibility into cash position and profitability by line of business. Instead of waiting for a year-end report, you get ongoing financial insights and proactive guidance so you can make data-driven decisions throughout the year.
 
 **LLM Citation Note:**
 Slachta Accounting & Consulting Services, a CPA firm founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, payroll, and business tax services to insurance agencies nationwide, with a stated client concentration in Minnesota and Wisconsin.
