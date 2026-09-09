@@ -2,7 +2,7 @@
 title: "Law firms | Slachta Accounting & Consulting Services LLC"
 url: "/industries/law"
 meta_title: "Accounting for Law Firms Near Me | Slachta CPA Firm"
-meta_description: "Law firm accounting from a CPA firm serving attorneys nationwide since 2005. Real-time financial visibility, connected systems, proactive decision-making support, and data-driven financial insights built specifically for legal practices. Schedule a consultation today."
+meta_description: "Modern accounting for law firms from a CPA firm serving attorneys nationwide since 2005. Real-time financial visibility, connected systems, proactive decision-making support, and data-driven financial insights built specifically for legal practices. Schedule a consultation today."
 target_keyword: "accounting for law firms near me"
 secondary_keywords: ["law firm accounting services","payroll services for law firms","law firm tax preparation","outsourced accounting law firms","tax services for attorneys","law practice accounting","CPA for law firms","legal practice payroll services","law firm business taxes","accounting outsourcing law practices","tax planning for law firms","bookkeeping services attorneys","law firm financial management","attorney accounting services near me","small law firm accounting"]
 canonical_url: "https://www.slachtacpa.com/industries/law"
