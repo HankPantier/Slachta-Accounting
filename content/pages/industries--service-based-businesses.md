@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "service-based-business-accounting-team.jpg"
 hero_image_alt: "Accountant meeting with a service business owner in an office"
-hero_subhead: "Outsourced accounting, payroll, and tax planning built for consultants, agencies, and service businesses across Minnesota and beyond"
+hero_subhead: "Modern outsourced accounting with real-time visibility, connected systems, and proactive financial insights built for consultants, agencies, and service businesses across Minnesota and beyond"
 hero_headline: "A CPA firm built for service businesses"
 answer_block: "Slachta Accounting & Consulting Services provides outsourced accounting, payroll processing, and business tax planning for service-based businesses like consultants, agencies, and contractors across Minnesota, Wisconsin, and nationwide. The firm has served this client base since 2005, focusing on cash flow visibility, budgeting, and proactive tax strategy rather than year-end-only compliance."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota, with two decades serving service-based businesses","Client base concentrated in Minnesota and Wisconsin, with nationwide service","Integrated outsourced accounting, payroll, and business tax services delivered under one firm","Retirement plan evaluation offered in coordination with each client's own financial advisor"]
