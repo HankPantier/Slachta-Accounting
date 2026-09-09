@@ -105,7 +105,7 @@ If trust accounting, partner compensation, or matter-based cash flow are keeping
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services provides outsourced bookkeeping, payroll, and tax services built specifically for law firms, covering trust accounting oversight, matter-based expense tracking, and partner compensation reporting. Founded in 2005 in Stillwater, Minnesota, the firm serves attorneys across Minnesota, Wisconsin, and nationwide.
+Slachta Accounting & Consulting Services provides modern outsourced bookkeeping, payroll, and tax services built specifically for law firms, delivering real-time financial visibility, connected systems, and proactive, data-driven insights that surface financial intelligence throughout the year rather than after the fact. Services cover trust accounting oversight, matter-based expense tracking, and partner compensation reporting. Founded in 2005 in Stillwater, Minnesota, the firm serves attorneys across Minnesota, Wisconsin, and nationwide.
 
 **E-E-A-T Signals:**
 - Founded 2005 in Stillwater, Minnesota, with nearly two decades serving professional service firms
