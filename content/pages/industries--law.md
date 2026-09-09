@@ -72,7 +72,7 @@ Firms that have grown, added partners, or opened a second location get particula
 
 Partners at established firms often ask the same question: is the firm's retirement plan still the right one, and is it coordinated with what each partner's financial advisor already recommends? [Advisory services](/what-we-do/advisory-services) from Slachta include retirement plan evaluation as a regular part of the relationship, not a one-time project.
 
-That means checking plan design against the firm's current partner mix, comparing contribution limits to what partners actually want to save, and staying in contact with each partner's outside financial advisor so the numbers line up. For a firm with partners at different career stages, some building toward retirement and others years from thinking about it, that coordination keeps the plan useful for everyone at the table.
+That means checking plan design against the firm's current partner mix, using real-time financial data to compare contribution limits against what partners actually want to save, and staying in contact with each partner's outside financial advisor so the numbers line up across connected plans. The result is proactive, financially grounded guidance rather than a once-a-year conversation that relies on outdated figures. For a firm with partners at different career stages, some building toward retirement and others years from thinking about it, that ongoing coordination and shared financial visibility keeps the plan useful for everyone at the table.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Law firms
