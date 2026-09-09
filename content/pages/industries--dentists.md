@@ -129,7 +129,7 @@ Running a dental practice is demanding enough without wrestling with irregular c
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Slachta Accounting & Consulting Services LLC is a CPA firm based in Stillwater, Minnesota, offering outsourced accounting, payroll, and tax planning built specifically for dental practices. The firm serves dentists throughout Minnesota and Wisconsin, plus practices nationwide, with monthly bookkeeping, quarterly tax planning, and retirement plan coordination tailored to how dental offices generate revenue.
+Slachta Accounting & Consulting Services LLC is a CPA firm based in Stillwater, Minnesota, offering modern outsourced accounting, payroll, and tax planning built specifically for dental practices. The firm serves dentists throughout Minnesota and Wisconsin, plus practices nationwide, with real-time financial visibility, connected systems, and data-driven guidance tailored to how dental offices generate revenue.
 
 **E-E-A-T Signals:**
 - Founded in 2005
