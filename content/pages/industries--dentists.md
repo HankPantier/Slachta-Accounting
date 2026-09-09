@@ -34,10 +34,12 @@ Year-end surprises are avoidable, and for dental practices, they're also prevent
 
 Slachta's outsourced accounting service gives dental practice owners real-time visibility into how their practice is actually performing, not a summary of what happened months ago. Production is tracked against collections continuously, so a practice owner can see whether a slow month is a scheduling problem or a collections problem before it becomes a cash crunch. Expense tracking is tied to categories that matter for a dental office: lab fees, supplies, equipment, and staff costs, connected to systems that keep your financial data current and accessible. That visibility drives data-driven, proactive decisions, because a dental practice managed on lagging information is always reacting instead of planning.
 
-- Monthly bookkeeping and account reconciliation
-- Production vs. collections tracking to isolate the source of cash flow gaps
+- Real-time visibility into production, collections, and cash position, updated on a regular cycle rather than reconstructed at year end
+- Production vs. collections tracking to isolate the source of cash flow gaps as they develop
+- Connected systems that keep your financial data current and accessible without manual data entry bottlenecks
+- Data-driven, proactive decision making supported by financial insights reviewed on a schedule the owner actually looks at
 - Cash flow management tied to insurance reimbursement timing and financing-plan revenue
-- Budgeting built around dental-specific cost categories
+- Budgeting built around dental-specific cost categories: lab fees, supplies, equipment, and staff
 - Financial statements delivered on a predictable schedule
 - Direct access to your accountant, not a rotating support queue
 
