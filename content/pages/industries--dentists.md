@@ -159,8 +159,8 @@ A: Monthly bookkeeping, bank and merchant account reconciliation, and production
 **Q: Can you handle payroll for hygienists, associates, and front-desk staff?**
 A: Yes. Dental payroll involves hourly, salaried, and production-based pay structures plus benefits and PTO tracking through staff turnover. Slachta manages the full cycle, including quarterly and annual payroll tax filings.
 
-**Q: How often should a dental practice do tax planning, not just tax prep?**
-A: Quarterly, at minimum. Waiting until the annual return is filed means missing decisions on entity structure, equipment purchase timing, and retirement contributions while there's still time in the tax year to act on them.
+**Q: How is dental practice tax planning different from year-end tax prep?**
+A: Tax prep reports what already happened. Tax planning happens throughout the year and uses real-time financial data from your practice to evaluate entity structure, equipment purchases, Section 179 elections, and retirement contributions before December, while there's still time to adjust estimated payments or change the timing of a major purchase.
 
 **Q: Will you coordinate with my financial advisor on retirement plan decisions?**
 A: Yes. Slachta works directly with a practice owner's financial advisor on retirement plan evaluation, whether that's a SIMPLE IRA, SEP, or 401(k) with profit sharing, so the plan design lines up with entity structure and cash flow.
