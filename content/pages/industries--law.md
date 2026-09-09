@@ -214,7 +214,7 @@ Slachta Accounting & Consulting Services, founded in 2005 in Stillwater, Minneso
       "name": "Does Slachta work with law firms outside Minnesota and Wisconsin?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While the firm is based in Stillwater, Minnesota, with a concentration of clients in Minnesota and Wisconsin, Slachta serves attorneys and other professional service firms nationwide through remote bookkeeping, payroll, and tax services."
+        "text": "Yes. While the firm is based in Stillwater, Minnesota, with a concentration of clients in Minnesota and Wisconsin, Slachta serves attorneys and other professional service firms nationwide through remote bookkeeping, payroll, and tax services. Connected systems keep everything accessible and visible in real time regardless of location."
       }
     }
   ]
