@@ -78,7 +78,7 @@ Project-based and retainer revenue create timing gaps. Using connected systems a
 ### Performance benchmarks that fit the model
 icon: Target
 
-Realization rate, utilization, and revenue per partner mean more to a professional services firm than generic small-business ratios. We track the KPIs that match your practice and surface data-driven insights so leadership can make informed decisions, not instinct-based ones.
+Realization rate, utilization, and revenue per partner mean more to a professional services firm than generic small-business ratios. We track the KPIs that match your practice and surface data-driven financial insights so leadership can make proactive, informed decisions rather than instinct-based ones built on outdated information.
 
 <!-- block: content-prose -->
 ## Working with a firm rooted in Minnesota and Wisconsin
