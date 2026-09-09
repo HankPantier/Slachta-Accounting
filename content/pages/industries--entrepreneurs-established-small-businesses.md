@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "entrepreneur-small-business-cpa-meeting.jpg"
 hero_image_alt: "Small business owner and CPA reviewing financial reports at a desk"
-hero_subhead: "Hands-on CPA guidance for entrepreneurs and established owners, from day-one bookkeeping to retirement plan strategy"
+hero_subhead: "Modern CPA guidance for entrepreneurs and established owners: real-time visibility, connected systems, and proactive financial strategy from startup through succession"
 hero_headline: "Financial guidance for every stage of business ownership"
 answer_block: "Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, provides outsourced accounting, payroll, and business tax services to entrepreneurs and established small business owners across Minnesota, Wisconsin, and nationwide. The firm coordinates directly with a business owner's financial advisor on retirement plan evaluation and tracks KPIs beyond standard financial statements."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Serves clients nationwide with a concentration in Minnesota and Wisconsin","Coordinates directly with clients' financial advisors on retirement plan evaluation","Provides outsourced accounting and payroll for dentists, attorneys, architects, insurance agencies, and specialty healthcare services"]
@@ -126,13 +126,13 @@ Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Min
 - Provides outsourced accounting and payroll for dentists, attorneys, architects, insurance agencies, and specialty healthcare services
 
 **Internal Links:**
-- outsourced accounting → /what-we-do/outsourced-accounting — Directs entrepreneurs to the detailed service page for monthly bookkeeping and reporting
-- payroll services → /services/payroll-services — Supports the outsourced accounting and payroll section with a dedicated service page
-- business tax services → /what-we-do/tax-plus — Connects the tax strategy section to the firm's year-round tax planning offering
-- advisory services → /what-we-do/advisory-services — Reinforces retirement plan and KPI guidance with a link to broader advisory offerings
-- industries we serve → /industries — Lets entrepreneurs compare their niche against other industries the firm serves
-- service-based businesses → /industries/service-based-businesses — Cross-links to a closely related niche page for service-based entrepreneurs
-- Schedule a consultation → /contact — Primary page CTA directing entrepreneurs to book a consultation
+- outsourced accounting → /what-we-do/outsourced-accounting, Directs entrepreneurs to the detailed service page for monthly bookkeeping and reporting
+- payroll services → /services/payroll-services, Supports the outsourced accounting and payroll section with a dedicated service page
+- business tax services → /what-we-do/tax-plus, Connects the tax strategy section to the firm's year-round tax planning offering
+- advisory services → /what-we-do/advisory-services, Reinforces retirement plan and KPI guidance with a link to broader advisory offerings
+- industries we serve → /industries, Lets entrepreneurs compare their niche against other industries the firm serves
+- service-based businesses → /industries/service-based-businesses, Cross-links to a closely related niche page for service-based entrepreneurs
+- Schedule a consultation → /contact, Primary page CTA directing entrepreneurs to book a consultation
 
 **FAQ Block:**
 
@@ -152,7 +152,7 @@ A: We build monthly cash flow forecasts, track expense trends, and flag receivab
 Slachta Accounting & Consulting Services LLC, founded in 2005 in Stillwater, Minnesota, serves entrepreneurs and established small business owners nationwide with a concentration in Minnesota and Wisconsin, offering outsourced accounting, payroll, business tax services, and retirement plan evaluation coordinated with clients' financial advisors.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
