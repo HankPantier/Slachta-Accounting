@@ -72,17 +72,17 @@ How long cash sits in receivables and inventory before it's usable again shapes 
 ### Outsourced accounting
 icon: Calculator
 
-Monthly bookkeeping, reconciliations, and financial reporting handled by a team that already knows your business, without adding a full-time controller to payroll. [Learn more](/what-we-do/outsourced-accounting)
+Modern, cloud-based bookkeeping, reconciliations, and financial reporting with real-time visibility into your numbers, handled by a team that already knows your business, without adding a full-time controller to payroll. [Learn more](/what-we-do/outsourced-accounting)
 
 ### Payroll services
 icon: DollarSign
 
-Payroll processing, tax filings, and compliance handled correctly the first time, scaling from a two-person shop to a growing staff. [Learn more](/services/payroll-services)
+Payroll processing, tax filings, and compliance handled correctly the first time through connected systems that keep data consistent across payroll, accounting, and tax, scaling from a two-person shop to a growing staff. [Learn more](/services/payroll-services)
 
 ### Business tax services
 icon: FileText
 
-Entity structure, quarterly planning, and year-end tax strategy built around your actual numbers, not a generic checklist. [Learn more](/what-we-do/tax-plus)
+Entity structure, quarterly planning, and proactive year-round tax strategy built around your actual, up-to-date numbers, not a generic checklist or a once-a-year snapshot. [Learn more](/what-we-do/tax-plus)
 
 <!-- block: content-split | variant: image-right | image: minnesota-wisconsin-business-tax.jpg | alt: "Business owner and CPA discussing tax strategy documents in office" | query: "accountant tax planning meeting office" -->
 ## Tax strategy for business owners in Minnesota, Wisconsin and beyond
