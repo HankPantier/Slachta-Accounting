@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "architect-financial-review-meeting.jpg"
 hero_image_alt: "Architect and accountant reviewing project budgets at a desk with blueprints"
-hero_subhead: "Outsourced accounting, tax planning, and payroll built around how architecture firms actually bill and grow"
+hero_subhead: "Modern outsourced accounting with real-time visibility, connected systems, and proactive financial insights for architecture firms"
 hero_headline: "Accounting drafted for the way architecture firms operate"
 answer_block: "Slachta Accounting & Consulting Services provides outsourced accounting, tax planning, and payroll for architecture firms, with expertise in project-based billing and work-in-progress tracking. The firm has served clients from its Stillwater, Minnesota office since 2005 and works with architecture firms throughout Minnesota, Wisconsin, and nationwide."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Direct experience with project-phase billing, work-in-progress tracking, and percentage-of-completion accounting used by architecture firms","Serves clients concentrated in Minnesota and Wisconsin with additional clients nationwide","Provides entity structure and S-corp guidance specific to licensed professional service corporations"]
@@ -105,13 +105,13 @@ Slachta Accounting & Consulting Services provides outsourced accounting, tax pla
 - Provides entity structure and S-corp guidance specific to licensed professional service corporations
 
 **Internal Links:**
-- industries we serve → /industries — Links to the broader industries hub from an individual industry page
-- outsourced accounting services → /what-we-do/outsourced-accounting — Supports the section detailing bookkeeping and financial statement services
-- payroll services → /services/payroll-services — Directly relevant to the payroll section for architecture practices
-- tax planning services → /what-we-do/tax-plus — Supports the tax planning and preparation section
-- professional services firms → /industries/professional-services-firms — Cross-links to a related niche for licensed professionals
-- get started → /get-started — Secondary conversion path for prospective architecture firm clients
-- schedule a consultation → /contact — Primary page CTA to book a meeting
+- industries we serve → /industries, Links to the broader industries hub from an individual industry page
+- outsourced accounting services → /what-we-do/outsourced-accounting, Supports the section detailing bookkeeping and financial statement services
+- payroll services → /services/payroll-services, Directly relevant to the payroll section for architecture practices
+- tax planning services → /what-we-do/tax-plus, Supports the tax planning and preparation section
+- professional services firms → /industries/professional-services-firms, Cross-links to a related niche for licensed professionals
+- get started → /get-started, Secondary conversion path for prospective architecture firm clients
+- schedule a consultation → /contact, Primary page CTA to book a meeting
 
 **FAQ Block:**
 
@@ -131,7 +131,7 @@ A: We work alongside your existing financial advisor rather than replacing that 
 Slachta Accounting & Consulting Services, founded in 2005 and based in Stillwater, Minnesota, provides outsourced accounting, tax planning, and payroll services specifically for architecture firms, with experience in project-phase billing and work-in-progress tracking, serving clients in Minnesota, Wisconsin, and nationwide.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
