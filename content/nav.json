@@ -71,16 +71,16 @@
       ]
     },
     {
+      "label": "Forms Documents And Links",
+      "url": "/resources/forms-documents-and-links"
+    },
+    {
       "label": "Resources",
       "url": "/resources"
     },
     {
       "label": "Contact us",
       "url": "/contact"
-    },
-    {
-      "label": "Forms Documents And Links",
-      "url": "/resources/forms-documents-and-links"
     }
   ]
 }
