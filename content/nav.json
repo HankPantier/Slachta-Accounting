@@ -66,13 +66,15 @@
       "children": [
         {
           "label": "Refund tracker",
-          "url": "/resources/resources-library/refund-tracker"
+          "url": "/resources/resources-library/refund-tracker",
+          "children": [
+            {
+              "label": "Forms Documents And Links",
+              "url": "/resources/resources-library/refund-tracker/forms-documents-and-links"
+            }
+          ]
         }
       ]
-    },
-    {
-      "label": "Forms Documents And Links",
-      "url": "/resources/forms-documents-and-links"
     },
     {
       "label": "Resources",
