@@ -5,28 +5,6 @@
       "url": "/"
     },
     {
-      "label": "Services",
-      "url": "/what-we-do",
-      "children": [
-        {
-          "label": "Outsourced accounting",
-          "url": "/what-we-do/accounting"
-        },
-        {
-          "label": "Advisory services",
-          "url": "/what-we-do/advisory-services"
-        },
-        {
-          "label": "Payroll",
-          "url": "/what-we-do/payroll"
-        },
-        {
-          "label": "Tax plus",
-          "url": "/what-we-do/tax"
-        }
-      ]
-    },
-    {
       "label": "Industries we serve",
       "url": "/who-we-serve",
       "children": [
