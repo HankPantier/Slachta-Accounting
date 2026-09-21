@@ -15,3 +15,4 @@ old_url,new_url,status_code,reason
 /industries/law,/who-we-serve/law,301,Relocated via AI
 /industries/professional-services-firms,/who-we-serve/professional-services-firms,301,Relocated via AI
 /industries/specialty-healthcare-services,/who-we-serve/specialty-healthcare-services,301,Relocated via AI
+/industries,/who-we-serve,301,Relocated via AI
