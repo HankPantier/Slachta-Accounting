@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "label": "Services",
+      "label": "What We Do",
       "url": "/what-we-do",
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/what-we-do/accounting"
+          "url": "/what-we-do/outsourced-accounting"
         },
         {
           "label": "Advisory services",
@@ -22,12 +22,12 @@
         },
         {
           "label": "Tax plus",
-          "url": "/what-we-do/tax"
+          "url": "/what-we-do/tax-plus"
         }
       ]
     },
     {
-      "label": "Industries we serve",
+      "label": "Who We Serve",
       "url": "/who-we-serve",
       "children": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "label": "Who we are",
+      "label": "Who We Are",
       "url": "/who-we-are"
     },
     {
