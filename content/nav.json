@@ -5,6 +5,28 @@
       "url": "/"
     },
     {
+      "label": "Services",
+      "url": "/what-we-do",
+      "children": [
+        {
+          "label": "Outsourced accounting",
+          "url": "/what-we-do/accounting"
+        },
+        {
+          "label": "Advisory services",
+          "url": "/what-we-do/advisory-services"
+        },
+        {
+          "label": "Payroll",
+          "url": "/what-we-do/payroll"
+        },
+        {
+          "label": "Tax plus",
+          "url": "/what-we-do/tax"
+        }
+      ]
+    },
+    {
       "label": "Industries we serve",
       "url": "/who-we-serve",
       "children": [
@@ -39,22 +61,22 @@
       "url": "/packages"
     },
     {
-      "label": "Resources",
-      "url": "/resources",
+      "label": "Resources library",
+      "url": "/resources/resources-library",
       "children": [
         {
-          "label": "Resources library",
-          "url": "/resources/resources-library"
-        },
-        {
           "label": "Refund tracker",
-          "url": "/resources/refund-tracker"
+          "url": "/resources/resources-library/refund-tracker"
         },
         {
           "label": "Forms Documents And Links",
-          "url": "/resources/forms-documents-and-links"
+          "url": "/resources/resources-library/forms-documents-and-links"
         }
       ]
+    },
+    {
+      "label": "Resources",
+      "url": "/resources"
     },
     {
       "label": "Contact us",
