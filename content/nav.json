@@ -28,27 +28,27 @@
     },
     {
       "label": "Industries we serve",
-      "url": "/industries",
+      "url": "/who-we-serve",
       "children": [
         {
           "label": "Dentists",
-          "url": "/industries/dentists"
+          "url": "/who-we-serve/dentists"
         },
         {
           "label": "Insurance Agencies",
-          "url": "/industries/insurance"
+          "url": "/who-we-serve/insurance"
         },
         {
           "label": "Architects",
-          "url": "/industries/architects"
+          "url": "/who-we-serve/architects"
         },
         {
           "label": "Law firms",
-          "url": "/industries/law"
+          "url": "/who-we-serve/law"
         },
         {
           "label": "Specialty Healthcare Services",
-          "url": "/industries/specialty-healthcare-services"
+          "url": "/who-we-serve/specialty-healthcare-services"
         }
       ]
     },
