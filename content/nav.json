@@ -69,12 +69,12 @@
           "url": "/resources/resources-library"
         },
         {
-          "label": "Forms Documents And Links",
-          "url": "/resources/forms-documents-and-links"
-        },
-        {
           "label": "Refund tracker",
           "url": "/resources/refund-tracker"
+        },
+        {
+          "label": "Forms Documents And Links",
+          "url": "/resources/forms-documents-and-links"
         }
       ]
     },
