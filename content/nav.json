@@ -10,19 +10,19 @@
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/services/accounting"
+          "url": "/what-we-do/accounting"
         },
         {
           "label": "Advisory services",
-          "url": "/services/advisory-services"
+          "url": "/what-we-do/advisory-services"
         },
         {
           "label": "Payroll",
-          "url": "/services/payroll"
+          "url": "/what-we-do/payroll"
         },
         {
           "label": "Tax plus",
-          "url": "/services/tax"
+          "url": "/what-we-do/tax"
         }
       ]
     },
