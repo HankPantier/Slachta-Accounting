@@ -31,7 +31,7 @@ hero_image_alt: A CPA reviewing documents with two business owners during a cons
 <!-- block: content-split | variant: image-right -->
 ## More than a number-cruncher: a real business partner
 
-![The Slachta Accounting team in Stillwater, Minnesota](team-photo.png)
+![Four colleagues working together at a shared desk with laptops and paperwork](slachta-team-stillwater-office.jpg)
 
 Running a business means navigating cash flow, managing expenses, planning for the future, and staying on top of ever-changing tax rules. We help business owners make sense of the numbers by managing accounting, handling payroll, supporting tax preparation and planning all year long, and providing insightful advice through every business decision to keep things on track.
 
