@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "intro": "Scalable accounting and tax solutions for growing businesses. Choose the plan that fits your needs today.",
+  "billing": {
+    "showToggle": true,
+    "defaultCadence": "monthly",
+    "annualDiscountPct": 15,
+    "monthlyLabel": "Monthly",
+    "annualLabel": "Annual"
+  },
+  "tiers": [
+    {
+      "id": "essential",
+      "name": "Essential",
+      "description": "Perfect for startups and sole proprietors",
+      "monthlyPrice": 299,
+      "annualPrice": 254,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "monthly-bookkeeping",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "basic-payroll",
+          "label": "Basic payroll processing (up to 5 employees)",
+          "included": true
+        },
+        {
+          "id": "tax-prep",
+          "label": "Annual business tax return preparation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Quarterly financial statements",
+          "included": false
+        },
+        {
+          "id": "planning-consultation",
+          "label": "Annual tax planning consultation",
+          "included": false
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "professional",
+      "name": "Professional",
+      "description": "Ideal for established businesses with growing complexity",
+      "monthlyPrice": 649,
+      "annualPrice": 551,
+      "priceSuffix": "/mo",
+      "isMostPopular": true,
+      "features": [
+        {
+          "id": "monthly-bookkeeping",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "payroll-management",
+          "label": "Payroll processing & compliance (up to 25 employees)",
+          "included": true
+        },
+        {
+          "id": "tax-prep",
+          "label": "Annual business tax return preparation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Quarterly financial statements",
+          "included": true
+        },
+        {
+          "id": "planning-consultation",
+          "label": "Semi-annual tax & business planning",
+          "included": true
+        },
+        {
+          "id": "advisory-support",
+          "label": "Ad-hoc advisory support",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "description": "Full-service outsourced accounting for complex organizations",
+      "monthlyPrice": 1099,
+      "annualPrice": 934,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "full-accounting",
+          "label": "Complete outsourced accounting department",
+          "included": true
+        },
+        {
+          "id": "payroll-management",
+          "label": "Comprehensive payroll & HR compliance",
+          "included": true
+        },
+        {
+          "id": "tax-prep",
+          "label": "Business tax strategy & preparation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Monthly financial statements & analysis",
+          "included": true
+        },
+        {
+          "id": "planning-consultation",
+          "label": "Quarterly strategic planning sessions",
+          "included": true
+        },
+        {
+          "id": "personal-planning",
+          "label": "Personal financial & long-term care planning",
+          "included": true
+        },
+        {
+          "id": "priority-support",
+          "label": "Priority phone & email support",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    }
+  ],
+  "sharedFeatures": {
+    "heading": "All plans include",
+    "items": [
+      "Dedicated accounting professional",
+      "Secure document portal",
+      "Monthly reporting & analysis",
+      "Tax compliance guidance"
+    ]
+  },
+  "addOns": [
+    {
+      "id": "extra-employees",
+      "label": "Additional payroll employees (per 10 employees)",
+      "type": "flat",
+      "price": 75,
+      "cadence": "month"
+    },
+    {
+      "id": "individual-tax",
+      "label": "Individual tax return preparation",
+      "type": "flat",
+      "price": 250,
+      "cadence": "year"
+    },
+    {
+      "id": "ltc-planning",
+      "label": "Long-term care planning consultation",
+      "type": "flat",
+      "price": 400,
+      "cadence": "month"
+    }
+  ],
+  "disclaimer": "All plans are tailored to your specific situation—these are starting points and can be customized to fit your business needs.",
+  "cta": {
+    "label": "Book a consultation",
+    "url": "/contact"
+  }
+}
