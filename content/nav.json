@@ -23,6 +23,10 @@
         {
           "label": "Tax plus",
           "url": "/what-we-do/tax-plus"
+        },
+        {
+          "label": "Payroll Services",
+          "url": "/what-we-do/payroll-services"
         }
       ]
     },
@@ -81,10 +85,6 @@
     {
       "label": "Contact us",
       "url": "/contact"
-    },
-    {
-      "label": "Payroll Services",
-      "url": "/what-we-do/what-we-do/payroll-services"
     }
   ],
   "cta": {
