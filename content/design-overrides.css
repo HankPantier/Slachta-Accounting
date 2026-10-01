@@ -5,7 +5,7 @@
 /* design-studio:global */
 :root {
     --c5-media-grade-opacity: 0.2;
-    --c5-media-grade-fill: linear-gradient(160deg,#507282 0%,#d9a441 125%)
+    --c5-media-grade-fill: linear-gradient(160deg,var(--color-complementary) 0%,var(--color-action) 125%)
 
 
 }
@@ -38,6 +38,25 @@
 [data-block="testimonials"] blockquote {
     font-family: var(--font-accent);
     font-style: italic
+}
+[data-block="hero"] .font-accent,
+[data-block="hero-split"] .font-accent,
+[data-block="page-header"] .font-accent,
+[data-block="intro-text"] .font-accent,
+[data-block="content-split"] .font-accent,
+[data-block="content-prose"] .font-accent,
+[data-block="cta-banner"] .font-accent,
+[data-block="service-cards"] .font-accent,
+[data-block="feature-grid"] .font-accent,
+[data-block="testimonials"] .font-accent,
+[data-block="stats-bar"] .font-accent,
+[data-block="faq-accordion"] .font-accent {
+    font-weight: 300
+}
+[data-block="hero"] a[class~=bg-action],
+[data-block="hero"] a:first-of-type,
+[data-component="contact-drawer"] span {
+    color: var(--color-near-black)
 }
 /* /design-studio:global */
 /* design-studio:hero */
