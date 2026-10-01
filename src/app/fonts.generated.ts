@@ -3,9 +3,9 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Nunito_Sans, Public_Sans, Lora, Geist_Mono } from 'next/font/google'
+import { IBM_Plex_Sans, Public_Sans, Lora, Geist_Mono } from 'next/font/google'
 
-const font0 = Nunito_Sans({
+const font0 = IBM_Plex_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',

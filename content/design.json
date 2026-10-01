@@ -1,8 +1,8 @@
 {
   "typography": {
-    "headingFont": "Nunito Sans",
+    "headingFont": "IBM Plex Sans",
     "bodyFont": "Public Sans",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;700&family=Public+Sans:wght@400;500;700&family=Lora:wght@400;500;700&display=swap",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&family=Public+Sans:wght@400;500;700&family=Lora:wght@400;500;700&display=swap",
     "accentFont": "Lora"
   },
   "roundness": "soft",
