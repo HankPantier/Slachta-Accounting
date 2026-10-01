@@ -12,3 +12,22 @@
  * To regenerate: run `npm run export-brief`, paste the brief into Claude.ai
  * Design, save the returned CSS as this file, then `npm run dev`.
  */
+
+/* design-studio:begin */
+/* design-studio:global */
+[data-block="hero"] .font-accent,
+[data-block="hero-split"] .font-accent,
+[data-block="page-header"] .font-accent,
+[data-block="intro-text"] .font-accent,
+[data-block="content-split"] .font-accent,
+[data-block="content-prose"] .font-accent,
+[data-block="cta-banner"] .font-accent,
+[data-block="service-cards"] .font-accent,
+[data-block="feature-grid"] .font-accent,
+[data-block="testimonials"] .font-accent,
+[data-block="stats-bar"] .font-accent,
+[data-block="faq-accordion"] .font-accent {
+    font-weight: 300
+}
+/* /design-studio:global */
+/* design-studio:end */
