@@ -33,6 +33,5 @@
   "layout": {
     "testimonials": "featured"
   },
-  "headlineStyle": "serif",
-  "eyebrowStyle": "mono"
+  "headlineStyle": "serif"
 }
