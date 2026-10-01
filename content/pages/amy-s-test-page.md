@@ -16,9 +16,12 @@ llm_citation_note: ""
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Amy S
 
-Add your content for this page here, or use the AI editor to draft it.
+Amy focuses her CPA practice on the needs of small businesses and their owners.  As a small business owner herself, Amy understands the problems they face, not only with accounting, but with business in general  She knows the value of working hard and minimizing costs.
+
+Amy has over 20 years accounting experience with the majority of it spent in the public accounting arena providing accounting, tax and business consulting services to privately held companies and their owners.  She received her Bachelor of Accounting degree from the University of Minnesota Duluth. 
+
+Amy lives in Lake Elmo with her husband Rick and their three daughters.  When not in the office she enjoys reading, hiking, spending time with family and friends and traveling.
 
 
 ---
