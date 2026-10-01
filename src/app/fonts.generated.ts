@@ -3,9 +3,9 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Karla, Public_Sans, Lora, Geist_Mono } from 'next/font/google'
+import { Source_Serif_4, Public_Sans, Lora, Geist_Mono } from 'next/font/google'
 
-const font0 = Karla({
+const font0 = Source_Serif_4({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',
