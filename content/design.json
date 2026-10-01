@@ -31,7 +31,8 @@
     "accentUsage": "underline"
   },
   "layout": {
-    "testimonials": "featured"
+    "testimonials": "featured",
+    "faq": "split"
   },
   "headlineStyle": "serif"
 }

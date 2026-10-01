@@ -20,12 +20,12 @@
   --color-popover-foreground: hsl(203 27% 13%);
   --color-border: hsl(60 22% 90%);
   --color-input: hsl(60 22% 90%);
-  --color-ring: hsl(33 79% 34%);
+  --color-ring: hsl(33 71% 31%);
   --color-destructive: hsl(0 84% 60%);
   --color-destructive-foreground: hsl(60 23% 97%);
 
   /* Custom brand tokens — used directly by block components via var() */
-  --color-action: #9c5f12;
+  --color-action: #875517;
   --color-action-foreground: #fafaf7;
   /* Action colour for SMALL text, AA-corrected (lightness only) against the
    * rendered surfaces it sits on: -text on the canvas (background, muted,
@@ -33,11 +33,11 @@
    * in those sections (globals.css re-scopes -text there; -text-canvas keeps
    * the canvas value for light cards inside them). Each equals --color-action
    * when the raw colour already passes. */
-  --color-action-text: #9c5f12;
-  --color-action-text-canvas: #9c5f12;
-  --color-action-text-tint: #945702;
-  --color-action-on-primary: #ffeddc;
-  --color-action-on-ink: #b87934;
+  --color-action-text: #875517;
+  --color-action-text-canvas: #875517;
+  --color-action-text-tint: #875517;
+  --color-action-on-primary: #ffeddb;
+  --color-action-on-ink: #b07c42;
   --color-primary-hex: #507282;
   --color-near-black: #18232a;
   --color-near-white: #fafaf7;
@@ -108,12 +108,12 @@
   --color-popover-foreground: hsl(203 27% 13%);
   --color-border: hsl(60 22% 90%);
   --color-input: hsl(60 22% 90%);
-  --color-ring: hsl(33 79% 34%);
+  --color-ring: hsl(33 71% 31%);
   --color-destructive: hsl(0 84% 60%);
   --color-destructive-foreground: hsl(60 23% 97%);
 
   /* Custom brand tokens */
-  --color-action: #9c5f12;
+  --color-action: #875517;
   --color-action-foreground: #fafaf7;
   /* Action colour for SMALL text, AA-corrected (lightness only) against the
    * rendered surfaces it sits on: -text on the canvas (background, muted,
@@ -121,11 +121,11 @@
    * in those sections (globals.css re-scopes -text there; -text-canvas keeps
    * the canvas value for light cards inside them). Each equals --color-action
    * when the raw colour already passes. */
-  --color-action-text: #9c5f12;
-  --color-action-text-canvas: #9c5f12;
-  --color-action-text-tint: #945702;
-  --color-action-on-primary: #ffeddc;
-  --color-action-on-ink: #b87934;
+  --color-action-text: #875517;
+  --color-action-text-canvas: #875517;
+  --color-action-text-tint: #875517;
+  --color-action-on-primary: #ffeddb;
+  --color-action-on-ink: #b07c42;
   --color-primary-hex: #507282;
   --color-near-black: #18232a;
   --color-near-white: #fafaf7;
@@ -181,7 +181,7 @@
   --color-border: hsl(204 27% 24%);
   --color-input: hsl(204 27% 24%);
   /* Small action text re-corrected for the dark neutral surfaces. */
-  --color-action-text: #c58541;
-  --color-action-text-canvas: #c58541;
-  --color-action-text-tint: #c58541;
+  --color-action-text: #bd884f;
+  --color-action-text-canvas: #bd884f;
+  --color-action-text-tint: #bb864c;
 }
