@@ -5,12 +5,12 @@
   },
   "contact": {},
   "palette": {
-    "primary": "#1F3A5F",
-    "secondary": "#5A6B7B",
-    "complementary": "#C2703D",
-    "action": "#0E8C9C",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F8F8F6"
+    "primary": "#2a4b55",
+    "secondary": "#dde9e3",
+    "complementary": "#46705f",
+    "action": "#9c5f12",
+    "nearBlack": "#18232a",
+    "nearWhite": "#fafaf7"
   },
   "social": [
     {
