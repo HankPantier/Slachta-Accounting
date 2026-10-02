@@ -8,7 +8,6 @@
     --c5-media-grade-fill: linear-gradient(160deg,var(--color-complementary) 0%,var(--color-action) 125%)
 
 
-
 }
 [data-block="cta-banner"] {
     background-image: linear-gradient(120deg,var(--color-primary) 0%,var(--color-complementary) 130%)
