@@ -8,7 +8,6 @@ import { Plus_Jakarta_Sans, Public_Sans, Lora, Geist_Mono } from 'next/font/goog
 const font0 = Plus_Jakarta_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
-  style: ['normal', 'italic'],
   variable: '--font-heading-loaded',
   display: 'swap',
 })
@@ -16,14 +15,13 @@ const font0 = Plus_Jakarta_Sans({
 const font1 = Public_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
-  style: ['normal', 'italic'],
   variable: '--font-body-loaded',
   display: 'swap',
 })
 
 const font2 = Lora({
   subsets: ['latin'],
-  weight: ['400', '500', '700'],
+  weight: ['400', '500'],
   style: ['normal', 'italic'],
   variable: '--font-accent-loaded',
   display: 'swap',
@@ -40,8 +38,4 @@ const font3 = Geist_Mono({
 export const fontVariables = `${font0.variable} ${font1.variable} ${font2.variable} ${font3.variable}`
 
 /** Roles sharing a family point at the loaded variable (applied as <html style>). */
-export const fontAliases: CSSProperties = {
-  '--font-pin-lora': 'var(--font-accent-loaded)',
-  '--font-pin-plus-jakarta-sans': 'var(--font-heading-loaded)',
-  '--font-pin-public-sans': 'var(--font-body-loaded)',
-} as CSSProperties
+export const fontAliases: CSSProperties = {}
