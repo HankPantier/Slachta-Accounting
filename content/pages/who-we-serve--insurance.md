@@ -164,7 +164,6 @@ Slachta Accounting & Consulting Services, a CPA firm founded in 2005 in Stillwat
   "@type": "Organization",
   "name": "Slachta Accounting & Consulting Services LLC",
   "url": "https://www.slachtacpa.com",
-  "logo": "https://www.slachtacpa.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/slachta-accounting-and-consulting/"
   ],
